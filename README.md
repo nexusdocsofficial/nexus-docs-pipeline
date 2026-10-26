@@ -26,6 +26,7 @@ Media (mp3, mp4, jpg) staan **niet** in de repository maar op de Mac in `~/flow-
 | Woordtiming na **elke** VO-wijziging | `python3 -m pipeline.align_vo --source ruwe-vo.mp3 ruwe-vo-words.json [--source extra.mp3 extra-words.json …] --final vo-definitief.mp3 --out videos/NN/words.json` |
 | CapCut-project bouwen | `pipeline.build_capcut.build(name, shots, stems, out_dir)` (zie docstring) |
 | **Eindcontrole (verplicht vóór tonen)** | `python3 -m pipeline.qa_check --words videos/NN/words.json --capcut draft_info.json --beeldenlijst beeldenlijst.md [--video final.mp4] [--srt subs.srt] [--chapters chapters.json] --out videos/NN/qa.md` |
+| Pauzes in een VO uit één opname (alinea 0,7 s, hoofdstuk 1,8 s, geknipt op echte stilte) | `python3 -m pipeline.vo_pauses vo-script.txt raw.mp3 raw-words.json vo.mp3 videos/NN/words.json` |
 | Ondertiteling | `python3 -m pipeline.make_srt videos/NN/words.json NN-en.srt` |
 | Uploadpakket (beschrijving + hoofdstukken) | `python3 -m pipeline.describe videos/NN/video.json videos/NN/chapters.json videos/NN/upload.md` |
 | **Uploadmap lange video** | `python3 -m pipeline.upload_folder long videos/NN/video.json videos/NN/chapters.json ~/flow-mcp-out/NN-Onderwerp-UPLOAD --srt NN-en.srt --thumbs a.jpg b.jpg [--video final.mp4]` |
