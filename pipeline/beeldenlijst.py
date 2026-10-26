@@ -2,7 +2,9 @@
 
 input  videos/NN/beelden.json : {"style": {...optional overrides}, "rows": [
           {"n": "1", "anchor": "Russia is the biggest", "type": "kaart|concept|scene|label|tijdlijn|drama|card|outro",
-           "beeld": "English scene description", "era": "none|now|1700|...", "ref": ["path or n"]}]}
+           "beeld": "English scene description", "era": "none|now|1700|none@1905|...", "ref": ["path or n"]}]}
+       era "none@1905" = no people, but ships/buildings/icons must fit 1905. Use it for EVERY historical row
+       that shows ships, buildings or vehicles (also maps with ship icons).
 output videos/NN/beeldenlijst.md   (| # | Tijd | VO begint met | Type | Beeld |) - readable by qa_check
        videos/NN/prompts.json      [{n, start, end, dur, prompt, refs}]
 Warnings for stills shorter than 1.8 s or longer than 6.5 s, and anchors not found.
@@ -32,6 +34,10 @@ ERAS = {
 
 
 def era_text(e):
+    if "@" in e:   # e.g. "none@1905": no people, but ships/buildings must fit the period
+        base, period = e.split("@", 1)
+        return (era_text(base) + f" HISTORICAL ACCURACY, this is {period}: all ships, weapons and buildings "
+                f"(also small icons) are authentic for that time, no modern ships or objects.")
     if e in ERAS:
         return ERAS[e]
     return (f"HISTORICAL ACCURACY, this scene takes place in {e}: all clothing, ships, weapons and buildings are authentic "
@@ -68,7 +74,8 @@ def build(rows_file, words_file):
         if r["type"] == "outro":
             continue
         body = TYPES[r["type"]].format(b=r["beeld"].rstrip(".") + ".")
-        era = NOPEOPLE if r["type"] in ("kaart", "tijdlijn", "drama", "label") and r.get("era", "none") == "none" else era_text(r.get("era", "none"))
+        e = r.get("era", "none")
+        era = NOPEOPLE if r["type"] in ("kaart", "tijdlijn", "drama", "label") and e == "none" else era_text(e)
         prompts.append({"n": r["n"], "start": s, "end": nxt, "dur": dur, "refs": r.get("ref", []),
                         "prompt": f"{BASE} {body} {era}"})
     open(os.path.join(out_dir, "beeldenlijst.md"), "w").write("\n".join(md) + "\n")

@@ -61,7 +61,7 @@
    "anchor": "and once it sent",
    "type": "kaart",
    "beeld": "a world map with a long red dotted route of small black warship icons going from the Baltic Sea around Europe and Africa all the way to East Asia",
-   "era": "none",
+   "era": "none@1904-1905",
    "ref": []
   },
   {
@@ -407,7 +407,7 @@
    "anchor": "Russia could no longer",
    "type": "kaart",
    "beeld": "a map of the Black Sea with small warship icons crossed out in red, and a big red stamp 'NO FLEET'",
-   "era": "none",
+   "era": "none@1856",
    "ref": []
   },
   {
@@ -473,7 +473,7 @@
    "anchor": "So in eighteen ninety-eight",
    "type": "kaart",
    "beeld": "a map of north-east China, Korea and Japan with a red pin 'PORT ARTHUR' at the tip of a peninsula, open blue water around it, a small banner '1898'",
-   "era": "none",
+   "era": "none@1898",
    "ref": []
   },
   {
@@ -513,7 +513,7 @@
    "anchor": "With no short way",
    "type": "kaart",
    "beeld": "a world map with a red dotted route of small warship icons going from the Baltic Sea out around western Europe",
-   "era": "none",
+   "era": "none@1904",
    "ref": []
   },
   {
@@ -521,7 +521,7 @@
    "anchor": "around Africa, across the",
    "type": "kaart",
    "beeld": "a world map with the red dotted route of small warship icons continuing all around Africa and across the Indian Ocean",
-   "era": "none",
+   "era": "none@1904-1905",
    "ref": []
   },
   {
@@ -585,7 +585,7 @@
    "anchor": "Out of thirty-eight Russian",
    "type": "concept",
    "beeld": "38 small black warship icons in neat rows, 35 of them crossed out in red and only 3 left, bold text '3 OF 38'",
-   "era": "none",
+   "era": "none@1905",
    "ref": []
   },
   {
@@ -593,7 +593,7 @@
    "anchor": "Seven months at sea",
    "type": "drama",
    "beeld": "A torn parchment strip across the center with bold text 'TSUSHIMA 1905', a faint silhouette of a sinking battleship",
-   "era": "none",
+   "era": "none@1905",
    "ref": []
   },
   {
@@ -617,7 +617,7 @@
    "anchor": "Russia's Baltic and Black",
    "type": "kaart",
    "beeld": "a map of Europe in 1915 with the Baltic Sea blocked by German warship icons and the Bosporus blocked by an Ottoman barrier, both marked with big red X's",
-   "era": "none",
+   "era": "none@1915",
    "ref": []
   },
   {
