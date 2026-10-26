@@ -1,0 +1,10 @@
+*.mp3
+*.mp4
+*.m4a
+*.wav
+*.jpg
+*.jpeg
+*.png
+*.raw
+__pycache__/
+*.ass

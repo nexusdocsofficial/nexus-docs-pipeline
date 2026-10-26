@@ -1,0 +1,10 @@
+{
+ "src": "/mnt/user-data/uploads/Downloads/02-afrika-grenzen-final-v3.mp4",
+ "words": "/home/claude/shorts/diar.json",
+ "out": "/home/claude/shorts/regress",
+ "shorts": {
+  "A": {"file": "02-short-A-berlin-myth", "title": ["WHO REALLY DREW", "AFRICA'S BORDERS?"], "parts": [["s1", "s7", null], ["s21", "s24", 97.14]]},
+  "B": {"file": "02-short-B-straight-lines", "title": ["WHY ARE AFRICA'S", "BORDERS SO STRAIGHT?"], "parts": [["s27", "s31", 126.50]]},
+  "C": {"file": "02-short-C-caprivi-strip", "title": ["GERMANY'S BORDER", "TO NOWHERE"], "parts": [["s32", "s41", 162.84]]}
+ }
+}

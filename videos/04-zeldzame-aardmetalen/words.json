@@ -1,0 +1,9130 @@
+[
+ {
+  "w": "There's",
+  "start": 0.105,
+  "end": 0.245,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "a",
+  "start": 0.305,
+  "end": 0.365,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "tiny",
+  "start": 0.445,
+  "end": 0.745,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "magnet",
+  "start": 0.885,
+  "end": 1.345,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "inside",
+  "start": 1.405,
+  "end": 1.785,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "your",
+  "start": 1.825,
+  "end": 1.885,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "phone.",
+  "start": 2.005,
+  "end": 2.365,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "There's",
+  "start": 2.805,
+  "end": 3.005,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "one",
+  "start": 3.045,
+  "end": 3.145,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "in",
+  "start": 3.185,
+  "end": 3.265,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "your",
+  "start": 3.305,
+  "end": 3.405,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "earbuds,",
+  "start": 3.465,
+  "end": 3.945,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "and",
+  "start": 4.085,
+  "end": 4.205,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "a",
+  "start": 4.245,
+  "end": 4.285,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "few",
+  "start": 4.365,
+  "end": 4.505,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "dozen",
+  "start": 4.665,
+  "end": 4.965,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "in",
+  "start": 5.005,
+  "end": 5.085,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "your",
+  "start": 5.125,
+  "end": 5.245,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "car,",
+  "start": 5.305,
+  "end": 5.605,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "moving",
+  "start": 5.945,
+  "end": 6.185,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 6.225,
+  "end": 6.325,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "seats,",
+  "start": 6.385,
+  "end": 6.745,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 6.965,
+  "end": 7.045,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "mirrors,",
+  "start": 7.105,
+  "end": 7.525,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "even",
+  "start": 7.845,
+  "end": 8.005,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 8.044,
+  "end": 8.145,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "windshield",
+  "start": 8.185,
+  "end": 8.645,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "wipers.",
+  "start": 8.685,
+  "end": 9.085,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Almost",
+  "start": 9.685,
+  "end": 10.105,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "every",
+  "start": 10.205,
+  "end": 10.445,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "one",
+  "start": 10.605,
+  "end": 10.685,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "of",
+  "start": 10.745,
+  "end": 10.825,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "those",
+  "start": 10.865,
+  "end": 11.085,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "magnets",
+  "start": 11.165,
+  "end": 11.645,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "passes",
+  "start": 11.705,
+  "end": 12.085,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "through",
+  "start": 12.105,
+  "end": 12.425,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "one",
+  "start": 12.545,
+  "end": 12.685,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "country.",
+  "start": 12.805,
+  "end": 13.245,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "In",
+  "start": 13.785,
+  "end": 13.865,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "twenty",
+  "start": 13.925,
+  "end": 14.105,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "twenty-five,",
+  "start": 14.205,
+  "end": 14.845,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "that",
+  "start": 15.145,
+  "end": 15.325,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "country",
+  "start": 15.385,
+  "end": 15.705,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "slowed",
+  "start": 15.905,
+  "end": 16.224,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "down",
+  "start": 16.285,
+  "end": 16.525,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 16.565,
+  "end": 16.645,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "supply.",
+  "start": 16.685,
+  "end": 17.165,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "And",
+  "start": 17.645,
+  "end": 17.725,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "a",
+  "start": 17.765,
+  "end": 17.805,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "few",
+  "start": 17.865,
+  "end": 18.005,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "weeks",
+  "start": 18.045,
+  "end": 18.245,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "later,",
+  "start": 18.305,
+  "end": 18.565,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Ford",
+  "start": 19.065,
+  "end": 19.385,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "had",
+  "start": 19.425,
+  "end": 19.525,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "to",
+  "start": 19.585,
+  "end": 19.685,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "shut",
+  "start": 19.765,
+  "end": 19.985,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "down",
+  "start": 20.045,
+  "end": 20.205,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "a",
+  "start": 20.245,
+  "end": 20.305,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "car",
+  "start": 20.385,
+  "end": 20.605,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "factory",
+  "start": 20.685,
+  "end": 21.065,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "in",
+  "start": 21.105,
+  "end": 21.185,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Chicago.",
+  "start": 21.225,
+  "end": 21.765,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "So",
+  "start": 22.405,
+  "end": 22.625,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "how",
+  "start": 22.705,
+  "end": 22.825,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "did",
+  "start": 22.865,
+  "end": 22.965,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 23.005,
+  "end": 23.105,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "whole",
+  "start": 23.205,
+  "end": 23.485,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "world",
+  "start": 23.545,
+  "end": 23.905,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "end",
+  "start": 23.965,
+  "end": 24.105,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "up",
+  "start": 24.165,
+  "end": 24.245,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "depending",
+  "start": 24.285,
+  "end": 24.765,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "on",
+  "start": 24.825,
+  "end": 25.045,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "one",
+  "start": 25.185,
+  "end": 25.305,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "country",
+  "start": 25.445,
+  "end": 25.925,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "for",
+  "start": 25.965,
+  "end": 26.085,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "something",
+  "start": 26.125,
+  "end": 26.565,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "this",
+  "start": 26.625,
+  "end": 26.805,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "small?",
+  "start": 26.905,
+  "end": 27.265,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "The",
+  "start": 27.865,
+  "end": 27.945,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "story",
+  "start": 28.025,
+  "end": 28.325,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "starts",
+  "start": 28.385,
+  "end": 28.825,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "in",
+  "start": 28.885,
+  "end": 28.945,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "a",
+  "start": 29.005,
+  "end": 29.085,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "desert",
+  "start": 29.145,
+  "end": 29.625,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "in",
+  "start": 29.705,
+  "end": 29.805,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "California.",
+  "start": 29.885,
+  "end": 30.545,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "it?",
+  "start": 31.361,
+  "end": 31.481,
+  "score": 0.58,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Chapter",
+  "start": 32.405,
+  "end": 32.705,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "One:",
+  "start": 32.885,
+  "end": 33.065,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "The",
+  "start": 33.585,
+  "end": 33.705,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Pinch",
+  "start": 33.785,
+  "end": 34.165,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "of",
+  "start": 34.225,
+  "end": 34.285,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Salt.",
+  "start": 35.145,
+  "end": 35.485,
+  "score": 0.92,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Those",
+  "start": 36.405,
+  "end": 36.625,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "magnets",
+  "start": 36.685,
+  "end": 37.185,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "are",
+  "start": 37.245,
+  "end": 37.325,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "made",
+  "start": 37.385,
+  "end": 37.605,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "with",
+  "start": 37.625,
+  "end": 37.725,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "a",
+  "start": 37.765,
+  "end": 37.805,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "group",
+  "start": 37.865,
+  "end": 38.065,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "of",
+  "start": 38.125,
+  "end": 38.245,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "seventeen",
+  "start": 38.345,
+  "end": 38.905,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "metals",
+  "start": 38.965,
+  "end": 39.365,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "called",
+  "start": 39.445,
+  "end": 39.785,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "rare",
+  "start": 39.945,
+  "end": 40.265,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "earths.",
+  "start": 40.345,
+  "end": 40.745,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Names",
+  "start": 41.185,
+  "end": 41.485,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "like",
+  "start": 41.545,
+  "end": 41.825,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "neodymium,",
+  "start": 41.905,
+  "end": 42.565,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "dysprosium,",
+  "start": 42.805,
+  "end": 43.485,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "and",
+  "start": 43.645,
+  "end": 43.765,
+  "score": 0.9,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "terbium.",
+  "start": 43.845,
+  "end": 44.325,
+  "score": 0.66,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "You've",
+  "start": 45.055,
+  "end": 45.235,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "probably",
+  "start": 45.275,
+  "end": 45.675,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "never",
+  "start": 45.715,
+  "end": 45.915,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "heard",
+  "start": 45.975,
+  "end": 46.115,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "of",
+  "start": 46.155,
+  "end": 46.235,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "them.",
+  "start": 46.275,
+  "end": 46.415,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "But",
+  "start": 46.875,
+  "end": 47.035,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "think",
+  "start": 47.095,
+  "end": 47.255,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "of",
+  "start": 47.295,
+  "end": 47.355,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "them",
+  "start": 47.395,
+  "end": 47.535,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "like",
+  "start": 47.575,
+  "end": 47.855,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "salt",
+  "start": 47.975,
+  "end": 48.295,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "in",
+  "start": 48.355,
+  "end": 48.415,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "a",
+  "start": 48.455,
+  "end": 48.535,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "soup.",
+  "start": 48.615,
+  "end": 48.895,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "You",
+  "start": 49.335,
+  "end": 49.395,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "only",
+  "start": 49.475,
+  "end": 49.655,
+  "score": 0.98,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "need",
+  "start": 49.695,
+  "end": 49.815,
+  "score": 0.88,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "a",
+  "start": 50.105,
+  "end": 50.185,
+  "score": 0.7,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "pinch,",
+  "start": 50.265,
+  "end": 50.625,
+  "score": 0.88,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "but",
+  "start": 51.025,
+  "end": 51.125,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "without",
+  "start": 51.165,
+  "end": 51.465,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "it,",
+  "start": 51.505,
+  "end": 51.605,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "nothing",
+  "start": 52.045,
+  "end": 52.405,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "works",
+  "start": 52.465,
+  "end": 52.725,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "quite",
+  "start": 53.035,
+  "end": 53.235,
+  "score": 0.91,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "right.",
+  "start": 53.295,
+  "end": 53.495,
+  "score": 0.98,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Add",
+  "start": 54.195,
+  "end": 54.335,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "a",
+  "start": 54.395,
+  "end": 54.415,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "little",
+  "start": 54.455,
+  "end": 54.675,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "neodymium",
+  "start": 54.755,
+  "end": 55.435,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "to",
+  "start": 55.495,
+  "end": 55.595,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "iron,",
+  "start": 55.715,
+  "end": 55.995,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "and",
+  "start": 56.315,
+  "end": 56.435,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "you",
+  "start": 56.495,
+  "end": 56.555,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "get",
+  "start": 56.595,
+  "end": 56.735,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 56.775,
+  "end": 56.895,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "strongest",
+  "start": 57.035,
+  "end": 57.575,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "magnets",
+  "start": 57.635,
+  "end": 58.095,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "on",
+  "start": 58.425,
+  "end": 58.645,
+  "score": 0.78,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Earth,",
+  "start": 58.725,
+  "end": 59.025,
+  "score": 0.96,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "small",
+  "start": 59.585,
+  "end": 59.785,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "enough",
+  "start": 59.845,
+  "end": 60.065,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "to",
+  "start": 60.105,
+  "end": 60.205,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "fit",
+  "start": 60.265,
+  "end": 60.365,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "in",
+  "start": 60.405,
+  "end": 60.485,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "your",
+  "start": 60.525,
+  "end": 60.625,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "earbuds,",
+  "start": 60.705,
+  "end": 61.185,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "strong",
+  "start": 61.565,
+  "end": 61.825,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "enough",
+  "start": 61.885,
+  "end": 62.125,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "to",
+  "start": 62.165,
+  "end": 62.285,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "spin",
+  "start": 62.405,
+  "end": 62.585,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 62.625,
+  "end": 62.705,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "motor",
+  "start": 62.765,
+  "end": 63.025,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "of",
+  "start": 63.085,
+  "end": 63.145,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "an",
+  "start": 63.185,
+  "end": 63.245,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "electric",
+  "start": 63.305,
+  "end": 63.705,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "car",
+  "start": 63.785,
+  "end": 64.165,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "or",
+  "start": 64.225,
+  "end": 64.285,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "a",
+  "start": 64.365,
+  "end": 64.485,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "giant",
+  "start": 64.585,
+  "end": 64.945,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "wind",
+  "start": 65.025,
+  "end": 65.245,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "turbine.",
+  "start": 65.305,
+  "end": 65.765,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Fighter",
+  "start": 66.305,
+  "end": 66.565,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "jets,",
+  "start": 66.625,
+  "end": 66.925,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "missiles,",
+  "start": 67.185,
+  "end": 67.584,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "and",
+  "start": 67.685,
+  "end": 67.825,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "satellites",
+  "start": 67.925,
+  "end": 68.505,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "need",
+  "start": 68.565,
+  "end": 68.685,
+  "score": 0.91,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "them",
+  "start": 68.725,
+  "end": 68.865,
+  "score": 0.82,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "too.",
+  "start": 69.195,
+  "end": 69.435,
+  "score": 0.74,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "And",
+  "start": 70.095,
+  "end": 70.195,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "here's",
+  "start": 70.255,
+  "end": 70.455,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 70.515,
+  "end": 70.595,
+  "score": 0.88,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "strange",
+  "start": 70.695,
+  "end": 70.995,
+  "score": 0.67,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "part.",
+  "start": 71.365,
+  "end": 71.585,
+  "score": 0.98,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Rare",
+  "start": 72.105,
+  "end": 72.325,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "earths",
+  "start": 72.425,
+  "end": 72.885,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "aren't",
+  "start": 72.965,
+  "end": 73.265,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "actually",
+  "start": 73.365,
+  "end": 73.865,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "rare.",
+  "start": 74.195,
+  "end": 74.535,
+  "score": 0.86,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Some",
+  "start": 75.035,
+  "end": 75.255,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "are",
+  "start": 75.295,
+  "end": 75.375,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "about",
+  "start": 75.455,
+  "end": 75.635,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "as",
+  "start": 75.675,
+  "end": 75.775,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "common",
+  "start": 75.855,
+  "end": 76.115,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "as",
+  "start": 76.175,
+  "end": 76.275,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "copper.",
+  "start": 76.355,
+  "end": 76.715,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "The",
+  "start": 77.215,
+  "end": 77.315,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "problem",
+  "start": 77.375,
+  "end": 77.915,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "is",
+  "start": 77.975,
+  "end": 78.055,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "that",
+  "start": 78.095,
+  "end": 78.195,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "they're",
+  "start": 78.215,
+  "end": 78.375,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "spread",
+  "start": 78.495,
+  "end": 78.835,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "thinly",
+  "start": 78.915,
+  "end": 79.315,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "through",
+  "start": 79.355,
+  "end": 79.515,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 79.535,
+  "end": 79.615,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "rock",
+  "start": 79.675,
+  "end": 80.155,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "and",
+  "start": 80.215,
+  "end": 80.375,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "always",
+  "start": 80.495,
+  "end": 80.855,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "mixed",
+  "start": 80.915,
+  "end": 81.155,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "up",
+  "start": 81.485,
+  "end": 81.585,
+  "score": 0.75,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "with",
+  "start": 81.625,
+  "end": 81.725,
+  "score": 0.93,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "each",
+  "start": 81.745,
+  "end": 81.865,
+  "score": 0.96,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "other.",
+  "start": 81.945,
+  "end": 82.205,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Imagine",
+  "start": 82.765,
+  "end": 83.085,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "a",
+  "start": 83.125,
+  "end": 83.185,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "bag",
+  "start": 83.225,
+  "end": 83.445,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "of",
+  "start": 83.485,
+  "end": 83.605,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "sugar,",
+  "start": 83.705,
+  "end": 83.985,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "salt,",
+  "start": 84.245,
+  "end": 84.485,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "and",
+  "start": 84.585,
+  "end": 84.665,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "flour",
+  "start": 84.825,
+  "end": 85.325,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "all",
+  "start": 85.445,
+  "end": 85.645,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "stirred",
+  "start": 85.745,
+  "end": 85.985,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "together,",
+  "start": 86.025,
+  "end": 86.385,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "and",
+  "start": 86.745,
+  "end": 86.845,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "someone",
+  "start": 86.905,
+  "end": 87.165,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "asks",
+  "start": 87.245,
+  "end": 87.485,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "you",
+  "start": 87.545,
+  "end": 87.625,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "to",
+  "start": 87.665,
+  "end": 87.785,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "sort",
+  "start": 87.865,
+  "end": 88.005,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "it",
+  "start": 88.045,
+  "end": 88.145,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "back",
+  "start": 88.205,
+  "end": 88.465,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "into",
+  "start": 88.525,
+  "end": 88.745,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "three",
+  "start": 88.825,
+  "end": 89.065,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "perfect",
+  "start": 89.245,
+  "end": 89.645,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "piles.",
+  "start": 89.955,
+  "end": 90.395,
+  "score": 0.85,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "That's",
+  "start": 90.935,
+  "end": 91.255,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "what",
+  "start": 91.295,
+  "end": 91.455,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "separating",
+  "start": 91.535,
+  "end": 92.075,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "rare",
+  "start": 92.135,
+  "end": 92.355,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "earths",
+  "start": 92.415,
+  "end": 92.695,
+  "score": 0.96,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "is",
+  "start": 93.005,
+  "end": 93.125,
+  "score": 0.71,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "like,",
+  "start": 93.165,
+  "end": 93.425,
+  "score": 0.84,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "except",
+  "start": 93.905,
+  "end": 94.545,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "there",
+  "start": 94.605,
+  "end": 94.705,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "are",
+  "start": 94.745,
+  "end": 94.925,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "seventeen",
+  "start": 95.025,
+  "end": 95.845,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "piles.",
+  "start": 96.175,
+  "end": 96.615,
+  "score": 0.95,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Digging",
+  "start": 97.295,
+  "end": 97.515,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "them",
+  "start": 97.555,
+  "end": 97.655,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "up",
+  "start": 97.775,
+  "end": 97.915,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "is",
+  "start": 97.955,
+  "end": 98.055,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 98.095,
+  "end": 98.175,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "easy",
+  "start": 98.255,
+  "end": 98.495,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "part.",
+  "start": 98.555,
+  "end": 98.775,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Separating",
+  "start": 99.295,
+  "end": 99.815,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "them",
+  "start": 99.855,
+  "end": 100.135,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "is",
+  "start": 100.215,
+  "end": 100.295,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 100.335,
+  "end": 100.415,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "hard",
+  "start": 100.475,
+  "end": 100.715,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "part.",
+  "start": 100.775,
+  "end": 101.015,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Keep",
+  "start": 101.515,
+  "end": 101.675,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "that",
+  "start": 101.715,
+  "end": 101.815,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "in",
+  "start": 101.875,
+  "end": 101.955,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "mind",
+  "start": 101.995,
+  "end": 102.555,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "because",
+  "start": 102.615,
+  "end": 102.875,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "it's",
+  "start": 102.955,
+  "end": 103.095,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 103.135,
+  "end": 103.255,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "key",
+  "start": 103.355,
+  "end": 103.635,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "to",
+  "start": 103.675,
+  "end": 103.755,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "this",
+  "start": 103.795,
+  "end": 103.975,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "whole",
+  "start": 104.075,
+  "end": 104.375,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "story.",
+  "start": 105.455,
+  "end": 105.815,
+  "score": 0.84,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Chapter",
+  "start": 106.695,
+  "end": 107.035,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Two:",
+  "start": 107.115,
+  "end": 107.375,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "America's",
+  "start": 107.895,
+  "end": 108.515,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Mine.",
+  "start": 108.575,
+  "end": 108.955,
+  "score": 0.98,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "In",
+  "start": 110.655,
+  "end": 110.735,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "nineteen",
+  "start": 110.775,
+  "end": 111.175,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "forty-nine,",
+  "start": 111.235,
+  "end": 111.775,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "prospectors",
+  "start": 112.095,
+  "end": 112.715,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "in",
+  "start": 112.755,
+  "end": 112.795,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 112.835,
+  "end": 112.875,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Mojave",
+  "start": 112.935,
+  "end": 113.375,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Desert",
+  "start": 113.455,
+  "end": 113.815,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "were",
+  "start": 113.855,
+  "end": 113.955,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "looking",
+  "start": 114.015,
+  "end": 114.295,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "for",
+  "start": 114.335,
+  "end": 114.455,
+  "score": 0.92,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "uranium.",
+  "start": 114.535,
+  "end": 115.075,
+  "score": 0.67,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Their",
+  "start": 115.785,
+  "end": 115.945,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Geiger",
+  "start": 115.985,
+  "end": 116.305,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "counters",
+  "start": 116.365,
+  "end": 116.705,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "started",
+  "start": 116.765,
+  "end": 117.065,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "clicking,",
+  "start": 117.145,
+  "end": 117.485,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "but",
+  "start": 118.005,
+  "end": 118.085,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "it",
+  "start": 118.125,
+  "end": 118.245,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "wasn't",
+  "start": 118.345,
+  "end": 118.685,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "uranium.",
+  "start": 118.765,
+  "end": 119.285,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "It",
+  "start": 119.725,
+  "end": 119.805,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "was",
+  "start": 119.845,
+  "end": 119.985,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "one",
+  "start": 120.065,
+  "end": 120.145,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "of",
+  "start": 120.185,
+  "end": 120.245,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 120.305,
+  "end": 120.445,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "richest",
+  "start": 120.525,
+  "end": 120.985,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "rare",
+  "start": 121.065,
+  "end": 121.325,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "earth",
+  "start": 121.385,
+  "end": 121.585,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "deposits",
+  "start": 121.625,
+  "end": 122.285,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "ever",
+  "start": 122.365,
+  "end": 122.625,
+  "score": 0.87,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "found.",
+  "start": 122.975,
+  "end": 123.335,
+  "score": 0.87,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "The",
+  "start": 123.775,
+  "end": 123.855,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "place",
+  "start": 123.895,
+  "end": 124.195,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "was",
+  "start": 124.255,
+  "end": 124.375,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "called",
+  "start": 124.435,
+  "end": 124.735,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Mountain",
+  "start": 124.995,
+  "end": 125.335,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Pass.",
+  "start": 125.725,
+  "end": 126.145,
+  "score": 0.9,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Then",
+  "start": 126.885,
+  "end": 127.185,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "came",
+  "start": 127.265,
+  "end": 127.485,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "color",
+  "start": 127.565,
+  "end": 127.825,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "television.",
+  "start": 127.885,
+  "end": 128.425,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "The",
+  "start": 128.845,
+  "end": 128.965,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "bright",
+  "start": 129.045,
+  "end": 129.345,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "red",
+  "start": 129.425,
+  "end": 129.625,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "on",
+  "start": 129.685,
+  "end": 129.765,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "those",
+  "start": 129.825,
+  "end": 130.005,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "screens",
+  "start": 130.105,
+  "end": 130.565,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "needed",
+  "start": 130.625,
+  "end": 130.825,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "a",
+  "start": 130.905,
+  "end": 130.965,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "rare",
+  "start": 131.025,
+  "end": 131.265,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "earth",
+  "start": 131.345,
+  "end": 131.585,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "called",
+  "start": 131.645,
+  "end": 131.985,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "europium,",
+  "start": 132.065,
+  "end": 132.665,
+  "score": 0.8,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "and",
+  "start": 133.375,
+  "end": 133.515,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Mountain",
+  "start": 133.575,
+  "end": 133.875,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Pass",
+  "start": 133.995,
+  "end": 134.415,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "had",
+  "start": 134.475,
+  "end": 134.695,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "plenty.",
+  "start": 134.775,
+  "end": 135.235,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Until",
+  "start": 135.735,
+  "end": 136.015,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 136.055,
+  "end": 136.155,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "early",
+  "start": 136.215,
+  "end": 136.455,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "nineteen",
+  "start": 136.495,
+  "end": 136.854,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "eighties,",
+  "start": 136.914,
+  "end": 137.235,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "this",
+  "start": 137.574,
+  "end": 137.854,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "one",
+  "start": 137.975,
+  "end": 138.155,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "mine",
+  "start": 138.215,
+  "end": 138.475,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "in",
+  "start": 138.535,
+  "end": 138.615,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "California",
+  "start": 138.675,
+  "end": 139.355,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "supplied",
+  "start": 139.415,
+  "end": 139.815,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "around",
+  "start": 139.875,
+  "end": 140.195,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "seventy",
+  "start": 140.315,
+  "end": 140.635,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "percent",
+  "start": 140.735,
+  "end": 141.275,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "of",
+  "start": 141.335,
+  "end": 141.415,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 141.455,
+  "end": 141.575,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "world's",
+  "start": 141.635,
+  "end": 142.015,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "rare",
+  "start": 142.095,
+  "end": 142.355,
+  "score": 0.84,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "earths.",
+  "start": 142.685,
+  "end": 143.025,
+  "score": 0.92,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "For",
+  "start": 143.505,
+  "end": 143.685,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "decades,",
+  "start": 143.765,
+  "end": 144.265,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "America",
+  "start": 144.525,
+  "end": 145.205,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "owned",
+  "start": 145.305,
+  "end": 145.585,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 145.645,
+  "end": 145.725,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "salt",
+  "start": 145.805,
+  "end": 146.025,
+  "score": 0.75,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "shaker.",
+  "start": 146.315,
+  "end": 146.655,
+  "score": 0.89,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "So",
+  "start": 147.295,
+  "end": 147.735,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "how",
+  "start": 147.815,
+  "end": 147.935,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "did",
+  "start": 147.975,
+  "end": 148.055,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "it",
+  "start": 148.095,
+  "end": 148.215,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "lose",
+  "start": 148.315,
+  "end": 148.555,
+  "score": 0.96,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Remember",
+  "start": 149.915,
+  "end": 150.195,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 150.235,
+  "end": 150.315,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "hard",
+  "start": 150.375,
+  "end": 150.575,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "part,",
+  "start": 150.675,
+  "end": 150.895,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 151.175,
+  "end": 151.275,
+  "score": 0.94,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "separating?",
+  "start": 151.335,
+  "end": 151.835,
+  "score": 0.82,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "It's",
+  "start": 152.605,
+  "end": 152.825,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "dirty",
+  "start": 152.905,
+  "end": 153.185,
+  "score": 0.71,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "work.",
+  "start": 153.495,
+  "end": 153.775,
+  "score": 0.89,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Rare",
+  "start": 154.355,
+  "end": 154.575,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "earths",
+  "start": 154.655,
+  "end": 154.975,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "are",
+  "start": 155.035,
+  "end": 155.175,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "so",
+  "start": 155.275,
+  "end": 155.415,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "alike",
+  "start": 155.495,
+  "end": 155.955,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "that",
+  "start": 156.015,
+  "end": 156.095,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "they",
+  "start": 156.135,
+  "end": 156.215,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "have",
+  "start": 156.275,
+  "end": 156.435,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "to",
+  "start": 156.475,
+  "end": 156.535,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "be",
+  "start": 156.575,
+  "end": 156.735,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "pulled",
+  "start": 156.815,
+  "end": 157.015,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "apart",
+  "start": 157.075,
+  "end": 157.555,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "step",
+  "start": 157.695,
+  "end": 157.975,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "by",
+  "start": 158.015,
+  "end": 158.195,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "step,",
+  "start": 158.295,
+  "end": 158.575,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "sometimes",
+  "start": 158.975,
+  "end": 159.455,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "hundreds",
+  "start": 159.555,
+  "end": 159.955,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "of",
+  "start": 159.995,
+  "end": 160.055,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "times",
+  "start": 160.115,
+  "end": 160.395,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "over.",
+  "start": 160.475,
+  "end": 160.715,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "It",
+  "start": 161.215,
+  "end": 161.295,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "takes",
+  "start": 161.355,
+  "end": 161.655,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "huge",
+  "start": 161.775,
+  "end": 162.075,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "amounts",
+  "start": 162.155,
+  "end": 162.415,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "of",
+  "start": 162.455,
+  "end": 162.555,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "acid,",
+  "start": 162.675,
+  "end": 162.975,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "and",
+  "start": 163.295,
+  "end": 163.355,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "it",
+  "start": 163.395,
+  "end": 163.475,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "leaves",
+  "start": 163.515,
+  "end": 163.755,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "behind",
+  "start": 163.795,
+  "end": 164.175,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "waste",
+  "start": 164.275,
+  "end": 164.675,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "that",
+  "start": 164.715,
+  "end": 164.795,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "is",
+  "start": 164.835,
+  "end": 164.975,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "slightly",
+  "start": 165.075,
+  "end": 165.435,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "radioactive.",
+  "start": 165.495,
+  "end": 166.255,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Think",
+  "start": 167.085,
+  "end": 167.205,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "of",
+  "start": 167.245,
+  "end": 167.305,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "it",
+  "start": 167.345,
+  "end": 167.445,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "like",
+  "start": 167.505,
+  "end": 167.745,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "a",
+  "start": 167.805,
+  "end": 167.925,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "big",
+  "start": 167.965,
+  "end": 168.205,
+  "score": 0.93,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "dinner",
+  "start": 168.515,
+  "end": 168.755,
+  "score": 0.73,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "party.",
+  "start": 168.795,
+  "end": 169.095,
+  "score": 0.95,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Everyone",
+  "start": 169.615,
+  "end": 170.035,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "wants",
+  "start": 170.075,
+  "end": 170.295,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "to",
+  "start": 170.335,
+  "end": 170.435,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "eat.",
+  "start": 170.495,
+  "end": 170.675,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Nobody",
+  "start": 170.955,
+  "end": 171.375,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "wants",
+  "start": 171.435,
+  "end": 171.675,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "to",
+  "start": 171.715,
+  "end": 171.795,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "do",
+  "start": 171.835,
+  "end": 171.935,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 171.975,
+  "end": 172.115,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "dishes.",
+  "start": 172.175,
+  "end": 172.635,
+  "score": 0.76,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "At",
+  "start": 173.665,
+  "end": 173.765,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Mountain",
+  "start": 173.825,
+  "end": 174.085,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Pass,",
+  "start": 174.205,
+  "end": 174.585,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 174.825,
+  "end": 174.925,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "dishes",
+  "start": 174.985,
+  "end": 175.345,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "started",
+  "start": 175.405,
+  "end": 175.665,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "to",
+  "start": 175.725,
+  "end": 175.825,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "pile",
+  "start": 175.905,
+  "end": 176.205,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "up.",
+  "start": 176.305,
+  "end": 176.465,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Between",
+  "start": 176.985,
+  "end": 177.285,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "nineteen",
+  "start": 177.345,
+  "end": 177.705,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "eighty-four",
+  "start": 177.765,
+  "end": 178.345,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "and",
+  "start": 178.385,
+  "end": 178.485,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "nineteen",
+  "start": 178.545,
+  "end": 178.925,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "ninety-eight,",
+  "start": 178.985,
+  "end": 179.525,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "there",
+  "start": 179.765,
+  "end": 179.865,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "were",
+  "start": 179.905,
+  "end": 180.025,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "around",
+  "start": 180.105,
+  "end": 180.485,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "sixty",
+  "start": 180.605,
+  "end": 180.945,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "spills",
+  "start": 181.125,
+  "end": 181.445,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "of",
+  "start": 181.505,
+  "end": 181.585,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "wastewater,",
+  "start": 181.625,
+  "end": 182.205,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "some",
+  "start": 182.645,
+  "end": 182.765,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "of",
+  "start": 182.825,
+  "end": 182.885,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "them",
+  "start": 182.925,
+  "end": 183.125,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "never",
+  "start": 183.205,
+  "end": 183.445,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "reported.",
+  "start": 183.485,
+  "end": 183.965,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Hundreds",
+  "start": 184.525,
+  "end": 184.965,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "of",
+  "start": 185.045,
+  "end": 185.205,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "thousands",
+  "start": 185.325,
+  "end": 185.765,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "of",
+  "start": 185.805,
+  "end": 185.905,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "gallons",
+  "start": 185.965,
+  "end": 186.405,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "ended",
+  "start": 186.485,
+  "end": 186.705,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "up",
+  "start": 186.765,
+  "end": 186.865,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "in",
+  "start": 186.905,
+  "end": 186.945,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 186.985,
+  "end": 187.065,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "desert.",
+  "start": 187.105,
+  "end": 187.445,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "New",
+  "start": 188.065,
+  "end": 188.245,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "rules",
+  "start": 188.305,
+  "end": 188.705,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "made",
+  "start": 188.745,
+  "end": 188.925,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "cleaning",
+  "start": 189.005,
+  "end": 189.305,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "up",
+  "start": 189.405,
+  "end": 189.565,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "expensive,",
+  "start": 189.645,
+  "end": 190.305,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "and",
+  "start": 190.925,
+  "end": 191.105,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "somewhere",
+  "start": 191.165,
+  "end": 191.465,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "else,",
+  "start": 191.545,
+  "end": 191.805,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "someone",
+  "start": 192.245,
+  "end": 192.545,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "was",
+  "start": 192.585,
+  "end": 192.705,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "offering",
+  "start": 192.785,
+  "end": 193.105,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "to",
+  "start": 193.145,
+  "end": 193.225,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "do",
+  "start": 193.265,
+  "end": 193.365,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 193.405,
+  "end": 193.485,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "dishes",
+  "start": 193.545,
+  "end": 193.965,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "for",
+  "start": 194.025,
+  "end": 194.145,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "much",
+  "start": 194.285,
+  "end": 194.525,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "less.",
+  "start": 194.605,
+  "end": 194.925,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "In",
+  "start": 195.565,
+  "end": 195.645,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "two",
+  "start": 195.725,
+  "end": 195.865,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "thousand",
+  "start": 195.905,
+  "end": 196.245,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "two,",
+  "start": 196.325,
+  "end": 196.565,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "after",
+  "start": 196.925,
+  "end": 197.145,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "another",
+  "start": 197.205,
+  "end": 197.585,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "toxic",
+  "start": 197.665,
+  "end": 198.005,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "spill,",
+  "start": 198.105,
+  "end": 198.325,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Mountain",
+  "start": 198.845,
+  "end": 199.105,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Pass",
+  "start": 199.225,
+  "end": 199.585,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "closed,",
+  "start": 199.665,
+  "end": 200.125,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "and",
+  "start": 200.685,
+  "end": 200.765,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 200.805,
+  "end": 200.885,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "world's",
+  "start": 200.925,
+  "end": 201.245,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "kitchen",
+  "start": 201.305,
+  "end": 201.905,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "moved",
+  "start": 202.005,
+  "end": 202.265,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "to",
+  "start": 202.305,
+  "end": 202.405,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "China.",
+  "start": 202.485,
+  "end": 202.925,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Chapter",
+  "start": 204.595,
+  "end": 204.955,
+  "score": 0.99,
+  "src": "chapters.mp3"
+ },
+ {
+  "w": "three:",
+  "start": 205.015,
+  "end": 205.355,
+  "score": 1.0,
+  "src": "chapters.mp3"
+ },
+ {
+  "w": "China's",
+  "start": 205.955,
+  "end": 206.455,
+  "score": 1.0,
+  "src": "chapters.mp3"
+ },
+ {
+  "w": "Long",
+  "start": 206.595,
+  "end": 206.855,
+  "score": 1.0,
+  "src": "chapters.mp3"
+ },
+ {
+  "w": "Game.",
+  "start": 207.54,
+  "end": 207.88,
+  "score": 0.84,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "In",
+  "start": 208.82,
+  "end": 208.92,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Northern",
+  "start": 208.98,
+  "end": 209.34,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "China,",
+  "start": 209.4,
+  "end": 209.74,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "near",
+  "start": 210.0,
+  "end": 210.14,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 210.18,
+  "end": 210.28,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "city",
+  "start": 210.34,
+  "end": 210.54,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "of",
+  "start": 210.6,
+  "end": 210.7,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Baotou,",
+  "start": 210.76,
+  "end": 211.32,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "lies",
+  "start": 211.64,
+  "end": 211.86,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "an",
+  "start": 211.9,
+  "end": 212.04,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "even",
+  "start": 212.14,
+  "end": 212.5,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "bigger",
+  "start": 212.54,
+  "end": 212.76,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "deposit",
+  "start": 212.8,
+  "end": 213.28,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "than",
+  "start": 213.32,
+  "end": 213.44,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Mountain",
+  "start": 213.5,
+  "end": 213.76,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Pass,",
+  "start": 213.88,
+  "end": 214.24,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "and",
+  "start": 214.74,
+  "end": 214.84,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "China",
+  "start": 214.92,
+  "end": 215.26,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "had",
+  "start": 215.3,
+  "end": 215.42,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "been",
+  "start": 215.46,
+  "end": 215.6,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "watching",
+  "start": 215.68,
+  "end": 216.0,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "this",
+  "start": 216.04,
+  "end": 216.2,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "industry",
+  "start": 216.26,
+  "end": 216.72,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "for",
+  "start": 216.78,
+  "end": 216.96,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "years.",
+  "start": 217.06,
+  "end": 217.5,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "In",
+  "start": 218.12,
+  "end": 218.2,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "nineteen",
+  "start": 218.24,
+  "end": 218.58,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "ninety-two,",
+  "start": 218.64,
+  "end": 219.22,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 219.5,
+  "end": 219.58,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Chinese",
+  "start": 219.64,
+  "end": 220.02,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "leader",
+  "start": 220.08,
+  "end": 220.38,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Deng",
+  "start": 220.44,
+  "end": 220.6,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Xiaoping",
+  "start": 220.7,
+  "end": 221.34,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "visited",
+  "start": 221.4,
+  "end": 221.74,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 221.78,
+  "end": 221.86,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "region.",
+  "start": 221.9,
+  "end": 222.26,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "He",
+  "start": 222.82,
+  "end": 222.9,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "is",
+  "start": 222.94,
+  "end": 223.04,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "reported",
+  "start": 223.08,
+  "end": 223.48,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "to",
+  "start": 223.52,
+  "end": 223.6,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "have",
+  "start": 223.64,
+  "end": 223.76,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "said,",
+  "start": 223.82,
+  "end": 224.02,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "\"The",
+  "start": 224.16,
+  "end": 224.6,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Middle",
+  "start": 224.64,
+  "end": 224.84,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "East",
+  "start": 224.98,
+  "end": 225.26,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "has",
+  "start": 225.32,
+  "end": 225.54,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "oil.",
+  "start": 225.66,
+  "end": 225.92,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "China",
+  "start": 226.44,
+  "end": 227.0,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "has",
+  "start": 227.06,
+  "end": 227.3,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "rare",
+  "start": 227.36,
+  "end": 227.64,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "earths.\"",
+  "start": 227.72,
+  "end": 228.1,
+  "score": 0.98,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "China",
+  "start": 229.0,
+  "end": 229.3,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "treated",
+  "start": 229.38,
+  "end": 229.7,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "rare",
+  "start": 229.76,
+  "end": 230.0,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "earths",
+  "start": 230.06,
+  "end": 230.38,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "like",
+  "start": 230.44,
+  "end": 230.54,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "a",
+  "start": 230.6,
+  "end": 230.66,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "long-term",
+  "start": 230.74,
+  "end": 231.32,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "project.",
+  "start": 231.42,
+  "end": 231.94,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "It",
+  "start": 232.42,
+  "end": 232.5,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "built",
+  "start": 232.54,
+  "end": 232.76,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "factories,",
+  "start": 232.84,
+  "end": 233.4,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "trained",
+  "start": 233.7,
+  "end": 234.0,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "engineers",
+  "start": 234.06,
+  "end": 234.58,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "at",
+  "start": 234.62,
+  "end": 234.78,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "dozens",
+  "start": 234.84,
+  "end": 235.16,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "of",
+  "start": 235.2,
+  "end": 235.28,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "universities,",
+  "start": 235.36,
+  "end": 235.96,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "and",
+  "start": 236.28,
+  "end": 236.4,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "filed",
+  "start": 236.48,
+  "end": 236.8,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "thousands",
+  "start": 236.96,
+  "end": 237.4,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "of",
+  "start": 237.69,
+  "end": 237.79,
+  "score": 0.77,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "patents,",
+  "start": 237.85,
+  "end": 238.29,
+  "score": 0.9,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "and",
+  "start": 238.81,
+  "end": 239.03,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "it",
+  "start": 239.09,
+  "end": 239.19,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "kept",
+  "start": 239.27,
+  "end": 239.53,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "prices",
+  "start": 239.59,
+  "end": 239.99,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "low,",
+  "start": 240.07,
+  "end": 240.31,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "even",
+  "start": 240.73,
+  "end": 240.97,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "when",
+  "start": 240.99,
+  "end": 241.09,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "it",
+  "start": 241.13,
+  "end": 241.27,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "barely",
+  "start": 241.33,
+  "end": 241.63,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "made",
+  "start": 241.67,
+  "end": 241.85,
+  "score": 0.69,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "money.",
+  "start": 242.14,
+  "end": 242.4,
+  "score": 0.86,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "For",
+  "start": 243.04,
+  "end": 243.14,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "buyers",
+  "start": 243.18,
+  "end": 243.48,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "around",
+  "start": 243.56,
+  "end": 243.78,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 243.8,
+  "end": 243.88,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "world,",
+  "start": 243.94,
+  "end": 244.28,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "that",
+  "start": 244.56,
+  "end": 244.7,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "was",
+  "start": 244.74,
+  "end": 244.9,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "great",
+  "start": 244.98,
+  "end": 245.3,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "news.",
+  "start": 245.34,
+  "end": 245.7,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Why",
+  "start": 246.22,
+  "end": 246.4,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "pay",
+  "start": 246.46,
+  "end": 246.62,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "more",
+  "start": 246.7,
+  "end": 246.94,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "in",
+  "start": 246.98,
+  "end": 247.04,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "America",
+  "start": 247.1,
+  "end": 247.68,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "or",
+  "start": 247.74,
+  "end": 247.82,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Australia",
+  "start": 247.88,
+  "end": 248.48,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "when",
+  "start": 248.72,
+  "end": 248.88,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "China",
+  "start": 248.94,
+  "end": 249.28,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "delivered",
+  "start": 249.32,
+  "end": 249.7,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "cheaper,",
+  "start": 249.8,
+  "end": 250.1,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "faster,",
+  "start": 250.46,
+  "end": 250.86,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "and",
+  "start": 251.22,
+  "end": 251.48,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "without",
+  "start": 251.52,
+  "end": 251.8,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "complaining",
+  "start": 251.86,
+  "end": 252.36,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "about",
+  "start": 252.42,
+  "end": 252.6,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 252.89,
+  "end": 252.97,
+  "score": 0.74,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "dishes?",
+  "start": 253.01,
+  "end": 253.41,
+  "score": 0.9,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "One",
+  "start": 254.11,
+  "end": 254.25,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "by",
+  "start": 254.31,
+  "end": 254.49,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "one,",
+  "start": 254.63,
+  "end": 254.79,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "mines",
+  "start": 255.11,
+  "end": 255.43,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "in",
+  "start": 255.49,
+  "end": 255.59,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "other",
+  "start": 255.67,
+  "end": 255.85,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "countries",
+  "start": 255.89,
+  "end": 256.35,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "couldn't",
+  "start": 256.41,
+  "end": 256.65,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "compete",
+  "start": 256.69,
+  "end": 257.15,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "and",
+  "start": 257.45,
+  "end": 257.57,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "closed.",
+  "start": 257.65,
+  "end": 258.13,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "The",
+  "start": 258.63,
+  "end": 258.71,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "cost",
+  "start": 258.79,
+  "end": 259.21,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "was",
+  "start": 259.27,
+  "end": 259.41,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "paid",
+  "start": 259.49,
+  "end": 259.65,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "at",
+  "start": 259.69,
+  "end": 259.77,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "home.",
+  "start": 259.83,
+  "end": 260.15,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Near",
+  "start": 260.73,
+  "end": 260.91,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Baotou,",
+  "start": 260.97,
+  "end": 261.47,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "a",
+  "start": 261.81,
+  "end": 261.87,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "lake",
+  "start": 261.93,
+  "end": 262.19,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "of",
+  "start": 262.25,
+  "end": 262.41,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "black",
+  "start": 262.49,
+  "end": 263.01,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "toxic",
+  "start": 263.09,
+  "end": 263.57,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "waste",
+  "start": 263.63,
+  "end": 264.03,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "kept",
+  "start": 264.09,
+  "end": 264.33,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "growing.",
+  "start": 264.37,
+  "end": 264.77,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "By",
+  "start": 265.37,
+  "end": 265.49,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "two",
+  "start": 265.57,
+  "end": 265.69,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "thousand",
+  "start": 265.75,
+  "end": 266.05,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "nine,",
+  "start": 266.13,
+  "end": 266.43,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "China",
+  "start": 266.75,
+  "end": 267.03,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "produced",
+  "start": 267.07,
+  "end": 267.45,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "more",
+  "start": 267.49,
+  "end": 267.609,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "than",
+  "start": 267.65,
+  "end": 267.849,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "ninety-six",
+  "start": 267.909,
+  "end": 268.51,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "percent",
+  "start": 268.55,
+  "end": 269.05,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "of",
+  "start": 269.109,
+  "end": 269.169,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 269.21,
+  "end": 269.289,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "world's",
+  "start": 269.349,
+  "end": 269.67,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "rare",
+  "start": 269.73,
+  "end": 269.93,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "earths.",
+  "start": 270.01,
+  "end": 270.35,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Today,",
+  "start": 270.83,
+  "end": 271.19,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "it",
+  "start": 271.49,
+  "end": 271.59,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "still",
+  "start": 271.69,
+  "end": 271.93,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "separates",
+  "start": 271.99,
+  "end": 272.45,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "around",
+  "start": 272.53,
+  "end": 272.81,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "nine",
+  "start": 272.89,
+  "end": 273.21,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "out",
+  "start": 273.27,
+  "end": 273.35,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "of",
+  "start": 273.39,
+  "end": 273.51,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "every",
+  "start": 273.59,
+  "end": 273.85,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "ten.",
+  "start": 273.93,
+  "end": 274.25,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "China",
+  "start": 274.87,
+  "end": 275.19,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "didn't",
+  "start": 275.23,
+  "end": 275.43,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "just",
+  "start": 275.49,
+  "end": 275.69,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "have",
+  "start": 275.73,
+  "end": 275.91,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 275.97,
+  "end": 276.09,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "salt",
+  "start": 276.17,
+  "end": 276.45,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "anymore.",
+  "start": 276.51,
+  "end": 276.93,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "It",
+  "start": 277.37,
+  "end": 277.49,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "owned",
+  "start": 277.59,
+  "end": 277.83,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 277.89,
+  "end": 278.05,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "only",
+  "start": 278.15,
+  "end": 278.47,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "kitchen",
+  "start": 278.55,
+  "end": 278.91,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "that",
+  "start": 278.95,
+  "end": 279.05,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "could",
+  "start": 279.09,
+  "end": 279.23,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "clean",
+  "start": 279.29,
+  "end": 279.53,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "it.",
+  "start": 279.57,
+  "end": 279.69,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "The",
+  "start": 280.27,
+  "end": 280.33,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "only",
+  "start": 280.39,
+  "end": 280.57,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "question",
+  "start": 280.63,
+  "end": 281.03,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "was,",
+  "start": 281.07,
+  "end": 281.33,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "would",
+  "start": 281.77,
+  "end": 281.87,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "it",
+  "start": 281.91,
+  "end": 282.03,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "ever",
+  "start": 282.13,
+  "end": 282.39,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "use",
+  "start": 282.55,
+  "end": 282.79,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "that",
+  "start": 282.85,
+  "end": 283.01,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "power?",
+  "start": 283.09,
+  "end": 283.43,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "In",
+  "start": 284.07,
+  "end": 284.15,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "twenty",
+  "start": 284.21,
+  "end": 284.43,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "ten,",
+  "start": 284.55,
+  "end": 284.83,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 285.21,
+  "end": 285.31,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "world",
+  "start": 285.37,
+  "end": 285.75,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "found",
+  "start": 285.83,
+  "end": 286.07,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "out,",
+  "start": 286.17,
+  "end": 286.35,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "and",
+  "start": 286.85,
+  "end": 286.93,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "it",
+  "start": 286.97,
+  "end": 287.07,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "started",
+  "start": 287.17,
+  "end": 287.61,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "with",
+  "start": 287.67,
+  "end": 287.77,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "a",
+  "start": 287.81,
+  "end": 287.91,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "few",
+  "start": 287.99,
+  "end": 288.29,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "small",
+  "start": 288.41,
+  "end": 288.75,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "islands",
+  "start": 288.87,
+  "end": 289.29,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "in",
+  "start": 289.35,
+  "end": 289.43,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 289.45,
+  "end": 289.55,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "sea.",
+  "start": 289.63,
+  "end": 289.89,
+  "score": 0.82,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Game.",
+  "start": 290.79,
+  "end": 291.13,
+  "score": 0.83,
+  "src": "chapters.mp3"
+ },
+ {
+  "w": "Chapter",
+  "start": 291.85,
+  "end": 292.13,
+  "score": 0.99,
+  "src": "chapters.mp3"
+ },
+ {
+  "w": "four:",
+  "start": 292.29,
+  "end": 292.55,
+  "score": 0.99,
+  "src": "chapters.mp3"
+ },
+ {
+  "w": "The",
+  "start": 293.09,
+  "end": 293.21,
+  "score": 0.99,
+  "src": "chapters.mp3"
+ },
+ {
+  "w": "First",
+  "start": 293.31,
+  "end": 293.59,
+  "score": 0.99,
+  "src": "chapters.mp3"
+ },
+ {
+  "w": "Warning.",
+  "start": 293.73,
+  "end": 294.15,
+  "score": 0.64,
+  "src": "chapters.mp3"
+ },
+ {
+  "w": "Between",
+  "start": 295.695,
+  "end": 296.095,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "China",
+  "start": 296.175,
+  "end": 296.495,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "and",
+  "start": 296.535,
+  "end": 296.635,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Japan",
+  "start": 296.695,
+  "end": 297.315,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "lie",
+  "start": 297.395,
+  "end": 297.515,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "a",
+  "start": 297.575,
+  "end": 297.635,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "handful",
+  "start": 297.715,
+  "end": 298.135,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "of",
+  "start": 298.195,
+  "end": 298.315,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "tiny,",
+  "start": 298.415,
+  "end": 298.775,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "empty",
+  "start": 298.975,
+  "end": 299.235,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "islands.",
+  "start": 299.395,
+  "end": 299.795,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Japan",
+  "start": 300.335,
+  "end": 300.795,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "calls",
+  "start": 300.855,
+  "end": 301.095,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "them",
+  "start": 301.135,
+  "end": 301.295,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Senkaku.",
+  "start": 301.355,
+  "end": 301.975,
+  "score": 0.78,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "China",
+  "start": 302.765,
+  "end": 303.065,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "calls",
+  "start": 303.125,
+  "end": 303.365,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "them",
+  "start": 303.405,
+  "end": 303.685,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Diaoyu.",
+  "start": 303.995,
+  "end": 304.435,
+  "score": 0.65,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Both",
+  "start": 305.015,
+  "end": 305.355,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "say",
+  "start": 305.415,
+  "end": 305.595,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "they",
+  "start": 305.635,
+  "end": 305.735,
+  "score": 0.89,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "are",
+  "start": 305.775,
+  "end": 305.895,
+  "score": 0.74,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "theirs.",
+  "start": 306.205,
+  "end": 306.625,
+  "score": 0.79,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "In",
+  "start": 307.225,
+  "end": 307.325,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "September",
+  "start": 307.365,
+  "end": 307.865,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "twenty",
+  "start": 307.925,
+  "end": 308.125,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "ten,",
+  "start": 308.265,
+  "end": 308.505,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "a",
+  "start": 308.845,
+  "end": 308.905,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Chinese",
+  "start": 308.965,
+  "end": 309.405,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "fishing",
+  "start": 309.465,
+  "end": 309.765,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "boat",
+  "start": 309.805,
+  "end": 310.045,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "sailed",
+  "start": 310.145,
+  "end": 310.485,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "into",
+  "start": 310.545,
+  "end": 310.725,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "those",
+  "start": 310.765,
+  "end": 310.965,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "waters.",
+  "start": 311.025,
+  "end": 311.425,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Japanese",
+  "start": 311.985,
+  "end": 312.425,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Coast",
+  "start": 312.505,
+  "end": 312.725,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Guard",
+  "start": 312.785,
+  "end": 313.005,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "ships",
+  "start": 313.045,
+  "end": 313.325,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "told",
+  "start": 313.405,
+  "end": 313.565,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "it",
+  "start": 313.605,
+  "end": 313.685,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "to",
+  "start": 313.725,
+  "end": 313.805,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "leave.",
+  "start": 313.865,
+  "end": 314.225,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Instead,",
+  "start": 314.725,
+  "end": 315.245,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "it",
+  "start": 315.605,
+  "end": 315.805,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "rammed",
+  "start": 315.905,
+  "end": 316.245,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "them.",
+  "start": 316.285,
+  "end": 316.485,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Japan",
+  "start": 317.085,
+  "end": 317.605,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "arrested",
+  "start": 317.685,
+  "end": 318.125,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 318.165,
+  "end": 318.225,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "captain.",
+  "start": 318.305,
+  "end": 318.705,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "China",
+  "start": 319.265,
+  "end": 319.705,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "was",
+  "start": 319.765,
+  "end": 320.005,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "furious.",
+  "start": 320.125,
+  "end": 320.685,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "And",
+  "start": 321.145,
+  "end": 321.205,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "a",
+  "start": 321.265,
+  "end": 321.305,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "few",
+  "start": 321.365,
+  "end": 321.485,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "days",
+  "start": 321.545,
+  "end": 321.745,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "later,",
+  "start": 321.805,
+  "end": 322.085,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "something",
+  "start": 322.465,
+  "end": 322.805,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "strange",
+  "start": 322.905,
+  "end": 323.305,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "happened.",
+  "start": 323.365,
+  "end": 323.725,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Rare",
+  "start": 324.345,
+  "end": 324.565,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "earth",
+  "start": 324.645,
+  "end": 324.845,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "shipments",
+  "start": 324.885,
+  "end": 325.285,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "to",
+  "start": 325.345,
+  "end": 325.405,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Japan",
+  "start": 325.445,
+  "end": 326.105,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "suddenly",
+  "start": 326.205,
+  "end": 326.605,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "stopped.",
+  "start": 326.725,
+  "end": 327.105,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "China",
+  "start": 327.725,
+  "end": 328.045,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "never",
+  "start": 328.105,
+  "end": 328.345,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "officially",
+  "start": 328.425,
+  "end": 328.965,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "admitted",
+  "start": 329.025,
+  "end": 329.405,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "a",
+  "start": 329.465,
+  "end": 329.525,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "ban.",
+  "start": 329.585,
+  "end": 329.905,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Japanese",
+  "start": 330.465,
+  "end": 330.905,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "companies",
+  "start": 330.965,
+  "end": 331.385,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "simply",
+  "start": 331.445,
+  "end": 331.765,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "said",
+  "start": 331.825,
+  "end": 331.985,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "their",
+  "start": 332.025,
+  "end": 332.165,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "cargo",
+  "start": 332.245,
+  "end": 332.605,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "was",
+  "start": 332.645,
+  "end": 332.765,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "stuck.",
+  "start": 332.845,
+  "end": 333.165,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Extra",
+  "start": 333.665,
+  "end": 333.905,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "inspections,",
+  "start": 333.945,
+  "end": 334.685,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "extra",
+  "start": 334.945,
+  "end": 335.205,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "paperwork.",
+  "start": 335.245,
+  "end": 335.745,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Japan",
+  "start": 336.325,
+  "end": 336.765,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "got",
+  "start": 336.825,
+  "end": 336.925,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "around",
+  "start": 336.985,
+  "end": 337.305,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "ninety",
+  "start": 337.365,
+  "end": 337.665,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "percent",
+  "start": 337.705,
+  "end": 338.125,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "of",
+  "start": 338.165,
+  "end": 338.225,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "its",
+  "start": 338.265,
+  "end": 338.405,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "rare",
+  "start": 338.465,
+  "end": 338.665,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "earths",
+  "start": 338.745,
+  "end": 339.045,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "from",
+  "start": 339.085,
+  "end": 339.245,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "China.",
+  "start": 339.305,
+  "end": 339.705,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Its",
+  "start": 340.125,
+  "end": 340.225,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "electronics",
+  "start": 340.285,
+  "end": 340.925,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "and",
+  "start": 340.945,
+  "end": 341.065,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "car",
+  "start": 341.145,
+  "end": 341.345,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "industry",
+  "start": 341.405,
+  "end": 341.825,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "suddenly",
+  "start": 342.065,
+  "end": 342.445,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "had",
+  "start": 342.485,
+  "end": 342.585,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "a",
+  "start": 342.625,
+  "end": 342.685,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "problem.",
+  "start": 342.745,
+  "end": 343.185,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "The",
+  "start": 343.765,
+  "end": 343.845,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "shipments",
+  "start": 343.885,
+  "end": 344.265,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "started",
+  "start": 344.345,
+  "end": 344.625,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "again",
+  "start": 344.685,
+  "end": 344.985,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "about",
+  "start": 345.085,
+  "end": 345.365,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "two",
+  "start": 345.445,
+  "end": 345.565,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "months",
+  "start": 345.625,
+  "end": 345.865,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "later,",
+  "start": 345.925,
+  "end": 346.185,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "but",
+  "start": 346.545,
+  "end": 346.645,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 346.705,
+  "end": 346.785,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "message",
+  "start": 346.845,
+  "end": 347.265,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "was",
+  "start": 347.325,
+  "end": 347.485,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "clear.",
+  "start": 347.565,
+  "end": 347.885,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Whoever",
+  "start": 348.445,
+  "end": 348.825,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "owns",
+  "start": 348.905,
+  "end": 349.085,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 349.125,
+  "end": 349.205,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "kitchen",
+  "start": 349.265,
+  "end": 349.805,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "decides",
+  "start": 349.865,
+  "end": 350.445,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "who",
+  "start": 350.525,
+  "end": 350.685,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "gets",
+  "start": 350.725,
+  "end": 350.945,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "to",
+  "start": 351.235,
+  "end": 351.355,
+  "score": 0.65,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "eat.",
+  "start": 351.435,
+  "end": 351.635,
+  "score": 0.95,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Japan",
+  "start": 352.435,
+  "end": 352.935,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "learned",
+  "start": 352.995,
+  "end": 353.295,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "that",
+  "start": 353.355,
+  "end": 353.535,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "lesson",
+  "start": 353.575,
+  "end": 353.995,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "fast.",
+  "start": 354.095,
+  "end": 354.535,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "It",
+  "start": 354.995,
+  "end": 355.055,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "invested",
+  "start": 355.115,
+  "end": 355.595,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "in",
+  "start": 355.655,
+  "end": 355.715,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "a",
+  "start": 355.755,
+  "end": 355.815,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "mine",
+  "start": 355.895,
+  "end": 356.195,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "in",
+  "start": 356.235,
+  "end": 356.295,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Australia",
+  "start": 356.355,
+  "end": 357.095,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "and",
+  "start": 357.155,
+  "end": 357.235,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "slowly",
+  "start": 357.415,
+  "end": 357.855,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "cut",
+  "start": 357.915,
+  "end": 358.055,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "its",
+  "start": 358.095,
+  "end": 358.235,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "dependence",
+  "start": 358.275,
+  "end": 358.795,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "on",
+  "start": 358.855,
+  "end": 358.975,
+  "score": 0.68,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "China.",
+  "start": 359.285,
+  "end": 359.625,
+  "score": 0.78,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Most",
+  "start": 360.245,
+  "end": 360.505,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "other",
+  "start": 360.605,
+  "end": 360.765,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "countries",
+  "start": 360.825,
+  "end": 361.345,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "didn't.",
+  "start": 361.405,
+  "end": 361.745,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "For",
+  "start": 362.265,
+  "end": 362.365,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "years,",
+  "start": 362.545,
+  "end": 362.945,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "they",
+  "start": 363.165,
+  "end": 363.285,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "went",
+  "start": 363.325,
+  "end": 363.505,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "back",
+  "start": 363.565,
+  "end": 363.785,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "to",
+  "start": 363.845,
+  "end": 363.925,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "buying",
+  "start": 363.985,
+  "end": 364.345,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "cheap",
+  "start": 364.445,
+  "end": 364.725,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "from",
+  "start": 364.765,
+  "end": 364.925,
+  "score": 0.82,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "China,",
+  "start": 365.235,
+  "end": 365.575,
+  "score": 0.74,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "until",
+  "start": 366.195,
+  "end": 366.675,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "twenty",
+  "start": 366.755,
+  "end": 366.995,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "twenty-five.",
+  "start": 367.095,
+  "end": 367.795,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 368.505,
+  "end": 368.585,
+  "score": 0.59,
+  "src": "chapters.mp3"
+ },
+ {
+  "w": "Tap.",
+  "start": 368.679,
+  "end": 368.999,
+  "score": 0.59,
+  "src": "chapters.mp3"
+ },
+ {
+  "w": "Chapter",
+  "start": 369.7,
+  "end": 370.04,
+  "score": 0.98,
+  "src": "chapters.mp3"
+ },
+ {
+  "w": "five:",
+  "start": 370.37,
+  "end": 370.73,
+  "score": 0.87,
+  "src": "chapters.mp3"
+ },
+ {
+  "w": "Turning",
+  "start": 371.27,
+  "end": 371.569,
+  "score": 0.99,
+  "src": "chapters.mp3"
+ },
+ {
+  "w": "Off",
+  "start": 371.63,
+  "end": 371.81,
+  "score": 0.99,
+  "src": "chapters.mp3"
+ },
+ {
+  "w": "Tap.",
+  "start": 372.59,
+  "end": 372.89,
+  "score": 0.82,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "In",
+  "start": 373.89,
+  "end": 373.95,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "April",
+  "start": 374.09,
+  "end": 374.37,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "2025,",
+  "start": 374.59,
+  "end": 375.41,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 375.71,
+  "end": 375.75,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "United",
+  "start": 375.81,
+  "end": 376.13,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "States",
+  "start": 376.25,
+  "end": 376.51,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "raised",
+  "start": 376.65,
+  "end": 376.95,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "tariffs",
+  "start": 377.09,
+  "end": 377.45,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "on",
+  "start": 377.51,
+  "end": 377.65,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Chinese",
+  "start": 377.689,
+  "end": 378.09,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "goods",
+  "start": 378.17,
+  "end": 378.49,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "to",
+  "start": 378.53,
+  "end": 378.63,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "record",
+  "start": 378.81,
+  "end": 379.15,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "levels.",
+  "start": 379.21,
+  "end": 379.59,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "China",
+  "start": 380.11,
+  "end": 380.53,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "answered",
+  "start": 380.61,
+  "end": 380.99,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "with",
+  "start": 381.03,
+  "end": 381.15,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "rare",
+  "start": 381.31,
+  "end": 381.57,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "earths.",
+  "start": 381.63,
+  "end": 382.01,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "From",
+  "start": 382.51,
+  "end": 382.67,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "then",
+  "start": 382.71,
+  "end": 382.87,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "on,",
+  "start": 382.95,
+  "end": 383.15,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "exporting",
+  "start": 383.49,
+  "end": 383.95,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "seven",
+  "start": 384.13,
+  "end": 384.37,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "of",
+  "start": 384.41,
+  "end": 384.51,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "them",
+  "start": 384.55,
+  "end": 384.73,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "and",
+  "start": 385.01,
+  "end": 385.19,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 385.23,
+  "end": 385.31,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "magnets",
+  "start": 385.37,
+  "end": 385.79,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "made",
+  "start": 385.85,
+  "end": 386.03,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "from",
+  "start": 386.07,
+  "end": 386.21,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "them",
+  "start": 386.25,
+  "end": 386.39,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "required",
+  "start": 386.71,
+  "end": 387.25,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "a",
+  "start": 387.31,
+  "end": 387.39,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "special",
+  "start": 387.53,
+  "end": 387.81,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "license.",
+  "start": 387.91,
+  "end": 388.41,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Every",
+  "start": 388.95,
+  "end": 389.17,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "shipment",
+  "start": 389.29,
+  "end": 389.71,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "had",
+  "start": 389.77,
+  "end": 389.93,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "to",
+  "start": 389.97,
+  "end": 390.049,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "be",
+  "start": 390.09,
+  "end": 390.17,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "approved",
+  "start": 390.21,
+  "end": 390.77,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "one",
+  "start": 391.11,
+  "end": 391.31,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "by",
+  "start": 391.41,
+  "end": 391.61,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "one.",
+  "start": 391.73,
+  "end": 391.93,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Factories",
+  "start": 392.55,
+  "end": 393.09,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "around",
+  "start": 393.17,
+  "end": 393.53,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 393.57,
+  "end": 393.67,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "world",
+  "start": 393.71,
+  "end": 394.09,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "started",
+  "start": 394.25,
+  "end": 394.57,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "to",
+  "start": 394.61,
+  "end": 394.75,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "run",
+  "start": 394.81,
+  "end": 394.99,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "dry.",
+  "start": 395.09,
+  "end": 395.45,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "In",
+  "start": 396.13,
+  "end": 396.23,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "May,",
+  "start": 396.29,
+  "end": 396.53,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Ford",
+  "start": 396.99,
+  "end": 397.33,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "had",
+  "start": 397.39,
+  "end": 397.49,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "to",
+  "start": 397.53,
+  "end": 397.65,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "stop",
+  "start": 397.73,
+  "end": 397.97,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "production",
+  "start": 398.01,
+  "end": 398.41,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "of",
+  "start": 398.45,
+  "end": 398.53,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "its",
+  "start": 398.55,
+  "end": 398.67,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Explorer",
+  "start": 398.71,
+  "end": 399.31,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "at",
+  "start": 399.35,
+  "end": 399.41,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "its",
+  "start": 399.45,
+  "end": 399.57,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Chicago",
+  "start": 399.59,
+  "end": 400.03,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "plant",
+  "start": 400.13,
+  "end": 400.43,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "for",
+  "start": 400.47,
+  "end": 400.57,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "a",
+  "start": 400.65,
+  "end": 400.73,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "week.",
+  "start": 400.79,
+  "end": 401.05,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Its",
+  "start": 401.57,
+  "end": 401.71,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "CEO",
+  "start": 401.79,
+  "end": 402.35,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "said",
+  "start": 402.51,
+  "end": 402.65,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "rare",
+  "start": 402.79,
+  "end": 403.03,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "earth",
+  "start": 403.09,
+  "end": 403.25,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "magnets",
+  "start": 403.35,
+  "end": 403.79,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "were",
+  "start": 403.85,
+  "end": 404.23,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "trickling",
+  "start": 404.33,
+  "end": 404.85,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "out",
+  "start": 404.93,
+  "end": 405.07,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "of",
+  "start": 405.11,
+  "end": 405.23,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "China.",
+  "start": 405.27,
+  "end": 405.63,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "In",
+  "start": 406.27,
+  "end": 406.329,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "October",
+  "start": 406.39,
+  "end": 406.83,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "2025,",
+  "start": 407.03,
+  "end": 407.77,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "China",
+  "start": 408.17,
+  "end": 408.51,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "went",
+  "start": 408.57,
+  "end": 408.73,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "further.",
+  "start": 408.89,
+  "end": 409.21,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "New",
+  "start": 409.81,
+  "end": 409.99,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "rules",
+  "start": 410.05,
+  "end": 410.47,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "even",
+  "start": 410.57,
+  "end": 410.79,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "covered",
+  "start": 410.85,
+  "end": 411.13,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "products",
+  "start": 411.17,
+  "end": 411.61,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "made",
+  "start": 411.67,
+  "end": 411.83,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "abroad",
+  "start": 411.89,
+  "end": 412.37,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "that",
+  "start": 412.41,
+  "end": 412.51,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "contained",
+  "start": 412.55,
+  "end": 412.99,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 413.05,
+  "end": 413.19,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "smallest",
+  "start": 413.29,
+  "end": 413.77,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "amount",
+  "start": 413.83,
+  "end": 414.19,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "of",
+  "start": 414.23,
+  "end": 414.35,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Chinese",
+  "start": 414.41,
+  "end": 414.81,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "rare",
+  "start": 414.91,
+  "end": 415.09,
+  "score": 0.84,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "earths.",
+  "start": 415.42,
+  "end": 415.76,
+  "score": 0.92,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "A",
+  "start": 416.38,
+  "end": 416.42,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "few",
+  "start": 416.48,
+  "end": 416.62,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "weeks",
+  "start": 416.66,
+  "end": 416.88,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "later,",
+  "start": 416.92,
+  "end": 417.18,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 417.52,
+  "end": 417.58,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "American",
+  "start": 417.62,
+  "end": 418.14,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "and",
+  "start": 418.18,
+  "end": 418.26,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Chinese",
+  "start": 418.36,
+  "end": 418.74,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "presidents",
+  "start": 418.84,
+  "end": 419.38,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "met",
+  "start": 419.46,
+  "end": 419.64,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "in",
+  "start": 419.7,
+  "end": 419.84,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "South",
+  "start": 419.9,
+  "end": 420.1,
+  "score": 0.64,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Korea.",
+  "start": 420.43,
+  "end": 420.79,
+  "score": 0.84,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "China",
+  "start": 421.33,
+  "end": 421.67,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "agreed",
+  "start": 421.75,
+  "end": 422.07,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "to",
+  "start": 422.11,
+  "end": 422.25,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "pause",
+  "start": 422.33,
+  "end": 422.69,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "its",
+  "start": 422.75,
+  "end": 422.91,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "newest",
+  "start": 422.99,
+  "end": 423.29,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "rules",
+  "start": 423.35,
+  "end": 423.69,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "for",
+  "start": 423.75,
+  "end": 423.93,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "one",
+  "start": 424.05,
+  "end": 424.23,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "year,",
+  "start": 424.31,
+  "end": 424.55,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "but",
+  "start": 425.05,
+  "end": 425.15,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 425.19,
+  "end": 425.31,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "older",
+  "start": 425.41,
+  "end": 425.61,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "licenses",
+  "start": 425.69,
+  "end": 426.29,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "stayed,",
+  "start": 426.39,
+  "end": 426.75,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "and",
+  "start": 427.23,
+  "end": 427.31,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 427.35,
+  "end": 427.43,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "pause",
+  "start": 427.51,
+  "end": 428.03,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "was",
+  "start": 428.11,
+  "end": 428.27,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "only",
+  "start": 428.37,
+  "end": 428.65,
+  "score": 0.89,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Europe",
+  "start": 429.7,
+  "end": 429.98,
+  "score": 0.99,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "felt",
+  "start": 430.06,
+  "end": 430.26,
+  "score": 0.95,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "it",
+  "start": 430.55,
+  "end": 430.65,
+  "score": 0.68,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "too.",
+  "start": 430.73,
+  "end": 430.99,
+  "score": 0.86,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "European",
+  "start": 431.67,
+  "end": 432.13,
+  "score": 0.99,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "car",
+  "start": 432.25,
+  "end": 432.39,
+  "score": 0.99,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "parts",
+  "start": 432.49,
+  "end": 432.75,
+  "score": 0.99,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "makers",
+  "start": 432.81,
+  "end": 433.17,
+  "score": 1.0,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "warned",
+  "start": 433.29,
+  "end": 433.59,
+  "score": 0.99,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "that",
+  "start": 433.63,
+  "end": 433.79,
+  "score": 0.99,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "some",
+  "start": 433.869,
+  "end": 433.99,
+  "score": 0.99,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "of",
+  "start": 434.03,
+  "end": 434.11,
+  "score": 0.99,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "their",
+  "start": 434.15,
+  "end": 434.27,
+  "score": 0.99,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "production",
+  "start": 434.31,
+  "end": 434.77,
+  "score": 0.99,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "lines",
+  "start": 434.81,
+  "end": 435.07,
+  "score": 0.99,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "had",
+  "start": 435.09,
+  "end": 435.25,
+  "score": 0.99,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "stopped",
+  "start": 435.37,
+  "end": 435.75,
+  "score": 0.99,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "waiting",
+  "start": 436.09,
+  "end": 436.43,
+  "score": 0.99,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "for",
+  "start": 436.47,
+  "end": 436.57,
+  "score": 0.87,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "magnets.",
+  "start": 436.88,
+  "end": 437.36,
+  "score": 0.68,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "And",
+  "start": 437.98,
+  "end": 438.08,
+  "score": 0.99,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "in",
+  "start": 438.12,
+  "end": 438.179,
+  "score": 0.99,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "October",
+  "start": 438.24,
+  "end": 438.66,
+  "score": 0.99,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "2026,",
+  "start": 438.88,
+  "end": 439.74,
+  "score": 0.99,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "Europe",
+  "start": 440.18,
+  "end": 440.44,
+  "score": 0.99,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "sat",
+  "start": 440.56,
+  "end": 440.78,
+  "score": 0.99,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "down",
+  "start": 440.82,
+  "end": 441.04,
+  "score": 0.99,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "with",
+  "start": 441.06,
+  "end": 441.24,
+  "score": 0.99,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "China",
+  "start": 441.3,
+  "end": 441.68,
+  "score": 0.99,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "to",
+  "start": 441.74,
+  "end": 441.82,
+  "score": 0.9,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "make",
+  "start": 441.86,
+  "end": 442.0,
+  "score": 0.77,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "a",
+  "start": 442.31,
+  "end": 442.37,
+  "score": 0.7,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "deal.",
+  "start": 442.41,
+  "end": 442.69,
+  "score": 0.85,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "One",
+  "start": 443.31,
+  "end": 443.39,
+  "score": 0.99,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "of",
+  "start": 443.43,
+  "end": 443.51,
+  "score": 0.99,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "the",
+  "start": 443.55,
+  "end": 443.63,
+  "score": 0.99,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "things",
+  "start": 443.67,
+  "end": 443.91,
+  "score": 1.0,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "it",
+  "start": 443.95,
+  "end": 444.03,
+  "score": 0.99,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "needed",
+  "start": 444.07,
+  "end": 444.35,
+  "score": 0.99,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "most,",
+  "start": 444.41,
+  "end": 444.71,
+  "score": 0.99,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "a",
+  "start": 445.23,
+  "end": 445.31,
+  "score": 0.99,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "steady",
+  "start": 445.43,
+  "end": 445.67,
+  "score": 0.99,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "flow",
+  "start": 445.83,
+  "end": 446.19,
+  "score": 0.99,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "of",
+  "start": 446.25,
+  "end": 446.35,
+  "score": 0.99,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "rare",
+  "start": 446.47,
+  "end": 446.73,
+  "score": 0.82,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "earths.",
+  "start": 447.06,
+  "end": 447.42,
+  "score": 0.94,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "In",
+  "start": 448.04,
+  "end": 448.1,
+  "score": 0.99,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "other",
+  "start": 448.14,
+  "end": 448.32,
+  "score": 0.99,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "words,",
+  "start": 448.34,
+  "end": 448.62,
+  "score": 1.0,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "the",
+  "start": 448.98,
+  "end": 449.08,
+  "score": 1.0,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "world",
+  "start": 449.14,
+  "end": 449.46,
+  "score": 1.0,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "was",
+  "start": 449.5,
+  "end": 449.66,
+  "score": 0.99,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "now",
+  "start": 449.72,
+  "end": 449.9,
+  "score": 0.99,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "negotiating",
+  "start": 449.92,
+  "end": 450.66,
+  "score": 0.99,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "for",
+  "start": 450.84,
+  "end": 450.94,
+  "score": 0.99,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "its",
+  "start": 450.98,
+  "end": 451.14,
+  "score": 0.99,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "salt",
+  "start": 451.22,
+  "end": 451.54,
+  "score": 0.99,
+  "src": "europe.mp3"
+ },
+ {
+  "w": "Chapter",
+  "start": 453.105,
+  "end": 453.385,
+  "score": 0.99,
+  "src": "chapters.mp3"
+ },
+ {
+  "w": "six:",
+  "start": 453.525,
+  "end": 453.885,
+  "score": 1.0,
+  "src": "chapters.mp3"
+ },
+ {
+  "w": "Can",
+  "start": 454.365,
+  "end": 454.485,
+  "score": 1.0,
+  "src": "chapters.mp3"
+ },
+ {
+  "w": "the",
+  "start": 454.525,
+  "end": 454.585,
+  "score": 1.0,
+  "src": "chapters.mp3"
+ },
+ {
+  "w": "World",
+  "start": 454.685,
+  "end": 454.965,
+  "score": 1.0,
+  "src": "chapters.mp3"
+ },
+ {
+  "w": "Escape?",
+  "start": 455.045,
+  "end": 455.525,
+  "score": 1.0,
+  "src": "chapters.mp3"
+ },
+ {
+  "w": "So",
+  "start": 456.825,
+  "end": 457.065,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "can",
+  "start": 457.445,
+  "end": 457.565,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 457.605,
+  "end": 457.685,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "rest",
+  "start": 457.745,
+  "end": 457.945,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "of",
+  "start": 458.005,
+  "end": 458.065,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 458.105,
+  "end": 458.185,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "world",
+  "start": 458.245,
+  "end": 458.505,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "build",
+  "start": 458.645,
+  "end": 458.885,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "its",
+  "start": 458.925,
+  "end": 459.105,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "own",
+  "start": 459.185,
+  "end": 459.385,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "kitchen?",
+  "start": 459.445,
+  "end": 459.745,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "It's",
+  "start": 460.325,
+  "end": 460.485,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "trying.",
+  "start": 460.545,
+  "end": 460.945,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Mountain",
+  "start": 461.525,
+  "end": 461.785,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Pass",
+  "start": 461.885,
+  "end": 462.225,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "is",
+  "start": 462.285,
+  "end": 462.405,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "open",
+  "start": 462.485,
+  "end": 462.685,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "again.",
+  "start": 462.745,
+  "end": 463.025,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "In",
+  "start": 463.545,
+  "end": 463.625,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "2025,",
+  "start": 463.805,
+  "end": 464.605,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 464.865,
+  "end": 464.905,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "American",
+  "start": 464.965,
+  "end": 465.385,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Department",
+  "start": 465.445,
+  "end": 465.865,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "of",
+  "start": 465.885,
+  "end": 465.965,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Defense",
+  "start": 466.005,
+  "end": 466.485,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "became",
+  "start": 466.525,
+  "end": 466.845,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 466.885,
+  "end": 466.965,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "mine's",
+  "start": 467.025,
+  "end": 467.325,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "largest",
+  "start": 467.465,
+  "end": 467.865,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "shareholder",
+  "start": 467.925,
+  "end": 468.465,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "and",
+  "start": 468.765,
+  "end": 468.885,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "promised",
+  "start": 468.925,
+  "end": 469.345,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "a",
+  "start": 469.405,
+  "end": 469.505,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "minimum",
+  "start": 469.565,
+  "end": 469.885,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "price",
+  "start": 469.985,
+  "end": 470.345,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "for",
+  "start": 470.385,
+  "end": 470.485,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "its",
+  "start": 470.525,
+  "end": 470.665,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "rare",
+  "start": 470.725,
+  "end": 470.885,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "earths,",
+  "start": 470.965,
+  "end": 471.265,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "so",
+  "start": 471.525,
+  "end": 471.645,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "China",
+  "start": 471.705,
+  "end": 472.045,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "can't",
+  "start": 472.125,
+  "end": 472.365,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "simply",
+  "start": 472.425,
+  "end": 472.745,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "undercut",
+  "start": 473.055,
+  "end": 473.435,
+  "score": 0.67,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "it.",
+  "start": 473.455,
+  "end": 473.575,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Australia,",
+  "start": 474.075,
+  "end": 474.675,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Japan,",
+  "start": 474.875,
+  "end": 475.355,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "and",
+  "start": 475.515,
+  "end": 475.655,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Europe",
+  "start": 475.755,
+  "end": 476.115,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "are",
+  "start": 476.175,
+  "end": 476.275,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "building",
+  "start": 476.315,
+  "end": 476.615,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "new",
+  "start": 476.735,
+  "end": 476.935,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "mines",
+  "start": 476.995,
+  "end": 477.355,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "and",
+  "start": 477.395,
+  "end": 477.455,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "factories.",
+  "start": 477.575,
+  "end": 478.115,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Scientists",
+  "start": 478.615,
+  "end": 479.215,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "are",
+  "start": 479.255,
+  "end": 479.355,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "working",
+  "start": 479.415,
+  "end": 479.675,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "on",
+  "start": 479.715,
+  "end": 479.835,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "magnets",
+  "start": 479.895,
+  "end": 480.355,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "that",
+  "start": 480.395,
+  "end": 480.515,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "need",
+  "start": 480.555,
+  "end": 480.795,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "fewer",
+  "start": 480.895,
+  "end": 481.195,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "rare",
+  "start": 481.295,
+  "end": 481.515,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "earths,",
+  "start": 481.575,
+  "end": 481.915,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "and",
+  "start": 482.275,
+  "end": 482.395,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "companies",
+  "start": 482.455,
+  "end": 482.975,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "are",
+  "start": 483.015,
+  "end": 483.115,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "learning",
+  "start": 483.175,
+  "end": 483.435,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "to",
+  "start": 483.475,
+  "end": 483.555,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "recycle",
+  "start": 483.595,
+  "end": 484.055,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "them",
+  "start": 484.095,
+  "end": 484.295,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "from",
+  "start": 484.335,
+  "end": 484.515,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "old",
+  "start": 484.615,
+  "end": 484.795,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "hard",
+  "start": 484.835,
+  "end": 485.035,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "drives",
+  "start": 485.115,
+  "end": 485.495,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "and",
+  "start": 485.535,
+  "end": 485.615,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "electric",
+  "start": 485.675,
+  "end": 486.015,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "motors.",
+  "start": 486.095,
+  "end": 486.495,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "But",
+  "start": 487.055,
+  "end": 487.255,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "it's",
+  "start": 487.555,
+  "end": 487.715,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "slow.",
+  "start": 487.815,
+  "end": 488.155,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "For",
+  "start": 488.695,
+  "end": 488.795,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "years,",
+  "start": 488.955,
+  "end": 489.375,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "even",
+  "start": 489.695,
+  "end": 489.915,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 489.955,
+  "end": 490.055,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "rare",
+  "start": 490.095,
+  "end": 490.335,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "earths",
+  "start": 490.375,
+  "end": 490.655,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "dug",
+  "start": 490.755,
+  "end": 490.915,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "up",
+  "start": 490.975,
+  "end": 491.075,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "at",
+  "start": 491.095,
+  "end": 491.195,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Mountain",
+  "start": 491.235,
+  "end": 491.495,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Pass",
+  "start": 491.615,
+  "end": 492.035,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "were",
+  "start": 492.075,
+  "end": 492.215,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "shipped",
+  "start": 492.275,
+  "end": 492.555,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "to",
+  "start": 492.595,
+  "end": 492.715,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "China",
+  "start": 492.775,
+  "end": 493.155,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "to",
+  "start": 493.195,
+  "end": 493.275,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "be",
+  "start": 493.295,
+  "end": 493.415,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "separated.",
+  "start": 493.475,
+  "end": 493.995,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "One",
+  "start": 494.515,
+  "end": 494.655,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "study",
+  "start": 494.775,
+  "end": 495.075,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "estimates",
+  "start": 495.155,
+  "end": 495.655,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "that",
+  "start": 495.695,
+  "end": 495.775,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "a",
+  "start": 495.815,
+  "end": 495.935,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "fully",
+  "start": 496.015,
+  "end": 496.315,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "independent",
+  "start": 496.355,
+  "end": 496.915,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "American",
+  "start": 496.955,
+  "end": 497.395,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "supply",
+  "start": 497.475,
+  "end": 497.855,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "chain",
+  "start": 497.915,
+  "end": 498.155,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "would",
+  "start": 498.375,
+  "end": 498.515,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "take",
+  "start": 498.575,
+  "end": 498.835,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "at",
+  "start": 498.895,
+  "end": 499.015,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "least",
+  "start": 499.115,
+  "end": 499.535,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "ten",
+  "start": 499.615,
+  "end": 499.855,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "years.",
+  "start": 499.995,
+  "end": 500.375,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Because",
+  "start": 500.855,
+  "end": 501.055,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "it",
+  "start": 501.095,
+  "end": 501.175,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "turns",
+  "start": 501.215,
+  "end": 501.475,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "out,",
+  "start": 501.575,
+  "end": 501.755,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 502.075,
+  "end": 502.155,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "hardest",
+  "start": 502.235,
+  "end": 502.555,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "part",
+  "start": 502.655,
+  "end": 502.955,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "was",
+  "start": 503.015,
+  "end": 503.155,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "never",
+  "start": 503.235,
+  "end": 503.435,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "finding",
+  "start": 503.594,
+  "end": 503.955,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 503.995,
+  "end": 504.115,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "salt.",
+  "start": 504.175,
+  "end": 504.495,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "It",
+  "start": 504.995,
+  "end": 505.075,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "was",
+  "start": 505.115,
+  "end": 505.275,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "being",
+  "start": 505.314,
+  "end": 505.594,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "willing",
+  "start": 505.635,
+  "end": 506.075,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "to",
+  "start": 506.115,
+  "end": 506.255,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "do",
+  "start": 506.295,
+  "end": 506.455,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 506.495,
+  "end": 506.575,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "dishes.",
+  "start": 506.615,
+  "end": 507.035,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "So",
+  "start": 507.715,
+  "end": 507.955,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "next",
+  "start": 508.395,
+  "end": 508.615,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "time",
+  "start": 508.655,
+  "end": 508.875,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "you",
+  "start": 508.915,
+  "end": 509.015,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "pick",
+  "start": 509.075,
+  "end": 509.195,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "up",
+  "start": 509.235,
+  "end": 509.335,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "your",
+  "start": 509.375,
+  "end": 509.495,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "phone",
+  "start": 509.535,
+  "end": 509.995,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "or",
+  "start": 510.075,
+  "end": 510.175,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "put",
+  "start": 510.315,
+  "end": 510.435,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "in",
+  "start": 510.475,
+  "end": 510.575,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "your",
+  "start": 510.595,
+  "end": 510.715,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "earbuds,",
+  "start": 510.755,
+  "end": 511.215,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "remember",
+  "start": 511.615,
+  "end": 512.135,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "that",
+  "start": 512.195,
+  "end": 512.415,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "tiny",
+  "start": 512.495,
+  "end": 512.835,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "magnet.",
+  "start": 512.895,
+  "end": 513.295,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "It",
+  "start": 513.515,
+  "end": 513.615,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "traveled",
+  "start": 513.695,
+  "end": 514.055,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "through",
+  "start": 514.075,
+  "end": 514.215,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "a",
+  "start": 514.275,
+  "end": 514.395,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "desert",
+  "start": 514.435,
+  "end": 514.775,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "in",
+  "start": 514.815,
+  "end": 514.935,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "California,",
+  "start": 514.995,
+  "end": 515.675,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "a",
+  "start": 516.035,
+  "end": 516.115,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "factory",
+  "start": 516.175,
+  "end": 516.575,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "town",
+  "start": 516.635,
+  "end": 516.855,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "in",
+  "start": 516.895,
+  "end": 517.015,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "China,",
+  "start": 517.055,
+  "end": 517.395,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "and",
+  "start": 517.815,
+  "end": 517.895,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "a",
+  "start": 517.935,
+  "end": 517.995,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "quarrel",
+  "start": 518.075,
+  "end": 518.555,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "over",
+  "start": 518.615,
+  "end": 518.795,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "a",
+  "start": 518.855,
+  "end": 518.955,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "few",
+  "start": 519.015,
+  "end": 519.295,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "empty",
+  "start": 519.355,
+  "end": 519.595,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "islands.",
+  "start": 519.715,
+  "end": 520.155,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "And",
+  "start": 520.655,
+  "end": 520.775,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "for",
+  "start": 520.815,
+  "end": 520.915,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "now,",
+  "start": 520.955,
+  "end": 521.215,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "almost",
+  "start": 521.675,
+  "end": 522.115,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "all",
+  "start": 522.215,
+  "end": 522.375,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "the",
+  "start": 522.415,
+  "end": 522.515,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "world's",
+  "start": 522.555,
+  "end": 522.895,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "salt",
+  "start": 522.955,
+  "end": 523.235,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "still",
+  "start": 523.495,
+  "end": 523.755,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "comes",
+  "start": 523.815,
+  "end": 524.155,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "from",
+  "start": 524.195,
+  "end": 524.455,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "one",
+  "start": 524.575,
+  "end": 524.715,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "kitchen.",
+  "start": 524.835,
+  "end": 525.215,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "If",
+  "start": 527.075,
+  "end": 527.155,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "you",
+  "start": 527.195,
+  "end": 527.275,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "enjoyed",
+  "start": 527.315,
+  "end": 527.695,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "this,",
+  "start": 527.755,
+  "end": 527.955,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "like",
+  "start": 528.315,
+  "end": 528.555,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "and",
+  "start": 528.595,
+  "end": 528.675,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "subscribe",
+  "start": 528.735,
+  "end": 529.335,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "to",
+  "start": 529.375,
+  "end": 529.475,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Nexus",
+  "start": 529.515,
+  "end": 529.855,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "Docs,",
+  "start": 529.915,
+  "end": 530.255,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "and",
+  "start": 530.615,
+  "end": 530.715,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "check",
+  "start": 530.775,
+  "end": 530.935,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "out",
+  "start": 530.995,
+  "end": 531.095,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "our",
+  "start": 531.135,
+  "end": 531.235,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "other",
+  "start": 531.315,
+  "end": 531.495,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "videos",
+  "start": 531.535,
+  "end": 531.995,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "for",
+  "start": 532.035,
+  "end": 532.155,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "more",
+  "start": 532.215,
+  "end": 532.415,
+  "score": 1.0,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "stories",
+  "start": 532.475,
+  "end": 532.835,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "like",
+  "start": 532.875,
+  "end": 533.055,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ },
+ {
+  "w": "this.",
+  "start": 533.095,
+  "end": 533.355,
+  "score": 0.99,
+  "src": "raw04.mp3"
+ }
+]
