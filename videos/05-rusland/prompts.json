@@ -325,7 +325,7 @@
   "end": 148.14,
   "dur": 2.259999999999991,
   "refs": [],
-  "prompt": "Hand-drawn cartoon illustration, 16:9, full frame, no borders. Simple stickman characters with round white heads, thick black outlines, simple facial expressions. Clean bold lines, flat vibrant colors, soft shading. Simple flat cartoon backgrounds, not realistic; every stickman has a visible simple face. Only show flags that are explicitly described. Illustrated map on a beige parchment background with soft blue seas, hand-drawn style with clear colored regions: a map of the Black Sea with the Crimean peninsula highlighted in bright yellow, label 'CRIMEA'. Readable, simple, no small text. No people or stickmen in the image."
+  "prompt": "Hand-drawn cartoon illustration, 16:9, full frame, no borders. Simple stickman characters with round white heads, thick black outlines, simple facial expressions. Clean bold lines, flat vibrant colors, soft shading. Simple flat cartoon backgrounds, not realistic; every stickman has a visible simple face. Only show flags that are explicitly described. Illustrated map on a beige parchment background with soft blue seas, hand-drawn style with clear colored regions: a map of the Black Sea with the Crimean peninsula highlighted in bright yellow, label 'CRIMEA'; the land south of the Black Sea is labelled 'OTTOMAN EMPIRE' (not Turkey). Readable, simple, no small text. No people or stickmen in the image."
  },
  {
   "n": "38",
@@ -365,7 +365,7 @@
   "end": 167.06,
   "dur": 3.680000000000007,
   "refs": [],
-  "prompt": "Hand-drawn cartoon illustration, 16:9, full frame, no borders. Simple stickman characters with round white heads, thick black outlines, simple facial expressions. Clean bold lines, flat vibrant colors, soft shading. Simple flat cartoon backgrounds, not realistic; every stickman has a visible simple face. Only show flags that are explicitly described. Fully colored background scene drawn in simple flat cartoon shapes: an Ottoman stickman sultan with a large white turban and red robe standing at the narrow strait holding a big golden key, guards behind him, red flags with a white crescent, a parchment banner 'OTTOMAN EMPIRE'. Warm, rich colors, storybook documentary feel. HISTORICAL ACCURACY, this scene takes place in the 1780s: all clothing, ships, weapons and buildings are authentic for that time. No modern clothes, no modern long neckties, no modern objects."
+  "prompt": "Hand-drawn cartoon illustration, 16:9, full frame, no borders. Simple stickman characters with round white heads, thick black outlines, simple facial expressions. Clean bold lines, flat vibrant colors, soft shading. Simple flat cartoon backgrounds, not realistic; every stickman has a visible simple face. Only show flags that are explicitly described. Fully colored background scene drawn in simple flat cartoon shapes: an Ottoman stickman sultan with a large white turban and red robe standing at the narrow strait holding a big golden key, guards behind him, plain red banners without any symbols (no star), a parchment banner 'OTTOMAN EMPIRE'. Warm, rich colors, storybook documentary feel. HISTORICAL ACCURACY, this scene takes place in the 1780s: all clothing, ships, weapons and buildings are authentic for that time. No modern clothes, no modern long neckties, no modern objects."
  },
  {
   "n": "43",

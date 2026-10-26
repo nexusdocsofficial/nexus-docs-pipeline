@@ -324,7 +324,7 @@
    "n": "37",
    "anchor": "a peninsula deep in",
    "type": "kaart",
-   "beeld": "a map of the Black Sea with the Crimean peninsula highlighted in bright yellow, label 'CRIMEA'",
+   "beeld": "a map of the Black Sea with the Crimean peninsula highlighted in bright yellow, label 'CRIMEA'; the land south of the Black Sea is labelled 'OTTOMAN EMPIRE' (not Turkey)",
    "era": "none",
    "ref": []
   },
@@ -364,7 +364,7 @@
    "n": "42",
    "anchor": "and that belonged to",
    "type": "scene",
-   "beeld": "an Ottoman stickman sultan with a large white turban and red robe standing at the narrow strait holding a big golden key, guards behind him, red flags with a white crescent, a parchment banner 'OTTOMAN EMPIRE'",
+   "beeld": "an Ottoman stickman sultan with a large white turban and red robe standing at the narrow strait holding a big golden key, guards behind him, plain red banners without any symbols (no star), a parchment banner 'OTTOMAN EMPIRE'",
    "era": "the 1780s",
    "ref": []
   },
