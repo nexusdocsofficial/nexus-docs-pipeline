@@ -136,7 +136,7 @@
 | 129 | 8:33.4 | When the Syrian president | scene | an empty grand chair in a palace hall with a large portrait frame lying face-down on the floor, a parchment banner 'DECEMBER 2024'; no people |
 | 130 | 8:38.0 | its future was suddenly | scene | modern grey Russian warships with the Russian naval ensign (white flag with a blue diagonal cross) sailing out of a sunny Mediterranean harbor with sandy buildings, leaving an empty pier; no people |
 | 131 | 8:42.4 | In twenty twenty-six, Russia | scene | two stickman diplomats in modern suits signing a document at a table, with the Russian flag (white, blue, red) and the Syrian flag (green, white, black stripes with three red stars) behind them |
-| 132 | 8:46.2 | The base becomes a | scene | a Mediterranean harbor pier with a new sign 'JOINT TRAINING CENTRE' and Syrian stickman port workers taking over the commercial pier |
+| 132 | 8:46.2 | The base becomes a | scene | no flags at all; a Mediterranean harbor pier with a new sign 'JOINT TRAINING CENTRE' and Syrian stickman port workers taking over the commercial pier |
 | 133 | 8:51.9 | A door that's still | concept | the big old house labelled 'RUSSIA' with one small door on the far side that is open but has two different locks and two keys |
 | 134 | 8:57.5 | And then there's the | kaart | a top-down map of the Arctic Ocean with Russia's long northern coast along the bottom |
 | 135 | 9:00.9 | the ice along Russia's | scene | melting Arctic sea ice breaking into floating floes with patches of open blue water, a small polar bear far away on a floe |
