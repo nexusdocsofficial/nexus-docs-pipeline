@@ -1,0 +1,1245 @@
+{
+ "rows": [
+  {
+   "n": "1",
+   "anchor": "Russia is the biggest",
+   "type": "kaart",
+   "beeld": "a world map where Russia is filled in bright red and is clearly the biggest country, glowing outline, a parchment banner 'RUSSIA' on it",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "2",
+   "anchor": "Its coast touches three",
+   "type": "kaart",
+   "beeld": "a map of Russia with three big blue arrows pointing to its coasts, labelled 'ARCTIC', 'PACIFIC' and 'ATLANTIC'",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "3",
+   "anchor": "And yet, for three",
+   "type": "tijdlijn",
+   "beeld": "A glowing red arrow spans the whole timeline from '1700' to 'TODAY', with large bold text '300 YEARS'",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "4",
+   "anchor": "it has been desperate",
+   "type": "scene",
+   "beeld": "a frozen harbor with old wooden sailing ships stuck in thick white ice, a sad stickman sailor in an 1700s coat looking at the ice with his hands on his head",
+   "era": "the early 1700s",
+   "ref": []
+  },
+  {
+   "n": "5",
+   "anchor": "warm water, a",
+   "type": "concept",
+   "beeld": "a shivering stickman wrapped in a fur coat dreaming of a sunny warm harbor with open blue water and palm-free green hills, shown in a big thought bubble",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "6",
+   "anchor": "and a sea it",
+   "type": "scene",
+   "beeld": "a wooden sailing warship gliding out of a calm blue harbor into the open sea, sunshine, seagulls; no people visible",
+   "era": "the 1700s",
+   "ref": []
+  },
+  {
+   "n": "7",
+   "anchor": "It fought war after",
+   "type": "scene",
+   "beeld": "cannons firing from a coastal stone fortress at wooden warships, big white smoke clouds, stickman soldiers in 1700s coats",
+   "era": "the 1700s",
+   "ref": []
+  },
+  {
+   "n": "8",
+   "anchor": "and once it sent",
+   "type": "kaart",
+   "beeld": "a world map with a long red dotted route of small black warship icons going from the Baltic Sea around Europe and Africa all the way to East Asia",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "9",
+   "anchor": "eighteen thousand miles",
+   "type": "kaart",
+   "beeld": "the same world map with the long red dotted route around Africa to East Asia, and a very large bold label '18,000 MILES' in the middle",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "10",
+   "anchor": "only to lose almost",
+   "type": "scene",
+   "beeld": "a dark stormy sea at dusk with several old grey steam battleships with tall funnels sinking, thick black smoke, orange fire glow; no people visible",
+   "era": "1905",
+   "ref": []
+  },
+  {
+   "n": "11",
+   "anchor": "And today, those same",
+   "type": "concept",
+   "beeld": "two giant old wooden doors standing in the sea are slamming shut in front of a small modern grey warship, motion lines, a worried face on the ship",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "12",
+   "anchor": "So why is the",
+   "type": "concept",
+   "beeld": "a friendly modern stickman narrator in a blue hoodie and jeans standing next to a huge red silhouette of Russia and holding a tiny glass of blue water labelled 'WARM WATER', with a big question mark above his head",
+   "era": "now",
+   "ref": [
+    "NARR"
+   ]
+  },
+  {
+   "n": "13",
+   "anchor": "Let's look at the",
+   "type": "concept",
+   "beeld": "a friendly modern stickman narrator in a blue hoodie and jeans unrolling a large parchment map of Russia on a wooden table and pointing at it",
+   "era": "now",
+   "ref": [
+    "NARR"
+   ]
+  },
+  {
+   "n": "K1",
+   "anchor": "Chapter One: The Frozen",
+   "type": "card",
+   "beeld": "a frozen Arctic coastline at polar night with a giant old wooden door standing on the ice, covered in snow and icicles, northern lights in the sky",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "14",
+   "anchor": "Look at where Russia's",
+   "type": "kaart",
+   "beeld": "a map of Russia with its whole coastline traced in a thick bright blue line, from the far north to the far east",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "15",
+   "anchor": "Most of it is",
+   "type": "kaart",
+   "beeld": "a map of northern Russia where the whole Arctic Ocean along the coast is covered in white ice, label 'ARCTIC OCEAN'",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "16",
+   "anchor": "For much of the",
+   "type": "scene",
+   "beeld": "a frozen white Arctic sea under a dark blue polar sky, a lone modern cargo ship stuck in thick pack ice, snow falling",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "17",
+   "anchor": "In the Far East",
+   "type": "kaart",
+   "beeld": "a map of Russia with a red pin 'MOSCOW' in the far west and the Pacific coast in the far east, a long dashed arrow between them labelled 'THOUSANDS OF MILES'",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "18",
+   "anchor": "and even there, the",
+   "type": "scene",
+   "beeld": "a snowy hilly harbor city on the Pacific in winter with thin ice and ice floes on the water, modern ships moored in the ice, no people",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "19",
+   "anchor": "That leaves two seas",
+   "type": "kaart",
+   "beeld": "a map of western Russia with a red pin 'MOSCOW' in the middle and two seas glowing: one in the north-west and one in the south",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "20",
+   "anchor": "the Baltic in the",
+   "type": "kaart",
+   "beeld": "the same map of western Russia, the north-west sea labelled 'BALTIC SEA' and the southern sea labelled 'BLACK SEA', both glowing blue",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "21",
+   "anchor": "But look closer.",
+   "type": "kaart",
+   "beeld": "a big magnifying glass over a map of the Baltic Sea, zooming in on the narrow passage between Denmark and Sweden",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "22",
+   "anchor": "a ship has to",
+   "type": "kaart",
+   "beeld": "a map of the narrow Danish straits with one small ship squeezing through the tight gap between Denmark and Sweden, label 'DENMARK'",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "23",
+   "anchor": "To get out of the Black",
+   "type": "scene",
+   "beeld": "a ship sailing through the narrow Bosporus strait right through the middle of Istanbul, mosques with domes and minarets and houses on both banks, a long bridge overhead",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "24",
+   "anchor": "Think of Russia as",
+   "type": "concept",
+   "beeld": "one very big wide old house labelled with a small sign 'RUSSIA' on a street of small houses; it has several doors: the doors on the top and right side are covered in thick ice and icicles",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "25",
+   "anchor": "but every door is",
+   "type": "concept",
+   "beeld": "close-up of the big old house labelled 'RUSSIA': one door is frozen shut with thick ice and icicles, another door opens straight into the neighbor's garden where a stickman neighbor stands with crossed arms",
+   "era": "now",
+   "ref": [
+    "24"
+   ]
+  },
+  {
+   "n": "26",
+   "anchor": "The first ruler who",
+   "type": "scene",
+   "beeld": "Peter the Great as a very tall thin stickman with a small dark mustache, a dark green 1700s Russian army coat with red cuffs, a black tricorn hat and tall boots standing in front of a map on a wooden table, looking determined, a parchment banner 'PETER THE GREAT'",
+   "era": "the late 1600s",
+   "ref": []
+  },
+  {
+   "n": "27",
+   "anchor": "In sixteen ninety-six",
+   "type": "scene",
+   "beeld": "stickman shipbuilders building wooden galleys on a river bank in a pine forest, Peter the Great as a very tall thin stickman with a small dark mustache, a dark green 1700s Russian army coat with red cuffs, a black tricorn hat and tall boots supervising with a hammer, a parchment banner '1696'",
+   "era": "1696",
+   "ref": [
+    "26"
+   ]
+  },
+  {
+   "n": "28",
+   "anchor": "and captured the Turkish",
+   "type": "scene",
+   "beeld": "Russian galleys and stickman soldiers in 1600s coats attacking a stone fortress at the mouth of a river, smoke from cannons, a parchment banner 'AZOV'",
+   "era": "1696",
+   "ref": []
+  },
+  {
+   "n": "29",
+   "anchor": "A few years later",
+   "type": "scene",
+   "beeld": "a battle on a snowy shore: Russian stickman soldiers in dark green coats against Swedish stickman soldiers in blue coats with yellow cuffs, muskets and smoke",
+   "era": "the early 1700s",
+   "ref": []
+  },
+  {
+   "n": "30",
+   "anchor": "and in seventeen oh",
+   "type": "scene",
+   "beeld": "stickman workers building a new city of wooden and stone houses on a marshy river bank, Peter the Great as a very tall thin stickman with a small dark mustache, a dark green 1700s Russian army coat with red cuffs, a black tricorn hat and tall boots pointing at the river, a parchment banner '1703'",
+   "era": "1703",
+   "ref": [
+    "26"
+   ]
+  },
+  {
+   "n": "31",
+   "anchor": "Saint Petersburg, his window",
+   "type": "scene",
+   "beeld": "an elegant 1700s city on a wide river seen through a giant open wooden window frame, a sailing ship heading west toward Europe, a parchment banner 'SAINT PETERSBURG'",
+   "era": "the 1700s",
+   "ref": []
+  },
+  {
+   "n": "32",
+   "anchor": "But that window froze",
+   "type": "scene",
+   "beeld": "the same giant wooden window frame now covered in frost and icicles, the river and harbor behind it frozen white, sailing ships stuck in the ice",
+   "era": "the 1700s",
+   "ref": []
+  },
+  {
+   "n": "33",
+   "anchor": "and in seventeen eleven",
+   "type": "scene",
+   "beeld": "Peter the Great as a very tall thin stickman with a small dark mustache, a dark green 1700s Russian army coat with red cuffs, a black tricorn hat and tall boots looking worried, surrounded on a hill by many Ottoman stickman soldiers with red flags and curved swords, a parchment banner '1711'",
+   "era": "1711",
+   "ref": [
+    "26"
+   ]
+  },
+  {
+   "n": "34",
+   "anchor": "Peter had to give",
+   "type": "scene",
+   "beeld": "Peter the Great as a very tall thin stickman with a small dark mustache, a dark green 1700s Russian army coat with red cuffs, a black tricorn hat and tall boots reluctantly handing a big old iron key labelled 'AZOV' to an Ottoman stickman official in a turban and robe",
+   "era": "1711",
+   "ref": [
+    "26"
+   ]
+  },
+  {
+   "n": "35",
+   "anchor": "One door half open",
+   "type": "concept",
+   "beeld": "the big old house labelled 'RUSSIA': one door half open with snow blowing in, and the door on the south side locked with a big padlock",
+   "era": "now",
+   "ref": [
+    "24"
+   ]
+  },
+  {
+   "n": "K2",
+   "anchor": "Chapter Two: Three Hundred",
+   "type": "card",
+   "beeld": "a close-up of a huge old wooden door with iron bands and a big iron knocker, a stickman fist knocking on it, warm sunlight on one side",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "36",
+   "anchor": "In seventeen eighty-three",
+   "type": "scene",
+   "beeld": "Catherine the Great as a stickman woman with a small golden crown, powdered grey hair and a wide blue-and-gold 1780s court gown pointing at a map of the Crimean peninsula, a parchment banner 'CATHERINE THE GREAT'",
+   "era": "1783",
+   "ref": []
+  },
+  {
+   "n": "37",
+   "anchor": "a peninsula deep in",
+   "type": "kaart",
+   "beeld": "a map of the Black Sea with the Crimean peninsula highlighted in bright yellow, label 'CRIMEA'",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "38",
+   "anchor": "That same year, Russia",
+   "type": "scene",
+   "beeld": "a new naval harbor in a sunny bay with wooden sailing warships with the Russian naval ensign (white flag with a blue diagonal cross), stickman sailors in 1780s uniforms, a parchment banner 'SEVASTOPOL'",
+   "era": "1783",
+   "ref": []
+  },
+  {
+   "n": "39",
+   "anchor": "Finally, a warm water",
+   "type": "scene",
+   "beeld": "a happy stickman sailor in a 1780s uniform on a wooden warship with the Russian naval ensign (white flag with a blue diagonal cross) in warm sunshine on bright blue water",
+   "era": "1783",
+   "ref": []
+  },
+  {
+   "n": "40",
+   "anchor": "But every ship leaving",
+   "type": "kaart",
+   "beeld": "a map of the Black Sea with one narrow passage at the bottom-left leading to the Mediterranean, the passage circled in red, label 'BOSPORUS'",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "41",
+   "anchor": "a strait less than",
+   "type": "scene",
+   "beeld": "a very narrow strait between two green shores with an old stone fortress with round towers on each side, a sailing ship squeezing through the middle",
+   "era": "the 1700s",
+   "ref": []
+  },
+  {
+   "n": "42",
+   "anchor": "and that belonged to",
+   "type": "scene",
+   "beeld": "an Ottoman stickman sultan with a large white turban and red robe standing at the narrow strait holding a big golden key, guards behind him, red flags with a white crescent, a parchment banner 'OTTOMAN EMPIRE'",
+   "era": "the 1780s",
+   "ref": []
+  },
+  {
+   "n": "43",
+   "anchor": "A beautiful front door",
+   "type": "concept",
+   "beeld": "the big old house labelled 'RUSSIA' with a beautiful new front door, but the door opens straight onto the neighbor's driveway, where a stickman neighbor stands with a raised hand saying stop",
+   "era": "now",
+   "ref": [
+    "24"
+   ]
+  },
+  {
+   "n": "44",
+   "anchor": "In the eighteen fifties",
+   "type": "scene",
+   "beeld": "British stickman soldiers in red coats with the Union Jack and French stickman soldiers in blue coats and red trousers with the French tricolour marching together",
+   "era": "the 1850s",
+   "ref": []
+  },
+  {
+   "n": "45",
+   "anchor": "They besieged Sevastopol for",
+   "type": "scene",
+   "beeld": "a siege: rows of cannons on a hill firing at a coastal fortress city, big smoke clouds, tents of an army camp",
+   "era": "1854",
+   "ref": []
+  },
+  {
+   "n": "46",
+   "anchor": "The peace treaty came",
+   "type": "scene",
+   "beeld": "stickman diplomats in 1850s frock coats signing a treaty at a long table with quills and candles, a parchment banner 'PARIS 1856'",
+   "era": "1856",
+   "ref": []
+  },
+  {
+   "n": "47",
+   "anchor": "Russia could no longer",
+   "type": "kaart",
+   "beeld": "a map of the Black Sea with small warship icons crossed out in red, and a big red stamp 'NO FLEET'",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "48",
+   "anchor": "Russia waited fourteen years",
+   "type": "concept",
+   "beeld": "a large hourglass with sand running, calendar pages flying around it, bold text '14 YEARS'",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "49",
+   "anchor": "Then in eighteen seventy",
+   "type": "scene",
+   "beeld": "French stickman soldiers in blue coats and red kepis retreating in defeat, Prussian stickman soldiers in dark blue with spiked helmets advancing, a parchment banner '1870'",
+   "era": "1870",
+   "ref": []
+  },
+  {
+   "n": "50",
+   "anchor": "Russia's foreign minister, Alexander",
+   "type": "scene",
+   "beeld": "Russian foreign minister Gorchakov as a stickman with round spectacles, grey side-whiskers and a black 1870s frock coat sitting at a large desk writing a letter with a quill, a parchment banner 'GORCHAKOV'",
+   "era": "1870",
+   "ref": []
+  },
+  {
+   "n": "51",
+   "anchor": "Russia would no longer",
+   "type": "scene",
+   "beeld": "Russian foreign minister Gorchakov as a stickman with round spectacles, grey side-whiskers and a black 1870s frock coat pressing a red wax seal onto a letter with a confident smile",
+   "era": "1870",
+   "ref": [
+    "50"
+   ]
+  },
+  {
+   "n": "52",
+   "anchor": "Nobody stopped him.",
+   "type": "scene",
+   "beeld": "Russian steam-and-sail warships with the Russian naval ensign (white flag with a blue diagonal cross) sailing back onto the Black Sea, nobody around to stop them; no people visible",
+   "era": "the 1870s",
+   "ref": []
+  },
+  {
+   "n": "53",
+   "anchor": "So Russia tried the",
+   "type": "kaart",
+   "beeld": "a map of Russia with a big arrow sweeping all the way from the west to the Pacific coast in the far east",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "54",
+   "anchor": "Its Pacific port, Vladivostok",
+   "type": "scene",
+   "beeld": "a snowy harbor town on hills in winter with wooden houses and steamships frozen in the white ice of the bay, a parchment banner 'VLADIVOSTOK'; no people",
+   "era": "the 1890s",
+   "ref": []
+  },
+  {
+   "n": "55",
+   "anchor": "So in eighteen ninety-eight",
+   "type": "kaart",
+   "beeld": "a map of north-east China, Korea and Japan with a red pin 'PORT ARTHUR' at the tip of a peninsula, open blue water around it, a small banner '1898'",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "56",
+   "anchor": "Japan didn't like that",
+   "type": "scene",
+   "beeld": "a Japanese stickman admiral in a dark blue 1900s navy uniform frowning at a map, the Japanese naval flag (white with a red sun and sixteen red rays) behind him",
+   "era": "1904",
+   "ref": []
+  },
+  {
+   "n": "57",
+   "anchor": "In nineteen oh four",
+   "type": "scene",
+   "beeld": "at night, small Japanese torpedo boats attacking big Russian steam battleships in a harbor, bright explosions and searchlights; no people visible",
+   "era": "1904",
+   "ref": []
+  },
+  {
+   "n": "58",
+   "anchor": "The Tsar made a",
+   "type": "scene",
+   "beeld": "Tsar Nicholas II as a stickman with a short brown beard and mustache in a dark green Russian military tunic pointing decisively at a world map, a parchment banner 'THE TSAR'",
+   "era": "1904",
+   "ref": []
+  },
+  {
+   "n": "59",
+   "anchor": "He sent his Baltic",
+   "type": "scene",
+   "beeld": "a long line of black-and-yellow Russian steam battleships with tall funnels and black smoke leaving a cold northern port with the Russian naval ensign (white flag with a blue diagonal cross); no people visible",
+   "era": "1904",
+   "ref": []
+  },
+  {
+   "n": "60",
+   "anchor": "With no short way",
+   "type": "kaart",
+   "beeld": "a world map with a red dotted route of small warship icons going from the Baltic Sea out around western Europe",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "61",
+   "anchor": "around Africa, across the",
+   "type": "kaart",
+   "beeld": "a world map with the red dotted route of small warship icons continuing all around Africa and across the Indian Ocean",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "62",
+   "anchor": "eighteen thousand miles. In",
+   "type": "label",
+   "beeld": "A parchment world map with a very long red dotted route from the Baltic around Africa to Japan, a scroll banner '18,000 MILES'",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "63",
+   "anchor": "In the North Sea",
+   "type": "scene",
+   "beeld": "nervous Russian stickman sailors in 1900s navy uniforms with binoculars on a foggy night deck, a thought bubble showing scary torpedo boats",
+   "era": "1904",
+   "ref": []
+  },
+  {
+   "n": "64",
+   "anchor": "and opened fire.",
+   "type": "scene",
+   "beeld": "a big Russian battleship firing its guns at small British fishing trawlers in the fog at night, splashes in the water; no people visible",
+   "era": "1904",
+   "ref": []
+  },
+  {
+   "n": "65",
+   "anchor": "It took seven months.",
+   "type": "concept",
+   "beeld": "an old battleship covered in barnacles and seaweed with tired sweating stickman sailors on deck, a calendar showing '7 MONTHS'",
+   "era": "1905",
+   "ref": []
+  },
+  {
+   "n": "66",
+   "anchor": "By the time the",
+   "type": "scene",
+   "beeld": "a hilltop fortress over a harbor with smoke rising and the Japanese flag (white with a red disc) raised over it, a parchment banner 'PORT ARTHUR'; no people",
+   "era": "1905",
+   "ref": []
+  },
+  {
+   "n": "67",
+   "anchor": "and in May nineteen",
+   "type": "kaart",
+   "beeld": "a map of the strait between Korea and Japan with a red pin 'TSUSHIMA' on the island and a small banner '1905'",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "68",
+   "anchor": "the Japanese Navy was",
+   "type": "scene",
+   "beeld": "a line of grey Japanese battleships waiting in the morning mist with the Japanese naval flag (white with a red sun and sixteen red rays); no people visible",
+   "era": "1905",
+   "ref": []
+  },
+  {
+   "n": "69",
+   "anchor": "Out of thirty-eight Russian",
+   "type": "concept",
+   "beeld": "38 small black warship icons in neat rows, 35 of them crossed out in red and only 3 left, bold text '3 OF 38'",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "70",
+   "anchor": "Seven months at sea",
+   "type": "drama",
+   "beeld": "A torn parchment strip across the center with bold text 'TSUSHIMA 1905', a faint silhouette of a sinking battleship",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "K3",
+   "anchor": "Chapter Three: The Warm",
+   "type": "card",
+   "beeld": "a dark Arctic harbor at polar night with snowy mountains, but the water in the harbor is open and dark blue with steam rising, warm golden light from one big open door on the shore",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "71",
+   "anchor": "Ten years later, in",
+   "type": "scene",
+   "beeld": "Russian stickman soldiers in First World War khaki uniforms and caps in a muddy trench, a parchment banner '1914'",
+   "era": "1914",
+   "ref": []
+  },
+  {
+   "n": "72",
+   "anchor": "Russia's Baltic and Black",
+   "type": "kaart",
+   "beeld": "a map of Europe in 1915 with the Baltic Sea blocked by German warship icons and the Bosporus blocked by an Ottoman barrier, both marked with big red X's",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "73",
+   "anchor": "Its allies couldn't get",
+   "type": "scene",
+   "beeld": "British cargo steamships waiting at sea loaded with crates of supplies, a closed gate in the water in front of them; no people visible",
+   "era": "1915",
+   "ref": []
+  },
+  {
+   "n": "74",
+   "anchor": "So Russia built a",
+   "type": "scene",
+   "beeld": "stickman workers in winter coats laying a railway through snowy tundra and forests toward the sea",
+   "era": "1915",
+   "ref": []
+  },
+  {
+   "n": "75",
+   "anchor": "and in nineteen sixteen",
+   "type": "scene",
+   "beeld": "a small new port town of wooden houses and a wooden pier at an Arctic fjord with snowy hills, a train arriving, a parchment banner '1916'",
+   "era": "1916",
+   "ref": []
+  },
+  {
+   "n": "76",
+   "anchor": "Today, it's called Murmansk",
+   "type": "scene",
+   "beeld": "a modern Arctic port city with big cranes, rows of apartment blocks on snowy hills and ships in the harbor, a parchment banner 'MURMANSK'; no people",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "77",
+   "anchor": "It's far above the",
+   "type": "kaart",
+   "beeld": "a map of northern Europe and Russia with a dashed line labelled 'ARCTIC CIRCLE' and a red pin 'MURMANSK' far above it",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "78",
+   "anchor": "and yet its harbor",
+   "type": "scene",
+   "beeld": "a snowy harbor where the land is white but the water stays open and dark blue, light sea smoke rising, ships sailing freely; no people",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "79",
+   "anchor": "Warm water from the",
+   "type": "kaart",
+   "beeld": "a map of the North Atlantic with a wide warm orange-red current arrow flowing from the Gulf of Mexico across the ocean toward Europe, label 'GULF STREAM'",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "80",
+   "anchor": "curls around the top",
+   "type": "kaart",
+   "beeld": "a map of Scandinavia and north-west Russia with the warm orange-red current arrow curling around the top of Norway to a red pin 'MURMANSK'",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "81",
+   "anchor": "In the Second World",
+   "type": "scene",
+   "beeld": "a convoy of cargo ships and a grey escort destroyer in an icy stormy Arctic sea, waves crashing, ice on the decks; no people visible",
+   "era": "1942",
+   "ref": []
+  },
+  {
+   "n": "82",
+   "anchor": "planes, and food into",
+   "type": "scene",
+   "beeld": "a harbor dock where stickman dock workers in 1940s winter clothes unload tanks, airplane crates and food sacks from a cargo ship",
+   "era": "1942",
+   "ref": []
+  },
+  {
+   "n": "83",
+   "anchor": "Today, Murmansk is home",
+   "type": "scene",
+   "beeld": "modern grey Russian warships and a large submarine at an Arctic naval base with snowy cliffs with the Russian naval ensign (white flag with a blue diagonal cross), a parchment banner 'NORTHERN FLEET'; no people",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "84",
+   "anchor": "The coldest corner of",
+   "type": "concept",
+   "beeld": "the big old house labelled 'RUSSIA': its snowiest back door at the top is wide open and warm golden light shines out of it",
+   "era": "now",
+   "ref": [
+    "24"
+   ]
+  },
+  {
+   "n": "85",
+   "anchor": "But here's the part",
+   "type": "concept",
+   "beeld": "a friendly modern stickman narrator in a blue hoodie and jeans holding up one finger with a surprised face, a big red text 'BUT...'",
+   "era": "now",
+   "ref": [
+    "NARR"
+   ]
+  },
+  {
+   "n": "86",
+   "anchor": "That warm water story",
+   "type": "concept",
+   "beeld": "a big old book titled 'WARM WATER' on a stand with a spotlight, stickmen applauding it",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "87",
+   "anchor": "but many historians think",
+   "type": "scene",
+   "beeld": "stickman historians with glasses in a library shaking their heads at the same book titled 'WARM WATER', one holding a magnifying glass",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "88",
+   "anchor": "Russia didn't push south",
+   "type": "kaart",
+   "beeld": "a map of Russia and the lands to its south with several big arrows pushing southward from Russia",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "89",
+   "anchor": "It also wanted the",
+   "type": "scene",
+   "beeld": "wide golden wheat fields of the steppe under a big blue sky, a stickman farmer in a 1700s peasant tunic with a scythe",
+   "era": "the 1700s",
+   "ref": []
+  },
+  {
+   "n": "90",
+   "anchor": "and an end to",
+   "type": "scene",
+   "beeld": "Crimean Tatar stickman riders on horseback galloping across the steppe with bows, dust clouds",
+   "era": "the 1500s",
+   "ref": []
+  },
+  {
+   "n": "91",
+   "anchor": "who even burned Moscow",
+   "type": "scene",
+   "beeld": "an old wooden city with onion-domed churches and brick walls on fire, thick smoke over it, a parchment banner 'MOSCOW 1571'; no people",
+   "era": "1571",
+   "ref": []
+  },
+  {
+   "n": "92",
+   "anchor": "and Russians didn't cross",
+   "type": "scene",
+   "beeld": "stickman fur trappers in thick fur coats and hats in a snowy Siberian pine forest holding sable furs",
+   "era": "the 1600s",
+   "ref": []
+  },
+  {
+   "n": "93",
+   "anchor": "So the map didn't",
+   "type": "kaart",
+   "beeld": "a map of Russia with four arrows going out labelled 'FARMLAND', 'SAFETY', 'FUR' and 'PORTS'",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "94",
+   "anchor": "but it kept pushing",
+   "type": "kaart",
+   "beeld": "a map of Russia with three glowing narrow gateways marked: the Danish straits, the Bosporus and the Arctic, big arrows from Russia pointing at all three",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "95",
+   "anchor": "And right now, those",
+   "type": "concept",
+   "beeld": "the big old house labelled 'RUSSIA' with all its doors slowly closing by themselves, motion lines, ominous dark clouds above",
+   "era": "now",
+   "ref": [
+    "24"
+   ]
+  },
+  {
+   "n": "K4",
+   "anchor": "Chapter four: The doors",
+   "type": "card",
+   "beeld": "a modern grey warship in front of two giant steel doors in the sea that are slamming shut, dark stormy sky",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "96",
+   "anchor": "In twenty fourteen, Russia",
+   "type": "kaart",
+   "beeld": "a map of the Black Sea with the Crimean peninsula highlighted, a small banner '2014'",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "97",
+   "anchor": "Most of the world",
+   "type": "kaart",
+   "beeld": "a world map where most countries are grey, with a big red stamp 'NOT RECOGNISED' over the Crimean peninsula",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "98",
+   "anchor": "But for Moscow, one",
+   "type": "scene",
+   "beeld": "a modern naval harbor in a sunny bay with several modern grey warships with the Russian naval ensign (white flag with a blue diagonal cross), a parchment banner 'SEVASTOPOL'; no people",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "99",
+   "anchor": "the home of its",
+   "type": "scene",
+   "beeld": "close-up of a big modern grey Russian warship with the Russian naval ensign (white flag with a blue diagonal cross) at a pier, a parchment banner 'BLACK SEA FLEET'; no people",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "100",
+   "anchor": "Then in twenty twenty-two",
+   "type": "tijdlijn",
+   "beeld": "A glowing red arrow points at the far right end of the timeline with large bold text '2022'",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "101",
+   "anchor": "and the old geography",
+   "type": "kaart",
+   "beeld": "an old parchment map of the Black Sea and the Bosporus with the narrow strait glowing bright red",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "102",
+   "anchor": "Turkey used a treaty",
+   "type": "scene",
+   "beeld": "a Turkish stickman official in a modern suit at the Bosporus shore holding an old document labelled 'MONTREUX 1936', the Turkish flag (red with a white crescent and star) behind him",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "103",
+   "anchor": "to warships of countries",
+   "type": "scene",
+   "beeld": "a big barrier gate across the Bosporus strait with a sign 'CLOSED TO WARSHIPS', modern grey warships waiting in front of it, Istanbul skyline; no people",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "104",
+   "anchor": "Russian warships that were",
+   "type": "scene",
+   "beeld": "a modern grey Russian warship with the Russian naval ensign (white flag with a blue diagonal cross) in the Mediterranean outside the closed Bosporus gate, with a sad face",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "105",
+   "anchor": "could no longer get",
+   "type": "kaart",
+   "beeld": "a map of the Bosporus with a warship icon outside it and a red 'X' over the passage",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "106",
+   "anchor": "Inside the Black Sea",
+   "type": "scene",
+   "beeld": "at night, small low black uncrewed sea drone boats racing across dark waves toward a big grey warship, white wakes, a small Ukrainian flag (blue over yellow) on the side of the scene; no people",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "107",
+   "anchor": "hit the fleet again",
+   "type": "scene",
+   "beeld": "a big splash and orange explosion next to a grey warship at sea, black smoke; no people",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "108",
+   "anchor": "Ukraine says around a",
+   "type": "concept",
+   "beeld": "a chart of 12 small grey warship icons, 4 of them colored red, with a speech bubble 'UKRAINE SAYS: ABOUT 1/3'",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "109",
+   "anchor": "By twenty twenty-three, many",
+   "type": "kaart",
+   "beeld": "a map of the Black Sea with arrows showing small warship icons moving from Crimea east to a red pin 'NOVOROSSIYSK'",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "110",
+   "anchor": "and Ukraine reopened its",
+   "type": "scene",
+   "beeld": "a cargo ship full of golden grain sailing along a coast with a Ukrainian flag (blue over yellow), sunflowers on the shore; no people",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "111",
+   "anchor": "The warm water port",
+   "type": "scene",
+   "beeld": "the modern harbor of Sevastopol under dark clouds with warning signs and a lonely warship hiding behind a barrier; no people",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "112",
+   "anchor": "had become one of",
+   "type": "concept",
+   "beeld": "a big red warning sign with an exclamation mark planted in front of a harbor drawing",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "113",
+   "anchor": "Now look north. In",
+   "type": "kaart",
+   "beeld": "a map of the Baltic Sea region with Finland highlighted in NATO blue and a small banner '2023'",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "114",
+   "anchor": "In twenty twenty-four, Sweden",
+   "type": "kaart",
+   "beeld": "the same map of the Baltic Sea region with Sweden now also highlighted in NATO blue and a small banner '2024'",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "115",
+   "anchor": "Today, every country around",
+   "type": "kaart",
+   "beeld": "a map of the Baltic Sea where all the countries around it are blue, and only two small pieces of Russia (Saint Petersburg and Kaliningrad) are red",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "116",
+   "anchor": "except one, Russia",
+   "type": "kaart",
+   "beeld": "a close-up of the map of the Baltic Sea: only Russia's small coast at Saint Petersburg and the small Kaliningrad piece are red, all around them blue",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "117",
+   "anchor": "Remember the neighbor's garden",
+   "type": "concept",
+   "beeld": "the big old house labelled 'RUSSIA' next to its neighbors' gardens",
+   "era": "now",
+   "ref": [
+    "24"
+   ]
+  },
+  {
+   "n": "118",
+   "anchor": "It's now one big",
+   "type": "concept",
+   "beeld": "all the neighbor gardens around the big old house labelled 'RUSSIA' have joined into one big garden with one shared blue fence, neighbor stickmen holding hands, the big house left outside",
+   "era": "now",
+   "ref": [
+    "24"
+   ]
+  },
+  {
+   "n": "119",
+   "anchor": "Yet that narrow sea",
+   "type": "scene",
+   "beeld": "a busy narrow sea lane with oil tankers sailing out of a big northern port with cranes; no people",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "120",
+   "anchor": "Through it sails a",
+   "type": "scene",
+   "beeld": "an old rusty oil tanker sailing at night with its lights off and a dark shadow around it, a parchment banner 'SHADOW FLEET'; no people",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "121",
+   "anchor": "old tankers with unclear",
+   "type": "scene",
+   "beeld": "several old rusty oil tankers with question marks painted on their flags, sailing in a line; no people",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "122",
+   "anchor": "carrying Russian oil past",
+   "type": "scene",
+   "beeld": "an old rusty oil tanker passing under a very long modern bridge across a narrow strait between green Danish islands; no people",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "123",
+   "anchor": "and European countries have",
+   "type": "scene",
+   "beeld": "a coast guard ship with a flashing light following an old rusty tanker on a grey sea; no people",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "124",
+   "anchor": "In February twenty twenty-six",
+   "type": "scene",
+   "beeld": "a military helicopter hovering over an old oil tanker at sea, stickman special forces in helmets rappelling down on ropes",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "125",
+   "anchor": "escorted it into port",
+   "type": "scene",
+   "beeld": "a navy patrol ship escorting the old rusty tanker into a harbor with cranes, the Belgian flag (black, yellow, red vertical stripes) on the patrol ship; no people",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "126",
+   "anchor": "So if the old",
+   "type": "concept",
+   "beeld": "a friendly modern stickman narrator in a blue hoodie and jeans looking at a map of Russia with several closed doors drawn on its coasts, a big question mark",
+   "era": "now",
+   "ref": [
+    "NARR"
+   ]
+  },
+  {
+   "n": "127",
+   "anchor": "where else can Russia",
+   "type": "kaart",
+   "beeld": "a map of Russia with question marks over the Mediterranean in the south and the Arctic Ocean in the north",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "K5",
+   "anchor": "Chapter five: Looking for",
+   "type": "card",
+   "beeld": "a huge red nuclear icebreaker ship breaking through melting Arctic sea ice, open blue water ahead, low golden sun",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "128",
+   "anchor": "Russia's only naval base",
+   "type": "kaart",
+   "beeld": "a map of the Mediterranean Sea with a red pin 'TARTUS' on the coast of Syria",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "129",
+   "anchor": "When the Syrian president",
+   "type": "scene",
+   "beeld": "an empty grand chair in a palace hall with a large portrait frame lying face-down on the floor, a parchment banner 'DECEMBER 2024'; no people",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "130",
+   "anchor": "its future was suddenly",
+   "type": "scene",
+   "beeld": "modern grey Russian warships with the Russian naval ensign (white flag with a blue diagonal cross) sailing out of a sunny Mediterranean harbor with sandy buildings, leaving an empty pier; no people",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "131",
+   "anchor": "In twenty twenty-six, Russia",
+   "type": "scene",
+   "beeld": "two stickman diplomats in modern suits signing a document at a table, with the Russian flag (white, blue, red) and the Syrian flag (green, white, black stripes with three red stars) behind them",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "132",
+   "anchor": "The base becomes a",
+   "type": "scene",
+   "beeld": "a Mediterranean harbor pier with a new sign 'JOINT TRAINING CENTRE' and Syrian stickman port workers taking over the commercial pier",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "133",
+   "anchor": "A door that's still",
+   "type": "concept",
+   "beeld": "the big old house labelled 'RUSSIA' with one small door on the far side that is open but has two different locks and two keys",
+   "era": "now",
+   "ref": [
+    "24"
+   ]
+  },
+  {
+   "n": "134",
+   "anchor": "And then there's the",
+   "type": "kaart",
+   "beeld": "a top-down map of the Arctic Ocean with Russia's long northern coast along the bottom",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "135",
+   "anchor": "the ice along Russia's",
+   "type": "scene",
+   "beeld": "melting Arctic sea ice breaking into floating floes with patches of open blue water, a small polar bear far away on a floe",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "136",
+   "anchor": "Russia calls the route",
+   "type": "kaart",
+   "beeld": "a map of Russia's northern coast with a red dotted shipping route along it from Murmansk to the Bering Strait, label 'NORTHERN SEA ROUTE'",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "137",
+   "anchor": "and it's betting big",
+   "type": "scene",
+   "beeld": "a huge red-and-black nuclear icebreaker with the Russian flag smashing through thick white ice, steam and broken ice around it; no people",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "138",
+   "anchor": "In twenty twenty-five, a",
+   "type": "concept",
+   "beeld": "103 tiny ship icons in a line on an icy route, with bold text '103 SHIPS (2025)'",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "139",
+   "anchor": "That sounds like a",
+   "type": "concept",
+   "beeld": "a small pile of 103 tiny ship icons on the left, looking proud",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "140",
+   "anchor": "but it's about as",
+   "type": "kaart",
+   "beeld": "a map of the southern tip of Africa with a very crowded busy lane of hundreds of ship icons going around it, label '1.5 DAYS'",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "141",
+   "anchor": "The frozen door is",
+   "type": "concept",
+   "beeld": "the big old house labelled 'RUSSIA': the frozen top door slowly opening, ice cracking and falling off it",
+   "era": "now",
+   "ref": [
+    "24"
+   ]
+  },
+  {
+   "n": "142",
+   "anchor": "So the biggest house",
+   "type": "concept",
+   "beeld": "a friendly modern stickman narrator in a blue hoodie and jeans standing in front of the big old house labelled 'RUSSIA', looking at its many doors, thoughtful",
+   "era": "now",
+   "ref": [
+    "24",
+    "NARR"
+   ]
+  },
+  {
+   "n": "143",
+   "anchor": "Three hundred years after",
+   "type": "scene",
+   "beeld": "Peter the Great as a very tall thin stickman with a small dark mustache, a dark green 1700s Russian army coat with red cuffs, a black tricorn hat and tall boots on a hill looking at a small stone fortress by the sea at sunset",
+   "era": "the late 1600s",
+   "ref": [
+    "26"
+   ]
+  },
+  {
+   "n": "144",
+   "anchor": "the map is still",
+   "type": "kaart",
+   "beeld": "an old parchment map of Russia with modern ship routes and all the narrow sea passages glowing, the whole map seen from above on a wooden table",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "O",
+   "anchor": "If you enjoyed this",
+   "type": "outro",
+   "beeld": "vaste outro (detective-mascotte, NEXUS DOCS, subscribe) + outro-jingle",
+   "era": "none",
+   "ref": []
+  }
+ ]
+}
