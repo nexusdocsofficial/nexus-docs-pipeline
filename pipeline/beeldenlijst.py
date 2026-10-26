@@ -14,7 +14,7 @@ from .common import load_json, save_json, load_words, find_phrase
 
 BASE = ("Hand-drawn cartoon illustration, 16:9, full frame, no borders. Simple stickman characters with round white heads, "
         "thick black outlines, simple facial expressions. Clean bold lines, flat vibrant colors, soft shading. Simple flat "
-        "cartoon backgrounds, not realistic; every stickman has a visible simple face.")
+        "cartoon backgrounds, not realistic; every stickman has a visible simple face. Only show flags that are explicitly described.")
 TYPES = {
     "scene": "Fully colored background scene drawn in simple flat cartoon shapes: {b} Warm, rich colors, storybook documentary feel.",
     "concept": "Plain pure white background, no scenery. Minimal composition: {b} Only the essential elements, lots of white space.",
