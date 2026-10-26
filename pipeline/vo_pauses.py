@@ -5,6 +5,8 @@ Inserts silence at every paragraph boundary of the script, cut at the REAL silen
   - after a normal paragraph:              --para  (default 0.7 s)
   - before and after a chapter announcement ("Chapter one. ..."): --chapter (default 1.8 s)
 Writes the new audio and words.json on the new timeline (our format: w/start/end).
+Word timestamps from the TTS can be 0.3-0.5 s late: re-transcribe the result (Creative Claw `transcribe`)
+for exact timing before building the edit. Every cut gets a 10 ms fade (no clicks).
 
 usage: python3 -m pipeline.vo_pauses script.txt raw.mp3 raw-words.json OUT.mp3 OUT-words.json
        script.txt = the exact text sent to the TTS, paragraphs separated by a blank line.
@@ -31,16 +33,48 @@ def decode(path):
     return np.frombuffer(raw, np.int16).astype(np.float32)
 
 
-def quietest(a, t0, t1, win=0.02):
-    """Time of the quietest window between t0 and t1 (seconds)."""
-    if t1 - t0 < win * 2:
-        return (t0 + t1) / 2
-    i0, i1, w = int(t0 * SR), int(t1 * SR), int(win * SR)
-    seg = a[i0:i1] ** 2
-    if len(seg) < w:
-        return (t0 + t1) / 2
-    e = np.convolve(seg, np.ones(w), "valid")
-    return (i0 + int(np.argmin(e)) + w // 2) / SR
+def frames_db(a, t0, t1, hop=0.01):
+    i0, i1, h = max(0, int(t0 * SR)), min(len(a), int(t1 * SR)), int(hop * SR)
+    out = []
+    for i in range(i0, i1 - h, h):
+        s = a[i:i + h]
+        out.append((i / SR, 20 * np.log10(np.sqrt((s ** 2).mean()) / 32768 + 1e-9)))
+    return out
+
+
+def quietest(a, end, nxt, before=0.9, after=0.4, thresh=-50.0):
+    """Cut point in the REAL silence between two words.
+
+    TTS word timestamps can be 0.3-0.5 s late, so search a wide window around the boundary,
+    take the longest run of frames below `thresh` dBFS (ties: closest to the boundary), cut in its middle.
+    Returns (time, run_length_seconds)."""
+    fr = frames_db(a, end - before, nxt + after)
+    runs, cur = [], None
+    for t, d in fr:
+        if d < thresh:
+            cur = [t, t + 0.01] if cur is None else [cur[0], t + 0.01]
+        elif cur is not None:
+            runs.append(cur); cur = None
+    if cur is not None:
+        runs.append(cur)
+    if not runs:
+        t, _ = min(fr, key=lambda x: x[1])
+        return t + 0.005, 0.0
+    mid = (end + nxt) / 2
+    best = max(runs, key=lambda r: (round(r[1] - r[0], 2), -abs((r[0] + r[1]) / 2 - mid)))
+    return (best[0] + best[1]) / 2, best[1] - best[0]
+
+
+def fade(x, n, out):
+    n = min(n, len(x))
+    if n:
+        r = np.linspace(1, 0, n) if out else np.linspace(0, 1, n)
+        x = x.copy()
+        if out:
+            x[-n:] *= r
+        else:
+            x[:n] *= r
+    return x
 
 
 def paragraph_ends(paras, words):
@@ -80,18 +114,21 @@ def main(script, raw_audio, raw_words, out_audio, out_words, para=0.7, chapter=1
         if e is None or e + 1 >= len(words):
             continue
         pause = chapter if (is_ch[k] or is_ch[k + 1]) else para
-        t = quietest(a, words[e]["end"], words[e + 1]["start"])
+        t, run = quietest(a, words[e]["end"], words[e + 1]["start"])
+        if run < 0.06:
+            print(f"! weinig stilte na '{words[e]['w']}' ({run*1000:.0f} ms) rond {words[e]['end']:.2f}s")
         cuts.append((t, pause, e))
     pieces, last, shift, out = [], 0, 0.0, []
     wi = 0
+    F = int(0.01 * SR)
     for t, pause, e in cuts:
-        pieces.append(a[int(last * SR):int(t * SR)])
+        pieces.append(fade(fade(a[int(last * SR):int(t * SR)], F, True), F if last else 0, False))
         pieces.append(np.zeros(int(pause * SR), np.float32))
         while wi <= e:
             w = words[wi]; out.append({"w": w["w"], "start": round(w["start"] + shift, 3), "end": round(w["end"] + shift, 3)}); wi += 1
         shift += pause
         last = t
-    pieces.append(a[int(last * SR):])
+    pieces.append(fade(a[int(last * SR):], F, False))
     while wi < len(words):
         w = words[wi]; out.append({"w": w["w"], "start": round(w["start"] + shift, 3), "end": round(w["end"] + shift, 3)}); wi += 1
     full = np.concatenate(pieces).clip(-32768, 32767).astype(np.int16)

@@ -1,183 +1,183 @@
 [
  {
   "w": "Russia",
-  "start": 0.0,
-  "end": 0.48
+  "start": 0.12,
+  "end": 0.54
  },
  {
   "w": "is",
-  "start": 0.56,
-  "end": 0.64
+  "start": 0.6,
+  "end": 0.7
  },
  {
   "w": "the",
-  "start": 0.72,
-  "end": 0.88
+  "start": 0.74,
+  "end": 0.9
  },
  {
   "w": "biggest",
-  "start": 0.96,
-  "end": 1.28
+  "start": 0.94,
+  "end": 1.26
  },
  {
   "w": "country",
-  "start": 1.52,
-  "end": 1.76
+  "start": 1.38,
+  "end": 1.72
  },
  {
   "w": "on",
   "start": 1.84,
-  "end": 2.0
+  "end": 2.04
  },
  {
   "w": "Earth.",
-  "start": 2.08,
-  "end": 2.88
+  "start": 2.12,
+  "end": 2.42
  },
  {
   "w": "Its",
   "start": 3.0,
-  "end": 3.12
+  "end": 3.14
  },
  {
   "w": "coast",
-  "start": 3.2,
-  "end": 3.6
+  "start": 3.22,
+  "end": 3.56
  },
  {
   "w": "touches",
-  "start": 3.84,
-  "end": 4.08
+  "start": 3.7,
+  "end": 4.1
  },
  {
   "w": "three",
-  "start": 4.24,
-  "end": 4.4
+  "start": 4.14,
+  "end": 4.38
  },
  {
   "w": "oceans.",
-  "start": 4.48,
-  "end": 5.44
+  "start": 4.52,
+  "end": 4.96
  },
  {
   "w": "And",
-  "start": 6.22,
-  "end": 6.3
+  "start": 6.24,
+  "end": 6.34
  },
  {
   "w": "yet,",
-  "start": 6.38,
-  "end": 6.78
+  "start": 6.4,
+  "end": 6.64
  },
  {
   "w": "for",
-  "start": 6.86,
-  "end": 7.02
+  "start": 6.9,
+  "end": 7.04
  },
  {
   "w": "three",
-  "start": 7.1,
+  "start": 7.12,
   "end": 7.34
  },
  {
   "w": "hundred",
-  "start": 7.42,
-  "end": 7.74
+  "start": 7.44,
+  "end": 7.76
  },
  {
   "w": "years,",
-  "start": 7.82,
-  "end": 8.38
+  "start": 7.84,
+  "end": 8.22
  },
  {
   "w": "it",
-  "start": 8.42,
-  "end": 8.46
+  "start": 8.46,
+  "end": 8.5
  },
  {
   "w": "has",
   "start": 8.54,
-  "end": 8.62
+  "end": 8.66
  },
  {
   "w": "been",
-  "start": 8.74,
-  "end": 8.86
+  "start": 8.68,
+  "end": 8.9
  },
  {
   "w": "desperate",
-  "start": 8.94,
-  "end": 9.34
+  "start": 8.96,
+  "end": 9.4
  },
  {
   "w": "for",
-  "start": 9.42,
-  "end": 9.66
+  "start": 9.46,
+  "end": 9.56
  },
  {
   "w": "one",
-  "start": 9.74,
+  "start": 9.78,
   "end": 9.9
  },
  {
   "w": "thing:",
-  "start": 9.98,
-  "end": 10.86
+  "start": 10.06,
+  "end": 10.3
  },
  {
   "w": "warm",
-  "start": 10.94,
-  "end": 11.26
+  "start": 11.0,
+  "end": 11.28
  },
  {
-  "w": "water.",
-  "start": 11.34,
-  "end": 12.3
+  "w": "water,",
+  "start": 11.42,
+  "end": 11.7
  },
  {
-  "w": "A",
-  "start": 12.38,
-  "end": 12.46
+  "w": "a",
+  "start": 12.42,
+  "end": 12.5
  },
  {
   "w": "port",
-  "start": 12.54,
-  "end": 12.86
+  "start": 12.58,
+  "end": 12.88
  },
  {
   "w": "that",
-  "start": 12.98,
+  "start": 12.94,
   "end": 13.1
  },
  {
   "w": "doesn't",
-  "start": 13.18,
-  "end": 13.42
+  "start": 13.14,
+  "end": 13.44
  },
  {
   "w": "freeze,",
-  "start": 13.5,
-  "end": 14.14
+  "start": 13.52,
+  "end": 13.92
  },
  {
   "w": "and",
-  "start": 14.22,
-  "end": 14.3
+  "start": 14.24,
+  "end": 14.32
  },
  {
   "w": "a",
-  "start": 14.38,
-  "end": 14.46
+  "start": 14.36,
+  "end": 14.44
  },
  {
   "w": "sea",
   "start": 14.54,
-  "end": 14.78
+  "end": 14.8
  },
  {
   "w": "it",
-  "start": 14.82,
-  "end": 14.86
+  "start": 14.86,
+  "end": 14.92
  },
  {
   "w": "can",
@@ -186,67 +186,67 @@
  },
  {
   "w": "actually",
-  "start": 15.38,
-  "end": 15.66
+  "start": 15.2,
+  "end": 15.62
  },
  {
   "w": "sail",
-  "start": 15.74,
-  "end": 15.9
+  "start": 15.7,
+  "end": 15.96
  },
  {
   "w": "out",
-  "start": 15.98,
-  "end": 16.06
+  "start": 16.02,
+  "end": 16.12
  },
  {
   "w": "of.",
-  "start": 16.14,
-  "end": 16.94
+  "start": 16.18,
+  "end": 16.32
  },
  {
   "w": "It",
   "start": 17.72,
-  "end": 17.8
+  "end": 17.84
  },
  {
   "w": "fought",
-  "start": 17.88,
-  "end": 18.2
+  "start": 17.92,
+  "end": 18.18
  },
  {
   "w": "war",
-  "start": 18.4,
-  "end": 18.6
+  "start": 18.28,
+  "end": 18.62
  },
  {
   "w": "after",
-  "start": 18.68,
-  "end": 19.0
+  "start": 18.7,
+  "end": 19.04
  },
  {
   "w": "war",
-  "start": 19.08,
-  "end": 19.4
+  "start": 19.1,
+  "end": 19.38
  },
  {
   "w": "for",
-  "start": 19.48,
-  "end": 19.56
+  "start": 19.44,
+  "end": 19.6
  },
  {
-  "w": "it.",
+  "w": "it,",
   "start": 19.64,
-  "end": 20.2
+  "end": 19.74
  },
  {
-  "w": "And",
+  "w": "and",
   "start": 20.28,
-  "end": 20.36
+  "end": 20.38
  },
  {
-  "w": "once,",
-  "start": 20.44,
+  "w": "once",
+  "start": 20.5,
   "end": 20.92
  },
  {
@@ -256,113 +256,113 @@
  },
  {
   "w": "sent",
-  "start": 21.2,
-  "end": 21.32
+  "start": 21.14,
+  "end": 21.34
  },
  {
   "w": "an",
-  "start": 21.36,
-  "end": 21.4
+  "start": 21.4,
+  "end": 21.44
  },
  {
   "w": "entire",
-  "start": 21.48,
-  "end": 21.96
+  "start": 21.5,
+  "end": 22.06
  },
  {
   "w": "fleet",
-  "start": 22.12,
-  "end": 22.52
+  "start": 22.16,
+  "end": 22.48
  },
  {
   "w": "halfway",
-  "start": 22.64,
-  "end": 22.92
+  "start": 22.58,
+  "end": 22.96
  },
  {
   "w": "around",
-  "start": 23.08,
-  "end": 23.24
+  "start": 23.04,
+  "end": 23.28
  },
  {
   "w": "the",
-  "start": 23.32,
+  "start": 23.3,
   "end": 23.4
  },
  {
   "w": "world,",
-  "start": 23.56,
-  "end": 24.04
+  "start": 23.44,
+  "end": 23.78
  },
  {
   "w": "eighteen",
-  "start": 24.12,
-  "end": 24.52
+  "start": 24.16,
+  "end": 24.6
  },
  {
   "w": "thousand",
-  "start": 24.76,
-  "end": 25.16
+  "start": 24.8,
+  "end": 25.18
  },
  {
   "w": "miles,",
-  "start": 25.24,
-  "end": 25.96
+  "start": 25.26,
+  "end": 25.68
  },
  {
   "w": "only",
-  "start": 26.04,
+  "start": 26.08,
   "end": 26.28
  },
  {
   "w": "to",
-  "start": 26.36,
-  "end": 26.44
+  "start": 26.34,
+  "end": 26.42
  },
  {
   "w": "lose",
-  "start": 26.6,
+  "start": 26.48,
   "end": 26.76
  },
  {
   "w": "almost",
-  "start": 27.0,
+  "start": 26.84,
   "end": 27.24
  },
  {
   "w": "all",
-  "start": 27.32,
-  "end": 27.4
+  "start": 27.34,
+  "end": 27.46
  },
  {
   "w": "of",
-  "start": 27.48,
-  "end": 27.56
+  "start": 27.5,
+  "end": 27.58
  },
  {
   "w": "it",
-  "start": 27.68,
+  "start": 27.62,
   "end": 27.8
  },
  {
   "w": "in",
-  "start": 27.84,
-  "end": 27.88
+  "start": 27.88,
+  "end": 27.92
  },
  {
   "w": "a",
-  "start": 28.0,
-  "end": 28.12
+  "start": 27.98,
+  "end": 28.08
  },
  {
   "w": "single",
-  "start": 28.28,
-  "end": 28.44
+  "start": 28.18,
+  "end": 28.5
  },
  {
   "w": "battle.",
-  "start": 28.52,
-  "end": 29.4
+  "start": 28.54,
+  "end": 28.86
  },
  {
   "w": "And",
@@ -371,83 +371,83 @@
  },
  {
   "w": "today,",
-  "start": 30.46,
-  "end": 30.98
+  "start": 30.3,
+  "end": 30.66
  },
  {
   "w": "those",
-  "start": 31.06,
-  "end": 31.3
+  "start": 31.1,
+  "end": 31.32
  },
  {
   "w": "same",
-  "start": 31.38,
-  "end": 31.62
+  "start": 31.42,
+  "end": 31.64
  },
  {
   "w": "old",
-  "start": 31.74,
-  "end": 31.86
+  "start": 31.7,
+  "end": 31.88
  },
  {
   "w": "doors",
-  "start": 32.1,
-  "end": 32.34
+  "start": 31.94,
+  "end": 32.4
  },
  {
   "w": "are",
-  "start": 32.42,
+  "start": 32.439,
   "end": 32.58
  },
  {
   "w": "slamming",
-  "start": 32.66,
-  "end": 32.98
+  "start": 32.68,
+  "end": 33.08
  },
  {
   "w": "shut",
-  "start": 33.14,
-  "end": 33.3
+  "start": 33.16,
+  "end": 33.32
  },
  {
   "w": "again.",
-  "start": 33.46,
-  "end": 34.02
+  "start": 33.36,
+  "end": 33.64
  },
  {
   "w": "So",
-  "start": 35.12,
-  "end": 35.28
+  "start": 35.2,
+  "end": 35.32
  },
  {
   "w": "why",
-  "start": 35.36,
-  "end": 35.52
+  "start": 35.4,
+  "end": 35.58
  },
  {
   "w": "is",
-  "start": 35.6,
-  "end": 35.68
+  "start": 35.64,
+  "end": 35.74
  },
  {
   "w": "the",
-  "start": 35.76,
-  "end": 35.92
+  "start": 35.78,
+  "end": 35.94
  },
  {
   "w": "biggest",
-  "start": 36.0,
-  "end": 36.24
+  "start": 35.98,
+  "end": 36.3
  },
  {
   "w": "country",
-  "start": 36.32,
-  "end": 36.64
+  "start": 36.36,
+  "end": 36.66
  },
  {
   "w": "in",
-  "start": 36.68,
-  "end": 36.72
+  "start": 36.7,
+  "end": 36.76
  },
  {
   "w": "the",
@@ -456,283 +456,283 @@
  },
  {
   "w": "world",
-  "start": 37.12,
-  "end": 37.36
+  "start": 36.94,
+  "end": 37.32
  },
  {
   "w": "so",
-  "start": 37.44,
-  "end": 37.52
+  "start": 37.42,
+  "end": 37.54
  },
  {
   "w": "obsessed",
-  "start": 37.72,
-  "end": 38.16
+  "start": 37.6,
+  "end": 38.2
  },
  {
   "w": "with",
   "start": 38.24,
-  "end": 38.32
+  "end": 38.34
  },
  {
   "w": "a",
   "start": 38.4,
-  "end": 38.48
+  "end": 38.46
  },
  {
   "w": "little",
-  "start": 38.6,
-  "end": 38.72
+  "start": 38.54,
+  "end": 38.76
  },
  {
   "w": "bit",
   "start": 38.8,
-  "end": 38.88
+  "end": 38.9
  },
  {
   "w": "of",
-  "start": 38.96,
-  "end": 39.04
+  "start": 38.94,
+  "end": 39.1
  },
  {
   "w": "warm",
-  "start": 39.12,
-  "end": 39.36
+  "start": 39.16,
+  "end": 39.44
  },
  {
   "w": "water?",
-  "start": 39.44,
-  "end": 40.4
+  "start": 39.48,
+  "end": 39.78
  },
  {
   "w": "Let's",
   "start": 40.48,
-  "end": 40.64
+  "end": 40.66
  },
  {
   "w": "look",
   "start": 40.68,
-  "end": 40.72
+  "end": 40.78
  },
  {
   "w": "at",
-  "start": 40.8,
+  "start": 40.82,
   "end": 40.88
  },
  {
   "w": "the",
-  "start": 40.933,
-  "end": 40.987
+  "start": 40.92,
+  "end": 40.98
  },
  {
   "w": "map.",
   "start": 41.04,
-  "end": 41.72
+  "end": 41.3
  },
  {
   "w": "Chapter",
-  "start": 43.96,
-  "end": 44.28
+  "start": 44.0,
+  "end": 44.3
  },
  {
-  "w": "one.",
-  "start": 44.36,
-  "end": 45.08
+  "w": "One:",
+  "start": 44.42,
+  "end": 44.64
  },
  {
   "w": "The",
-  "start": 45.12,
-  "end": 45.16
+  "start": 45.14,
+  "end": 45.2
  },
  {
   "w": "Frozen",
-  "start": 45.32,
-  "end": 45.72
+  "start": 45.36,
+  "end": 45.74
  },
  {
   "w": "Doors.",
-  "start": 45.8,
-  "end": 46.76
+  "start": 45.84,
+  "end": 46.3
  },
  {
   "w": "Look",
-  "start": 49.04,
-  "end": 49.2
+  "start": 49.12,
+  "end": 49.24
  },
  {
   "w": "at",
-  "start": 49.24,
-  "end": 49.28
+  "start": 49.28,
+  "end": 49.36
  },
  {
   "w": "where",
-  "start": 49.36,
-  "end": 49.52
+  "start": 49.4,
+  "end": 49.58
  },
  {
   "w": "Russia's",
-  "start": 49.6,
-  "end": 49.92
+  "start": 49.62,
+  "end": 49.98
  },
  {
   "w": "coast",
-  "start": 50.0,
-  "end": 50.4
+  "start": 50.04,
+  "end": 50.42
  },
  {
   "w": "actually",
-  "start": 50.48,
-  "end": 50.88
+  "start": 50.52,
+  "end": 50.94
  },
  {
   "w": "is.",
   "start": 51.04,
-  "end": 51.84
+  "end": 51.32
  },
  {
   "w": "Most",
-  "start": 52.62,
-  "end": 52.78
+  "start": 52.64,
+  "end": 52.84
  },
  {
   "w": "of",
-  "start": 52.86,
-  "end": 52.94
+  "start": 52.9,
+  "end": 52.96
  },
  {
   "w": "it",
-  "start": 53.02,
-  "end": 53.1
+  "start": 53.0,
+  "end": 53.14
  },
  {
   "w": "is",
-  "start": 53.18,
-  "end": 53.26
+  "start": 53.2,
+  "end": 53.28
  },
  {
   "w": "up",
   "start": 53.34,
-  "end": 53.42
+  "end": 53.46
  },
  {
-  "w": "here,",
-  "start": 53.5,
-  "end": 53.98
+  "w": "here",
+  "start": 53.52,
+  "end": 54.0
  },
  {
   "w": "along",
-  "start": 54.06,
-  "end": 54.3
+  "start": 54.1,
+  "end": 54.32
  },
  {
   "w": "the",
-  "start": 54.38,
+  "start": 54.36,
   "end": 54.46
  },
  {
   "w": "Arctic",
-  "start": 54.5,
-  "end": 54.78
+  "start": 54.54,
+  "end": 54.82
  },
  {
   "w": "Ocean.",
-  "start": 54.86,
-  "end": 55.66
+  "start": 54.9,
+  "end": 55.2
  },
  {
   "w": "For",
-  "start": 55.74,
-  "end": 55.82
+  "start": 55.76,
+  "end": 55.86
  },
  {
   "w": "much",
   "start": 55.9,
-  "end": 55.98
+  "end": 56.04
  },
  {
   "w": "of",
-  "start": 56.06,
-  "end": 56.14
+  "start": 56.1,
+  "end": 56.16
  },
  {
   "w": "the",
-  "start": 56.18,
-  "end": 56.22
+  "start": 56.2,
+  "end": 56.3
  },
  {
   "w": "year,",
-  "start": 56.3,
-  "end": 56.7
+  "start": 56.34,
+  "end": 56.52
  },
  {
   "w": "that",
   "start": 56.78,
-  "end": 56.94
+  "end": 56.98
  },
  {
   "w": "sea",
-  "start": 57.02,
-  "end": 57.26
+  "start": 57.06,
+  "end": 57.32
  },
  {
   "w": "is",
-  "start": 57.34,
-  "end": 57.5
+  "start": 57.38,
+  "end": 57.54
  },
  {
   "w": "frozen",
-  "start": 57.58,
+  "start": 57.62,
   "end": 57.98
  },
  {
   "w": "solid.",
-  "start": 58.14,
-  "end": 59.02
+  "start": 58.18,
+  "end": 58.54
  },
  {
   "w": "In",
-  "start": 59.8,
-  "end": 59.84
+  "start": 59.82,
+  "end": 59.88
  },
  {
   "w": "the",
-  "start": 59.88,
-  "end": 59.96
+  "start": 59.9,
+  "end": 59.98
  },
  {
-  "w": "far",
+  "w": "Far",
   "start": 60.04,
-  "end": 60.2
+  "end": 60.22
  },
  {
-  "w": "east,",
-  "start": 60.28,
-  "end": 60.84
+  "w": "East,",
+  "start": 60.34,
+  "end": 60.62
  },
  {
   "w": "the",
-  "start": 60.88,
-  "end": 60.92
+  "start": 60.9,
+  "end": 60.98
  },
  {
-  "w": "Pacific.",
-  "start": 61.0,
-  "end": 61.88
+  "w": "Pacific,",
+  "start": 61.02,
+  "end": 61.48
  },
  {
-  "w": "But",
+  "w": "but",
   "start": 61.96,
-  "end": 62.04
+  "end": 62.06
  },
  {
   "w": "that's",
-  "start": 62.12,
-  "end": 62.36
+  "start": 62.1,
+  "end": 62.38
  },
  {
   "w": "thousands",
   "start": 62.44,
-  "end": 62.84
+  "end": 62.86
  },
  {
   "w": "of",
@@ -741,148 +741,143 @@
  },
  {
   "w": "miles",
-  "start": 63.04,
-  "end": 63.4
+  "start": 63.06,
+  "end": 63.42
  },
  {
   "w": "from",
-  "start": 63.48,
-  "end": 63.56
+  "start": 63.46,
+  "end": 63.58
  },
  {
   "w": "Moscow,",
-  "start": 63.68,
-  "end": 64.36
+  "start": 63.62,
+  "end": 64.08
  },
  {
   "w": "and",
-  "start": 64.4,
-  "end": 64.44
+  "start": 64.42,
+  "end": 64.48
  },
  {
   "w": "even",
-  "start": 64.52,
-  "end": 64.76
+  "start": 64.54,
+  "end": 64.739
  },
  {
   "w": "there,",
-  "start": 64.96,
-  "end": 65.2
+  "start": 64.8,
+  "end": 65.06
  },
  {
   "w": "the",
-  "start": 65.24,
-  "end": 65.32
+  "start": 65.26,
+  "end": 65.34
  },
  {
   "w": "main",
   "start": 65.4,
-  "end": 65.56
+  "end": 65.62
  },
  {
   "w": "harbor",
-  "start": 65.64,
-  "end": 66.04
+  "start": 65.68,
+  "end": 65.96
  },
  {
   "w": "freezes",
-  "start": 66.12,
+  "start": 66.14,
   "end": 66.52
  },
  {
   "w": "in",
   "start": 66.56,
-  "end": 66.6
+  "end": 66.66
  },
  {
   "w": "winter.",
-  "start": 66.68,
-  "end": 67.64
+  "start": 66.7,
+  "end": 67.0
  },
  {
   "w": "That",
-  "start": 68.46,
-  "end": 68.58
+  "start": 68.4,
+  "end": 68.56
  },
  {
   "w": "leaves",
   "start": 68.62,
-  "end": 68.98
+  "end": 68.96
  },
  {
   "w": "two",
-  "start": 69.1,
-  "end": 69.22
+  "start": 69.04,
+  "end": 69.28
  },
  {
   "w": "seas",
-  "start": 69.3,
-  "end": 69.7
+  "start": 69.38,
+  "end": 69.72
  },
  {
   "w": "near",
-  "start": 69.78,
-  "end": 69.86
+  "start": 69.76,
+  "end": 69.9
  },
  {
   "w": "the",
-  "start": 69.94,
+  "start": 69.92,
   "end": 70.02
  },
  {
   "w": "heart",
-  "start": 70.1,
+  "start": 70.08,
   "end": 70.26
  },
  {
   "w": "of",
   "start": 70.3,
-  "end": 70.34
+  "end": 70.36
  },
  {
   "w": "the",
-  "start": 70.38,
-  "end": 70.42
+  "start": 70.4,
+  "end": 70.46
  },
  {
-  "w": "country.",
+  "w": "country:",
   "start": 70.5,
-  "end": 71.273
+  "end": 70.88
  },
  {
-  "w": "The",
-  "start": 71.327,
-  "end": 71.38
+  "w": "the",
+  "start": 71.3,
+  "end": 71.4
  },
  {
   "w": "Baltic",
-  "start": 71.42,
-  "end": 71.86
+  "start": 71.44,
+  "end": 71.9
  },
  {
   "w": "in",
-  "start": 71.94,
-  "end": 71.98
+  "start": 71.96,
+  "end": 72.0
  },
  {
   "w": "the",
-  "start": 72.02,
+  "start": 72.04,
   "end": 72.1
  },
  {
-  "w": "north-",
-  "start": 72.22,
-  "end": 72.468
- },
- {
-  "w": "west,",
-  "start": 72.468,
-  "end": 73.007
+  "w": "northwest",
+  "start": 72.14,
+  "end": 72.98
  },
  {
   "w": "and",
-  "start": 73.033,
-  "end": 73.06
+  "start": 73.04,
+  "end": 73.12
  },
  {
   "w": "the",
@@ -891,33 +886,33 @@
  },
  {
   "w": "Black",
-  "start": 73.34,
-  "end": 73.46
+  "start": 73.26,
+  "end": 73.5
  },
  {
   "w": "Sea",
-  "start": 73.54,
-  "end": 73.86
+  "start": 73.6,
+  "end": 73.9
  },
  {
   "w": "in",
-  "start": 73.94,
+  "start": 73.96,
   "end": 74.02
  },
  {
   "w": "the",
   "start": 74.06,
-  "end": 74.1
+  "end": 74.12
  },
  {
   "w": "south.",
-  "start": 74.18,
-  "end": 75.06
+  "start": 74.2,
+  "end": 74.54
  },
  {
   "w": "But",
   "start": 75.84,
-  "end": 75.92
+  "end": 75.96
  },
  {
   "w": "look",
@@ -926,18 +921,18 @@
  },
  {
   "w": "closer.",
-  "start": 76.24,
-  "end": 77.16
+  "start": 76.22,
+  "end": 76.64
  },
  {
   "w": "To",
-  "start": 77.2,
-  "end": 77.28
+  "start": 77.22,
+  "end": 77.3
  },
  {
   "w": "get",
-  "start": 77.36,
-  "end": 77.44
+  "start": 77.34,
+  "end": 77.46
  },
  {
   "w": "out",
@@ -947,27 +942,27 @@
  {
   "w": "of",
   "start": 77.64,
-  "end": 77.68
+  "end": 77.7
  },
  {
   "w": "the",
-  "start": 77.76,
-  "end": 77.84
+  "start": 77.74,
+  "end": 77.82
  },
  {
   "w": "Baltic,",
   "start": 77.88,
-  "end": 78.44
+  "end": 78.26
  },
  {
   "w": "a",
-  "start": 78.48,
-  "end": 78.56
+  "start": 78.54,
+  "end": 78.58
  },
  {
   "w": "ship",
   "start": 78.64,
-  "end": 78.8
+  "end": 78.84
  },
  {
   "w": "has",
@@ -976,78 +971,78 @@
  },
  {
   "w": "to",
-  "start": 79.12,
+  "start": 79.08,
   "end": 79.2
  },
  {
   "w": "squeeze",
-  "start": 79.28,
-  "end": 79.76
+  "start": 79.32,
+  "end": 79.74
  },
  {
   "w": "past",
-  "start": 79.92,
-  "end": 80.08
+  "start": 79.82,
+  "end": 80.12
  },
  {
   "w": "Denmark.",
-  "start": 80.16,
-  "end": 81.08
+  "start": 80.18,
+  "end": 80.64
  },
  {
   "w": "To",
-  "start": 81.12,
+  "start": 81.14,
   "end": 81.2
  },
  {
   "w": "get",
-  "start": 81.28,
+  "start": 81.24,
   "end": 81.36
  },
  {
   "w": "out",
   "start": 81.4,
-  "end": 81.44
+  "end": 81.48
  },
  {
   "w": "of",
-  "start": 81.48,
-  "end": 81.52
+  "start": 81.52,
+  "end": 81.58
  },
  {
   "w": "the",
-  "start": 81.6,
+  "start": 81.62,
   "end": 81.68
  },
  {
   "w": "Black",
-  "start": 81.8,
-  "end": 81.92
+  "start": 81.72,
+  "end": 81.94
  },
  {
   "w": "Sea,",
-  "start": 82.0,
-  "end": 82.587
+  "start": 82.06,
+  "end": 82.3
  },
  {
   "w": "it",
-  "start": 82.613,
-  "end": 82.64
+  "start": 82.62,
+  "end": 82.66
  },
  {
   "w": "has",
-  "start": 82.72,
-  "end": 82.8
+  "start": 82.7,
+  "end": 82.84
  },
  {
   "w": "to",
   "start": 82.88,
-  "end": 82.96
+  "end": 82.98
  },
  {
   "w": "sail",
-  "start": 83.04,
-  "end": 83.36
+  "start": 83.06,
+  "end": 83.38
  },
  {
   "w": "right",
@@ -1056,68 +1051,68 @@
  },
  {
   "w": "through",
-  "start": 83.76,
-  "end": 83.84
+  "start": 83.7,
+  "end": 83.88
  },
  {
   "w": "the",
-  "start": 83.92,
-  "end": 84.08
+  "start": 83.9,
+  "end": 83.98
  },
  {
   "w": "middle",
-  "start": 84.24,
-  "end": 84.4
+  "start": 84.12,
+  "end": 84.38
  },
  {
   "w": "of",
-  "start": 84.48,
+  "start": 84.44,
   "end": 84.56
  },
  {
   "w": "Istanbul.",
   "start": 84.64,
-  "end": 85.84
+  "end": 85.18
  },
  {
   "w": "Think",
-  "start": 86.62,
-  "end": 86.7
+  "start": 86.58,
+  "end": 86.74
  },
  {
   "w": "of",
   "start": 86.78,
-  "end": 86.86
+  "end": 86.88
  },
  {
   "w": "Russia",
   "start": 86.94,
-  "end": 87.26
+  "end": 87.28
  },
  {
   "w": "as",
-  "start": 87.34,
-  "end": 87.42
+  "start": 87.36,
+  "end": 87.44
  },
  {
   "w": "the",
-  "start": 87.5,
+  "start": 87.48,
   "end": 87.66
  },
  {
   "w": "biggest",
-  "start": 87.74,
-  "end": 87.98
+  "start": 87.7,
+  "end": 88.0
  },
  {
   "w": "house",
-  "start": 88.14,
+  "start": 88.06,
   "end": 88.3
  },
  {
   "w": "on",
-  "start": 88.34,
-  "end": 88.38
+  "start": 88.36,
+  "end": 88.42
  },
  {
   "w": "the",
@@ -1125,49 +1120,49 @@
   "end": 88.54
  },
  {
-  "w": "street.",
-  "start": 88.9,
-  "end": 89.3
+  "w": "street,",
+  "start": 88.62,
+  "end": 88.88
  },
  {
-  "w": "But",
+  "w": "but",
   "start": 89.34,
   "end": 89.5
  },
  {
   "w": "every",
-  "start": 89.58,
-  "end": 89.82
+  "start": 89.6,
+  "end": 89.88
  },
  {
   "w": "door",
-  "start": 89.9,
-  "end": 90.22
+  "start": 89.92,
+  "end": 90.2
  },
  {
   "w": "is",
   "start": 90.26,
-  "end": 90.3
+  "end": 90.36
  },
  {
   "w": "either",
-  "start": 90.38,
-  "end": 90.62
+  "start": 90.4,
+  "end": 90.66
  },
  {
   "w": "frozen",
-  "start": 90.7,
+  "start": 90.72,
   "end": 91.1
  },
  {
-  "w": "shut,",
+  "w": "shut",
   "start": 91.18,
-  "end": 91.7
+  "end": 91.44
  },
  {
   "w": "or",
-  "start": 91.74,
-  "end": 91.9
+  "start": 91.76,
+  "end": 91.88
  },
  {
   "w": "opens",
@@ -1176,53 +1171,53 @@
  },
  {
   "w": "into",
-  "start": 92.5,
-  "end": 92.62
+  "start": 92.44,
+  "end": 92.6
  },
  {
   "w": "the",
-  "start": 92.66,
-  "end": 92.7
+  "start": 92.64,
+  "end": 92.74
  },
  {
   "w": "neighbor's",
-  "start": 92.78,
-  "end": 93.18
+  "start": 92.8,
+  "end": 93.16
  },
  {
   "w": "garden.",
   "start": 93.22,
-  "end": 94.3
+  "end": 93.58
  },
  {
   "w": "The",
   "start": 95.08,
-  "end": 95.16
+  "end": 95.18
  },
  {
   "w": "first",
-  "start": 95.24,
-  "end": 95.48
+  "start": 95.26,
+  "end": 95.52
  },
  {
   "w": "ruler",
-  "start": 95.56,
+  "start": 95.58,
   "end": 95.88
  },
  {
   "w": "who",
-  "start": 96.0,
-  "end": 96.12
+  "start": 95.92,
+  "end": 96.08
  },
  {
   "w": "truly",
-  "start": 96.2,
+  "start": 96.18,
   "end": 96.52
  },
  {
   "w": "refused",
-  "start": 96.68,
-  "end": 97.08
+  "start": 96.56,
+  "end": 97.1
  },
  {
   "w": "to",
@@ -1231,18 +1226,18 @@
  },
  {
   "w": "live",
-  "start": 97.32,
-  "end": 97.4
+  "start": 97.28,
+  "end": 97.46
  },
  {
   "w": "like",
-  "start": 97.48,
-  "end": 97.64
+  "start": 97.5,
+  "end": 97.66
  },
  {
   "w": "that",
   "start": 97.72,
-  "end": 98.04
+  "end": 98.06
  },
  {
   "w": "was",
@@ -1252,92 +1247,97 @@
  {
   "w": "Peter",
   "start": 98.36,
-  "end": 98.6
+  "end": 98.62
  },
  {
   "w": "the",
-  "start": 98.68,
-  "end": 98.76
+  "start": 98.66,
+  "end": 98.74
  },
  {
   "w": "Great.",
-  "start": 99.12,
-  "end": 99.52
+  "start": 98.8,
+  "end": 99.08
  },
  {
   "w": "In",
-  "start": 100.26,
+  "start": 100.3,
   "end": 100.42
  },
  {
-  "w": "1696,",
+  "w": "sixteen",
   "start": 100.5,
-  "end": 101.833
+  "end": 100.86
+ },
+ {
+  "w": "ninety-six,",
+  "start": 100.92,
+  "end": 101.56
  },
  {
   "w": "he",
-  "start": 101.887,
+  "start": 101.84,
   "end": 101.94
  },
  {
   "w": "built",
-  "start": 102.02,
-  "end": 102.1
+  "start": 102.0,
+  "end": 102.16
  },
  {
   "w": "a",
-  "start": 102.26,
-  "end": 102.34
+  "start": 102.22,
+  "end": 102.3
  },
  {
   "w": "fleet",
-  "start": 102.5,
-  "end": 102.66
+  "start": 102.38,
+  "end": 102.7
  },
  {
   "w": "on",
-  "start": 102.74,
+  "start": 102.76,
   "end": 102.82
  },
  {
   "w": "a",
-  "start": 102.86,
-  "end": 102.9
+  "start": 102.88,
+  "end": 102.94
  },
  {
   "w": "river",
   "start": 102.98,
-  "end": 103.38
+  "end": 103.36
  },
  {
   "w": "deep",
-  "start": 103.5,
+  "start": 103.44,
   "end": 103.62
  },
  {
   "w": "inside",
-  "start": 103.86,
-  "end": 104.1
+  "start": 103.68,
+  "end": 104.08
  },
  {
   "w": "Russia",
-  "start": 104.38,
-  "end": 104.66
+  "start": 104.14,
+  "end": 104.46
  },
  {
   "w": "and",
   "start": 104.74,
-  "end": 104.82
+  "end": 104.84
  },
  {
   "w": "captured",
-  "start": 104.9,
-  "end": 105.3
+  "start": 104.94,
+  "end": 105.34
  },
  {
   "w": "the",
   "start": 105.38,
-  "end": 105.46
+  "end": 105.48
  },
  {
   "w": "Turkish",
@@ -1347,107 +1347,107 @@
  {
   "w": "fortress",
   "start": 105.94,
-  "end": 106.34
+  "end": 106.36
  },
  {
   "w": "of",
   "start": 106.42,
-  "end": 106.58
+  "end": 106.56
  },
  {
-  "w": "Azov,",
+  "w": "Azov",
   "start": 106.66,
-  "end": 107.26
+  "end": 107.24
  },
  {
   "w": "on",
-  "start": 107.3,
+  "start": 107.32,
   "end": 107.38
  },
  {
   "w": "the",
   "start": 107.42,
-  "end": 107.46
+  "end": 107.48
  },
  {
   "w": "way",
   "start": 107.54,
-  "end": 107.7
+  "end": 107.72
  },
  {
   "w": "to",
-  "start": 107.74,
-  "end": 107.78
+  "start": 107.76,
+  "end": 107.82
  },
  {
   "w": "the",
   "start": 107.86,
-  "end": 107.94
+  "end": 107.92
  },
  {
   "w": "Black",
-  "start": 108.06,
+  "start": 107.96,
   "end": 108.18
  },
  {
   "w": "Sea.",
-  "start": 108.26,
-  "end": 109.1
+  "start": 108.3,
+  "end": 108.54
  },
  {
   "w": "A",
-  "start": 109.14,
-  "end": 109.22
+  "start": 109.16,
+  "end": 109.2
  },
  {
   "w": "few",
-  "start": 109.3,
-  "end": 109.38
+  "start": 109.26,
+  "end": 109.42
  },
  {
   "w": "years",
   "start": 109.46,
-  "end": 109.62
+  "end": 109.66
  },
  {
-  "w": "later",
-  "start": 109.7,
-  "end": 110.18
+  "w": "later,",
+  "start": 109.72,
+  "end": 109.98
  },
  {
   "w": "he",
   "start": 110.26,
-  "end": 110.34
+  "end": 110.38
  },
  {
   "w": "fought",
-  "start": 110.42,
+  "start": 110.44,
   "end": 110.66
  },
  {
   "w": "Sweden",
-  "start": 110.74,
-  "end": 111.14
+  "start": 110.76,
+  "end": 111.12
  },
  {
   "w": "for",
   "start": 111.18,
-  "end": 111.22
+  "end": 111.26
  },
  {
   "w": "the",
   "start": 111.3,
-  "end": 111.38
+  "end": 111.4
  },
  {
   "w": "Baltic",
-  "start": 111.42,
-  "end": 111.78
+  "start": 111.44,
+  "end": 111.76
  },
  {
   "w": "coast,",
-  "start": 111.86,
-  "end": 112.46
+  "start": 111.84,
+  "end": 112.16
  },
  {
   "w": "and",
@@ -1456,338 +1456,353 @@
  },
  {
   "w": "in",
-  "start": 112.66,
+  "start": 112.62,
   "end": 112.74
  },
  {
-  "w": "1703",
+  "w": "seventeen",
   "start": 112.82,
   "end": 113.22
  },
  {
+  "w": "oh",
+  "start": 113.26,
+  "end": 113.38
+ },
+ {
+  "w": "three,",
+  "start": 113.44,
+  "end": 113.72
+ },
+ {
   "w": "he",
-  "start": 113.3,
-  "end": 113.844
+  "start": 114.02,
+  "end": 114.16
  },
  {
   "w": "founded",
-  "start": 114.02,
-  "end": 114.5
+  "start": 114.22,
+  "end": 114.56
  },
  {
   "w": "a",
-  "start": 114.58,
+  "start": 114.62,
   "end": 114.74
  },
  {
-  "w": "brand-",
-  "start": 114.94,
-  "end": 115.2
- },
- {
-  "w": "new",
-  "start": 115.2,
-  "end": 115.38
+  "w": "brand-new",
+  "start": 114.8,
+  "end": 115.36
  },
  {
   "w": "city",
-  "start": 115.62,
-  "end": 115.86
+  "start": 115.44,
+  "end": 115.68
  },
  {
   "w": "right",
-  "start": 115.94,
-  "end": 116.02
+  "start": 115.9,
+  "end": 116.08
  },
  {
   "w": "on",
-  "start": 116.1,
-  "end": 116.18
+  "start": 116.12,
+  "end": 116.2
  },
  {
   "w": "the",
-  "start": 116.22,
-  "end": 116.26
+  "start": 116.24,
+  "end": 116.3
  },
  {
-  "w": "water:",
-  "start": 116.34,
-  "end": 117.02
+  "w": "water,",
+  "start": 116.36,
+  "end": 116.62
  },
  {
   "w": "Saint",
-  "start": 117.06,
-  "end": 117.3
+  "start": 117.08,
+  "end": 117.26
  },
  {
-  "w": "Petersburg.",
-  "start": 117.34,
-  "end": 118.38
+  "w": "Petersburg,",
+  "start": 117.38,
+  "end": 117.98
  },
  {
-  "w": "His",
-  "start": 118.42,
-  "end": 118.66
+  "w": "his",
+  "start": 118.44,
+  "end": 118.64
  },
  {
   "w": "window",
-  "start": 118.9,
-  "end": 119.14
+  "start": 118.7,
+  "end": 119.12
  },
  {
   "w": "to",
-  "start": 119.22,
-  "end": 119.3
+  "start": 119.18,
+  "end": 119.32
  },
  {
   "w": "Europe.",
   "start": 119.38,
-  "end": 120.26
+  "end": 119.7
  },
  {
   "w": "But",
   "start": 121.04,
-  "end": 121.12
+  "end": 121.14
  },
  {
   "w": "that",
-  "start": 121.2,
+  "start": 121.18,
   "end": 121.36
  },
  {
   "w": "window",
-  "start": 121.64,
-  "end": 121.92
+  "start": 121.42,
+  "end": 121.88
  },
  {
   "w": "froze",
   "start": 121.96,
-  "end": 122.32
+  "end": 122.3
  },
  {
   "w": "shut",
   "start": 122.4,
-  "end": 122.72
+  "end": 122.76
  },
  {
   "w": "every",
-  "start": 122.8,
-  "end": 123.12
+  "start": 122.84,
+  "end": 123.06
  },
  {
-  "w": "winter.",
-  "start": 123.48,
-  "end": 123.88
+  "w": "winter,",
+  "start": 123.14,
+  "end": 123.44
  },
  {
-  "w": "And",
-  "start": 123.92,
+  "w": "and",
+  "start": 123.94,
   "end": 124.0
  },
  {
   "w": "in",
-  "start": 124.08,
+  "start": 124.06,
   "end": 124.16
  },
  {
-  "w": "1711,",
-  "start": 124.24,
-  "end": 125.24
+  "w": "seventeen",
+  "start": 124.22,
+  "end": 124.6
+ },
+ {
+  "w": "eleven,",
+  "start": 124.66,
+  "end": 125.02
  },
  {
   "w": "after",
-  "start": 125.28,
-  "end": 125.52
+  "start": 125.3,
+  "end": 125.5
  },
  {
   "w": "losing",
-  "start": 125.68,
-  "end": 125.84
+  "start": 125.56,
+  "end": 125.82
  },
  {
   "w": "a",
   "start": 125.88,
-  "end": 125.92
+  "end": 125.94
  },
  {
   "w": "war",
   "start": 126.0,
-  "end": 126.16
+  "end": 126.2
  },
  {
   "w": "with",
-  "start": 126.24,
-  "end": 126.32
+  "start": 126.22,
+  "end": 126.34
  },
  {
   "w": "the",
   "start": 126.36,
-  "end": 126.4
+  "end": 126.44
  },
  {
   "w": "Ottomans,",
-  "start": 126.48,
-  "end": 127.24
+  "start": 126.5,
+  "end": 126.92
  },
  {
   "w": "Peter",
   "start": 127.28,
-  "end": 127.6
+  "end": 127.58
  },
  {
   "w": "had",
-  "start": 127.68,
+  "start": 127.64,
   "end": 127.76
  },
  {
   "w": "to",
-  "start": 127.84,
-  "end": 127.92
+  "start": 127.8,
+  "end": 127.9
  },
  {
   "w": "give",
-  "start": 128.04,
-  "end": 128.16
+  "start": 127.96,
+  "end": 128.18
  },
  {
   "w": "Azov",
-  "start": 128.24,
-  "end": 128.64
+  "start": 128.28,
+  "end": 128.6
  },
  {
   "w": "back.",
-  "start": 129.08,
-  "end": 129.6
+  "start": 128.72,
+  "end": 129.0
  },
  {
   "w": "One",
-  "start": 130.38,
-  "end": 130.54
+  "start": 130.36,
+  "end": 130.52
  },
  {
-  "w": "door,",
+  "w": "door",
   "start": 130.62,
-  "end": 131.22
+  "end": 130.88
  },
  {
   "w": "half",
-  "start": 131.26,
-  "end": 131.5
+  "start": 131.24,
+  "end": 131.48
  },
  {
-  "w": "open.",
-  "start": 131.86,
-  "end": 132.3
+  "w": "open,",
+  "start": 131.56,
+  "end": 131.8
  },
  {
-  "w": "The",
-  "start": 132.38,
-  "end": 132.46
+  "w": "the",
+  "start": 132.32,
+  "end": 132.42
  },
  {
-  "w": "south,",
-  "start": 132.82,
-  "end": 133.22
+  "w": "south",
+  "start": 132.5,
+  "end": 132.86
  },
  {
   "w": "still",
-  "start": 133.26,
+  "start": 133.32,
   "end": 133.58
  },
  {
   "w": "locked.",
-  "start": 133.78,
-  "end": 134.86
+  "start": 133.64,
+  "end": 134.0
  },
  {
   "w": "Chapter",
-  "start": 136.82,
+  "start": 136.7,
   "end": 136.98
  },
  {
-  "w": "two.",
-  "start": 137.06,
-  "end": 137.86
+  "w": "Two:",
+  "start": 137.12,
+  "end": 137.36
  },
  {
   "w": "Three",
-  "start": 137.94,
-  "end": 138.18
+  "start": 137.92,
+  "end": 138.14
  },
  {
   "w": "Hundred",
   "start": 138.22,
-  "end": 138.5
+  "end": 138.52
  },
  {
   "w": "Years",
-  "start": 138.66,
-  "end": 138.98
+  "start": 138.62,
+  "end": 139.04
  },
  {
   "w": "of",
-  "start": 139.06,
-  "end": 139.22
+  "start": 139.08,
+  "end": 139.16
  },
  {
   "w": "Knocking.",
-  "start": 139.26,
-  "end": 140.58
+  "start": 139.24,
+  "end": 139.7
  },
  {
   "w": "In",
-  "start": 142.46,
-  "end": 142.54
+  "start": 142.44,
+  "end": 142.56
  },
  {
-  "w": "1783,",
-  "start": 142.62,
-  "end": 143.86
+  "w": "seventeen",
+  "start": 142.64,
+  "end": 143.04
+ },
+ {
+  "w": "eighty-three,",
+  "start": 143.08,
+  "end": 143.62
  },
  {
   "w": "Catherine",
-  "start": 143.9,
+  "start": 143.94,
   "end": 144.3
  },
  {
   "w": "the",
-  "start": 144.34,
+  "start": 144.32,
   "end": 144.38
  },
  {
   "w": "Great",
   "start": 144.46,
-  "end": 144.78
+  "end": 144.72
  },
  {
   "w": "took",
-  "start": 144.9,
-  "end": 145.02
+  "start": 144.84,
+  "end": 145.0
  },
  {
   "w": "Crimea,",
-  "start": 145.22,
-  "end": 145.847
+  "start": 145.06,
+  "end": 145.54
  },
  {
   "w": "a",
-  "start": 145.873,
-  "end": 145.9
+  "start": 145.88,
+  "end": 145.92
  },
  {
   "w": "peninsula",
-  "start": 145.98,
-  "end": 146.54
+  "start": 145.96,
+  "end": 146.44
  },
  {
   "w": "deep",
   "start": 146.62,
-  "end": 146.78
+  "end": 146.82
  },
  {
   "w": "in",
   "start": 146.86,
-  "end": 146.9
+  "end": 146.92
  },
  {
   "w": "the",
@@ -1796,13 +1811,13 @@
  },
  {
   "w": "Black",
-  "start": 147.14,
-  "end": 147.26
+  "start": 147.06,
+  "end": 147.28
  },
  {
   "w": "Sea.",
-  "start": 147.34,
-  "end": 148.1
+  "start": 147.38,
+  "end": 147.62
  },
  {
   "w": "That",
@@ -1812,357 +1827,362 @@
  {
   "w": "same",
   "start": 148.38,
-  "end": 148.54
+  "end": 148.6
  },
  {
   "w": "year,",
-  "start": 148.62,
-  "end": 149.06
+  "start": 148.64,
+  "end": 148.82
  },
  {
   "w": "Russia",
-  "start": 149.1,
+  "start": 149.12,
   "end": 149.42
  },
  {
   "w": "founded",
-  "start": 149.5,
+  "start": 149.48,
   "end": 149.82
  },
  {
   "w": "a",
-  "start": 149.9,
-  "end": 149.98
+  "start": 149.88,
+  "end": 149.96
  },
  {
   "w": "naval",
-  "start": 150.06,
-  "end": 150.3
+  "start": 150.02,
+  "end": 150.28
  },
  {
   "w": "base",
-  "start": 150.42,
-  "end": 150.54
+  "start": 150.34,
+  "end": 150.56
  },
  {
-  "w": "there:",
+  "w": "there,",
   "start": 150.62,
-  "end": 151.14
+  "end": 150.8
  },
  {
   "w": "Sevastopol.",
-  "start": 151.18,
-  "end": 152.38
+  "start": 151.2,
+  "end": 151.88
  },
  {
   "w": "Finally,",
   "start": 153.16,
-  "end": 153.76
+  "end": 153.58
  },
  {
   "w": "a",
-  "start": 153.8,
-  "end": 153.96
+  "start": 153.82,
+  "end": 153.94
  },
  {
-  "w": "warm-",
-  "start": 154.12,
-  "end": 154.333
+  "w": "warm",
+  "start": 154.0,
+  "end": 154.3
  },
  {
   "w": "water",
-  "start": 154.333,
-  "end": 154.6
+  "start": 154.34,
+  "end": 154.56
  },
  {
   "w": "port.",
   "start": 154.68,
-  "end": 155.533
+  "end": 154.92
  },
  {
   "w": "But",
-  "start": 156.287,
-  "end": 156.34
+  "start": 156.24,
+  "end": 156.38
  },
  {
   "w": "every",
-  "start": 156.42,
-  "end": 156.74
+  "start": 156.46,
+  "end": 156.72
  },
  {
   "w": "ship",
-  "start": 156.86,
-  "end": 156.98
+  "start": 156.78,
+  "end": 157.0
  },
  {
   "w": "leaving",
   "start": 157.06,
-  "end": 157.3
+  "end": 157.34
  },
  {
   "w": "the",
   "start": 157.38,
-  "end": 157.46
+  "end": 157.44
  },
  {
   "w": "Black",
-  "start": 157.58,
+  "start": 157.48,
   "end": 157.7
  },
  {
   "w": "Sea",
-  "start": 157.78,
-  "end": 158.18
+  "start": 157.82,
+  "end": 158.04
  },
  {
   "w": "still",
-  "start": 158.26,
-  "end": 158.5
+  "start": 158.24,
+  "end": 158.48
  },
  {
   "w": "had",
-  "start": 158.58,
-  "end": 158.66
+  "start": 158.54,
+  "end": 158.64
  },
  {
   "w": "to",
-  "start": 158.7,
-  "end": 158.74
+  "start": 158.68,
+  "end": 158.78
  },
  {
   "w": "pass",
-  "start": 158.82,
-  "end": 159.06
+  "start": 158.86,
+  "end": 159.08
  },
  {
   "w": "through",
-  "start": 159.14,
-  "end": 159.22
+  "start": 159.12,
+  "end": 159.26
  },
  {
   "w": "the",
   "start": 159.3,
-  "end": 159.38
+  "end": 159.4
  },
  {
   "w": "Bosporus,",
-  "start": 159.42,
-  "end": 160.3
+  "start": 159.44,
+  "end": 160.0
  },
  {
   "w": "a",
   "start": 160.34,
-  "end": 160.42
+  "end": 160.4
  },
  {
   "w": "strait",
-  "start": 160.5,
-  "end": 160.82
+  "start": 160.48,
+  "end": 160.84
  },
  {
   "w": "less",
   "start": 160.9,
-  "end": 161.06
+  "end": 161.08
  },
  {
   "w": "than",
-  "start": 161.14,
-  "end": 161.22
+  "start": 161.12,
+  "end": 161.2
  },
  {
   "w": "a",
-  "start": 161.38,
-  "end": 161.513
+  "start": 161.26,
+  "end": 161.36
  },
  {
   "w": "mile",
-  "start": 161.647,
-  "end": 161.78
+  "start": 161.44,
+  "end": 161.76
  },
  {
   "w": "wide",
-  "start": 161.94,
+  "start": 161.82,
   "end": 162.1
  },
  {
   "w": "at",
   "start": 162.14,
-  "end": 162.18
+  "end": 162.2
  },
  {
   "w": "its",
-  "start": 162.3,
-  "end": 162.42
+  "start": 162.24,
+  "end": 162.38
  },
  {
-  "w": "narrowest.",
-  "start": 162.46,
-  "end": 163.34
+  "w": "narrowest,",
+  "start": 162.44,
+  "end": 162.94
  },
  {
-  "w": "And",
+  "w": "and",
   "start": 163.38,
-  "end": 163.54
+  "end": 163.5
  },
  {
   "w": "that",
-  "start": 163.62,
+  "start": 163.58,
   "end": 163.94
  },
  {
   "w": "belonged",
-  "start": 164.06,
-  "end": 164.42
+  "start": 163.98,
+  "end": 164.46
  },
  {
   "w": "to",
   "start": 164.5,
-  "end": 164.58
+  "end": 164.56
  },
  {
   "w": "the",
-  "start": 164.66,
-  "end": 164.74
+  "start": 164.62,
+  "end": 164.76
  },
  {
   "w": "Ottoman",
-  "start": 164.82,
-  "end": 165.14
+  "start": 164.84,
+  "end": 165.12
  },
  {
   "w": "Empire.",
-  "start": 165.22,
-  "end": 166.3
+  "start": 165.24,
+  "end": 165.68
  },
  {
   "w": "A",
-  "start": 167.04,
+  "start": 167.06,
   "end": 167.2
  },
  {
   "w": "beautiful",
-  "start": 167.48,
-  "end": 167.76
+  "start": 167.26,
+  "end": 167.78
  },
  {
   "w": "front",
-  "start": 167.84,
-  "end": 168.08
+  "start": 167.86,
+  "end": 168.1
  },
  {
-  "w": "door.",
+  "w": "door",
   "start": 168.16,
-  "end": 168.84
+  "end": 168.4
  },
  {
-  "w": "Opening",
-  "start": 168.88,
-  "end": 169.36
+  "w": "opening",
+  "start": 168.94,
+  "end": 169.38
  },
  {
   "w": "onto",
   "start": 169.44,
-  "end": 169.68
+  "end": 169.66
  },
  {
   "w": "someone",
   "start": 169.76,
-  "end": 170.0
+  "end": 170.02
  },
  {
   "w": "else's",
-  "start": 170.08,
+  "start": 170.06,
   "end": 170.4
  },
  {
   "w": "driveway.",
-  "start": 170.48,
-  "end": 171.72
+  "start": 170.46,
+  "end": 170.94
  },
  {
   "w": "In",
-  "start": 172.46,
+  "start": 172.48,
   "end": 172.54
  },
  {
   "w": "the",
   "start": 172.58,
-  "end": 172.62
+  "end": 172.64
  },
  {
-  "w": "1850s,",
+  "w": "eighteen",
   "start": 172.7,
-  "end": 173.78
+  "end": 172.98
+ },
+ {
+  "w": "fifties,",
+  "start": 173.12,
+  "end": 173.54
  },
  {
   "w": "Britain",
   "start": 173.82,
-  "end": 174.06
+  "end": 174.08
  },
  {
   "w": "and",
-  "start": 174.18,
-  "end": 174.3
+  "start": 174.12,
+  "end": 174.2
  },
  {
   "w": "France",
-  "start": 174.5,
-  "end": 174.7
+  "start": 174.32,
+  "end": 174.68
  },
  {
   "w": "went",
-  "start": 174.78,
+  "start": 174.72,
   "end": 174.86
  },
  {
   "w": "to",
-  "start": 174.98,
-  "end": 175.1
+  "start": 174.92,
+  "end": 175.06
  },
  {
   "w": "war",
-  "start": 175.26,
+  "start": 175.14,
   "end": 175.42
  },
  {
   "w": "to",
-  "start": 175.5,
+  "start": 175.48,
   "end": 175.58
  },
  {
   "w": "keep",
-  "start": 175.66,
-  "end": 175.82
+  "start": 175.64,
+  "end": 175.84
  },
  {
   "w": "Russia",
   "start": 175.9,
-  "end": 176.22
+  "end": 176.18
  },
  {
   "w": "away",
-  "start": 176.42,
-  "end": 176.62
+  "start": 176.28,
+  "end": 176.6
  },
  {
   "w": "from",
-  "start": 176.7,
-  "end": 176.78
+  "start": 176.66,
+  "end": 176.76
  },
  {
   "w": "the",
-  "start": 176.82,
-  "end": 176.86
+  "start": 176.8,
+  "end": 176.84
  },
  {
   "w": "Mediterranean.",
-  "start": 176.94,
-  "end": 178.02
+  "start": 176.88,
+  "end": 177.58
  },
  {
   "w": "They",
-  "start": 178.06,
-  "end": 178.14
+  "start": 178.08,
+  "end": 178.18
  },
  {
   "w": "besieged",
@@ -2171,4722 +2191,4792 @@
  },
  {
   "w": "Sevastopol",
-  "start": 178.86,
-  "end": 179.5
+  "start": 178.82,
+  "end": 179.48
  },
  {
   "w": "for",
-  "start": 179.58,
+  "start": 179.52,
   "end": 179.66
  },
  {
   "w": "almost",
-  "start": 179.74,
+  "start": 179.76,
   "end": 180.06
  },
  {
   "w": "a",
-  "start": 180.22,
-  "end": 180.26
+  "start": 180.12,
+  "end": 180.2
  },
  {
   "w": "year,",
-  "start": 180.3,
-  "end": 180.82
+  "start": 180.28,
+  "end": 180.54
  },
  {
   "w": "and",
-  "start": 180.86,
+  "start": 180.88,
   "end": 180.94
  },
  {
   "w": "the",
-  "start": 181.02,
-  "end": 181.1
+  "start": 180.98,
+  "end": 181.06
  },
  {
   "w": "city",
-  "start": 181.3,
-  "end": 181.5
+  "start": 181.14,
+  "end": 181.34
  },
  {
   "w": "fell.",
-  "start": 181.66,
-  "end": 182.06
+  "start": 181.54,
+  "end": 181.8
  },
  {
   "w": "The",
-  "start": 182.14,
-  "end": 182.3
+  "start": 182.18,
+  "end": 182.26
  },
  {
   "w": "peace",
-  "start": 182.42,
+  "start": 182.32,
   "end": 182.54
  },
  {
   "w": "treaty",
-  "start": 182.62,
-  "end": 182.94
+  "start": 182.58,
+  "end": 182.84
  },
  {
   "w": "came",
-  "start": 183.02,
-  "end": 183.26
+  "start": 182.98,
+  "end": 183.2
  },
  {
   "w": "with",
-  "start": 183.38,
-  "end": 183.5
+  "start": 183.24,
+  "end": 183.44
  },
  {
   "w": "one",
-  "start": 183.58,
+  "start": 183.56,
   "end": 183.82
  },
  {
   "w": "painful",
   "start": 183.9,
-  "end": 184.38
+  "end": 184.34
  },
  {
   "w": "rule:",
   "start": 184.46,
-  "end": 185.26
+  "end": 184.72
  },
  {
   "w": "Russia",
-  "start": 185.34,
-  "end": 185.66
+  "start": 185.3,
+  "end": 185.6
  },
  {
   "w": "could",
-  "start": 185.78,
-  "end": 185.9
+  "start": 185.64,
+  "end": 185.82
  },
  {
   "w": "no",
-  "start": 185.98,
-  "end": 186.14
+  "start": 185.9,
+  "end": 186.08
  },
  {
   "w": "longer",
-  "start": 186.26,
-  "end": 186.46
+  "start": 186.14,
+  "end": 186.44
  },
  {
   "w": "keep",
-  "start": 186.54,
-  "end": 186.7
+  "start": 186.5,
+  "end": 186.64
  },
  {
   "w": "a",
-  "start": 186.74,
-  "end": 186.78
+  "start": 186.7,
+  "end": 186.76
  },
  {
   "w": "war",
-  "start": 186.86,
+  "start": 186.82,
   "end": 187.02
  },
  {
   "w": "fleet",
-  "start": 187.1,
-  "end": 187.42
+  "start": 187.08,
+  "end": 187.34
  },
  {
   "w": "on",
-  "start": 187.46,
-  "end": 187.5
+  "start": 187.42,
+  "end": 187.48
  },
  {
   "w": "the",
-  "start": 187.58,
-  "end": 187.66
+  "start": 187.52,
+  "end": 187.6
  },
  {
   "w": "Black",
-  "start": 187.78,
-  "end": 187.9
+  "start": 187.64,
+  "end": 187.88
  },
  {
   "w": "Sea",
-  "start": 188.06,
-  "end": 188.38
+  "start": 188.0,
+  "end": 188.3
  },
  {
   "w": "at",
-  "start": 188.46,
-  "end": 188.54
+  "start": 188.38,
+  "end": 188.52
  },
  {
   "w": "all.",
-  "start": 188.62,
-  "end": 189.58
+  "start": 188.64,
+  "end": 188.9
  },
  {
   "w": "Russia",
-  "start": 190.48,
-  "end": 190.68
+  "start": 190.3,
+  "end": 190.6
  },
  {
   "w": "waited",
-  "start": 190.76,
-  "end": 191.16
+  "start": 190.66,
+  "end": 191.06
  },
  {
   "w": "fourteen",
-  "start": 191.32,
-  "end": 191.8
+  "start": 191.16,
+  "end": 191.78
  },
  {
   "w": "years.",
-  "start": 191.88,
-  "end": 192.76
+  "start": 191.86,
+  "end": 192.28
  },
  {
-  "w": "Then,",
-  "start": 192.84,
-  "end": 193.28
+  "w": "Then",
+  "start": 192.82,
+  "end": 193.22
  },
  {
   "w": "in",
-  "start": 193.32,
-  "end": 193.48
+  "start": 193.3,
+  "end": 193.4
  },
  {
-  "w": "1870,",
-  "start": 193.56,
-  "end": 194.6
+  "w": "eighteen",
+  "start": 193.48,
+  "end": 193.78
+ },
+ {
+  "w": "seventy,",
+  "start": 193.9,
+  "end": 194.28
  },
  {
   "w": "while",
-  "start": 194.68,
-  "end": 194.76
+  "start": 194.52,
+  "end": 194.68
  },
  {
   "w": "France",
-  "start": 194.92,
-  "end": 195.08
+  "start": 194.74,
+  "end": 195.04
  },
  {
   "w": "was",
-  "start": 195.2,
-  "end": 195.32
+  "start": 195.1,
+  "end": 195.24
  },
  {
   "w": "busy",
-  "start": 195.48,
-  "end": 195.64
+  "start": 195.3,
+  "end": 195.54
  },
  {
   "w": "losing",
-  "start": 195.8,
-  "end": 195.96
+  "start": 195.62,
+  "end": 195.9
  },
  {
   "w": "a",
-  "start": 196.0,
-  "end": 196.04
+  "start": 195.96,
+  "end": 196.02
  },
  {
   "w": "war",
-  "start": 196.12,
-  "end": 196.28
+  "start": 196.06,
+  "end": 196.24
  },
  {
   "w": "against",
-  "start": 196.48,
-  "end": 196.68
+  "start": 196.32,
+  "end": 196.66
  },
  {
   "w": "Prussia,",
-  "start": 196.76,
-  "end": 197.48
+  "start": 196.7,
+  "end": 197.04
  },
  {
   "w": "Russia's",
-  "start": 197.56,
-  "end": 197.88
+  "start": 197.5,
+  "end": 197.86
  },
  {
   "w": "foreign",
-  "start": 197.96,
-  "end": 198.2
+  "start": 197.92,
+  "end": 198.18
  },
  {
-  "w": "minister",
-  "start": 198.28,
-  "end": 198.76
+  "w": "minister,",
+  "start": 198.22,
+  "end": 198.62
  },
  {
   "w": "Alexander",
   "start": 198.84,
-  "end": 199.4
+  "end": 199.34
  },
  {
-  "w": "Gorchakov",
-  "start": 199.48,
-  "end": 200.2
+  "w": "Gorchakov,",
+  "start": 199.44,
+  "end": 200.04
  },
  {
   "w": "simply",
-  "start": 200.28,
-  "end": 200.76
+  "start": 200.24,
+  "end": 200.66
  },
  {
   "w": "sent",
-  "start": 200.84,
-  "end": 200.92
+  "start": 200.74,
+  "end": 200.9
  },
  {
   "w": "a",
-  "start": 201.0,
-  "end": 201.08
+  "start": 200.96,
+  "end": 200.98
  },
  {
   "w": "letter.",
-  "start": 201.2,
-  "end": 201.8
+  "start": 201.04,
+  "end": 201.28
  },
  {
   "w": "Russia",
-  "start": 201.88,
-  "end": 202.2
+  "start": 201.82,
+  "end": 202.22
  },
  {
   "w": "would",
   "start": 202.28,
-  "end": 202.52
+  "end": 202.46
  },
  {
   "w": "no",
-  "start": 202.6,
-  "end": 202.76
+  "start": 202.54,
+  "end": 202.72
  },
  {
   "w": "longer",
-  "start": 202.84,
-  "end": 203.16
+  "start": 202.78,
+  "end": 203.12
  },
  {
   "w": "follow",
-  "start": 203.24,
-  "end": 203.56
+  "start": 203.2,
+  "end": 203.48
  },
  {
   "w": "that",
-  "start": 203.68,
-  "end": 203.8
+  "start": 203.54,
+  "end": 203.7
  },
  {
   "w": "rule.",
-  "start": 203.92,
-  "end": 204.6
+  "start": 203.78,
+  "end": 204.02
  },
  {
   "w": "Nobody",
-  "start": 205.46,
-  "end": 205.78
+  "start": 205.4,
+  "end": 205.74
  },
  {
   "w": "stopped",
-  "start": 205.94,
-  "end": 206.1
+  "start": 205.8,
+  "end": 206.08
  },
  {
   "w": "him.",
-  "start": 206.18,
-  "end": 206.9
+  "start": 206.1,
+  "end": 206.24
  },
  {
   "w": "So",
-  "start": 207.72,
-  "end": 207.84
+  "start": 207.62,
+  "end": 208.0
  },
  {
   "w": "Russia",
-  "start": 208.08,
-  "end": 208.4
+  "start": 208.06,
+  "end": 208.34
  },
  {
   "w": "tried",
-  "start": 208.48,
-  "end": 208.72
+  "start": 208.4,
+  "end": 208.66
  },
  {
   "w": "the",
-  "start": 208.8,
-  "end": 208.88
+  "start": 208.7,
+  "end": 208.8
  },
  {
   "w": "other",
-  "start": 209.0,
-  "end": 209.12
+  "start": 208.88,
+  "end": 209.08
  },
  {
   "w": "side",
-  "start": 209.24,
-  "end": 209.36
+  "start": 209.14,
+  "end": 209.3
  },
  {
   "w": "of",
-  "start": 209.4,
-  "end": 209.44
+  "start": 209.34,
+  "end": 209.4
  },
  {
   "w": "the",
-  "start": 209.48,
-  "end": 209.52
+  "start": 209.44,
+  "end": 209.5
  },
  {
   "w": "world.",
-  "start": 209.6,
-  "end": 210.32
+  "start": 209.56,
+  "end": 209.84
  },
  {
   "w": "Its",
-  "start": 210.44,
-  "end": 210.56
+  "start": 210.34,
+  "end": 210.48
  },
  {
   "w": "Pacific",
-  "start": 210.76,
-  "end": 210.96
+  "start": 210.52,
+  "end": 210.92
  },
  {
   "w": "port,",
-  "start": 211.04,
-  "end": 211.44
+  "start": 211.02,
+  "end": 211.24
  },
  {
   "w": "Vladivostok,",
-  "start": 211.52,
-  "end": 212.4
+  "start": 211.46,
+  "end": 212.22
  },
  {
   "w": "was",
-  "start": 212.52,
-  "end": 212.64
+  "start": 212.4,
+  "end": 212.58
  },
  {
   "w": "icebound",
-  "start": 212.72,
-  "end": 213.28
+  "start": 212.68,
+  "end": 213.2
  },
  {
   "w": "for",
-  "start": 213.4,
-  "end": 213.52
+  "start": 213.24,
+  "end": 213.36
  },
  {
   "w": "months",
-  "start": 213.72,
-  "end": 213.92
+  "start": 213.5,
+  "end": 213.88
  },
  {
   "w": "every",
-  "start": 214.0,
-  "end": 214.24
+  "start": 213.96,
+  "end": 214.18
  },
  {
   "w": "winter.",
-  "start": 214.4,
-  "end": 214.96
+  "start": 214.22,
+  "end": 214.52
  },
  {
   "w": "So",
-  "start": 215.04,
-  "end": 215.28
+  "start": 215.0,
+  "end": 215.32
  },
  {
   "w": "in",
-  "start": 215.44,
-  "end": 215.6
+  "start": 215.4,
+  "end": 215.54
  },
  {
-  "w": "1898,",
-  "start": 215.72,
-  "end": 216.72
+  "w": "eighteen",
+  "start": 215.6,
+  "end": 215.92
+ },
+ {
+  "w": "ninety-eight,",
+  "start": 215.98,
+  "end": 216.44
  },
  {
   "w": "it",
-  "start": 216.8,
-  "end": 216.88
+  "start": 216.76,
+  "end": 216.86
  },
  {
   "w": "leased",
-  "start": 216.96,
-  "end": 217.2
+  "start": 216.9,
+  "end": 217.18
  },
  {
   "w": "a",
-  "start": 217.28,
-  "end": 217.44
+  "start": 217.26,
+  "end": 217.36
  },
  {
   "w": "warm",
-  "start": 217.56,
+  "start": 217.42,
   "end": 217.68
  },
  {
   "w": "port",
-  "start": 217.76,
-  "end": 218.0
+  "start": 217.74,
+  "end": 217.98
  },
  {
   "w": "from",
-  "start": 218.08,
-  "end": 218.24
+  "start": 218.02,
+  "end": 218.18
  },
  {
-  "w": "China:",
-  "start": 218.32,
-  "end": 219.04
+  "w": "China,",
+  "start": 218.26,
+  "end": 218.58
  },
  {
   "w": "Port",
-  "start": 219.16,
-  "end": 219.28
+  "start": 219.06,
+  "end": 219.24
  },
  {
   "w": "Arthur.",
-  "start": 219.44,
-  "end": 220.08
+  "start": 219.42,
+  "end": 219.76
  },
  {
   "w": "Japan",
   "start": 221.02,
-  "end": 221.58
+  "end": 221.62
  },
  {
   "w": "didn't",
-  "start": 221.74,
-  "end": 221.98
+  "start": 221.68,
+  "end": 221.94
  },
  {
   "w": "like",
-  "start": 222.06,
-  "end": 222.22
+  "start": 222.0,
+  "end": 222.2
  },
  {
   "w": "that.",
-  "start": 222.3,
-  "end": 222.74
+  "start": 222.26,
+  "end": 222.48
  },
  {
   "w": "In",
-  "start": 222.94,
-  "end": 223.1
+  "start": 222.96,
+  "end": 223.04
  },
  {
-  "w": "1904,",
-  "start": 223.18,
-  "end": 224.14
+  "w": "nineteen",
+  "start": 223.1,
+  "end": 223.42
+ },
+ {
+  "w": "oh",
+  "start": 223.46,
+  "end": 223.58
+ },
+ {
+  "w": "four,",
+  "start": 223.66,
+  "end": 223.86
  },
  {
   "w": "it",
-  "start": 224.22,
-  "end": 224.3
+  "start": 224.18,
+  "end": 224.24
  },
  {
   "w": "attacked",
-  "start": 224.42,
-  "end": 224.86
+  "start": 224.28,
+  "end": 224.8
  },
  {
   "w": "and",
-  "start": 224.98,
-  "end": 225.1
+  "start": 224.84,
+  "end": 225.0
  },
  {
   "w": "trapped",
-  "start": 225.18,
-  "end": 225.5
+  "start": 225.1,
+  "end": 225.48
  },
  {
   "w": "the",
-  "start": 225.58,
-  "end": 225.66
+  "start": 225.52,
+  "end": 225.62
  },
  {
   "w": "Russian",
-  "start": 225.74,
-  "end": 225.98
+  "start": 225.66,
+  "end": 226.0
  },
  {
   "w": "fleet",
-  "start": 226.14,
-  "end": 226.38
+  "start": 226.08,
+  "end": 226.32
  },
  {
   "w": "inside.",
-  "start": 226.46,
-  "end": 227.26
+  "start": 226.4,
+  "end": 226.94
  },
  {
   "w": "The",
   "start": 228.2,
-  "end": 228.28
+  "end": 228.32
  },
  {
-  "w": "tsar",
-  "start": 228.36,
-  "end": 228.76
+  "w": "Tsar",
+  "start": 228.34,
+  "end": 228.64
  },
  {
   "w": "made",
-  "start": 228.84,
-  "end": 229.0
+  "start": 228.8,
+  "end": 228.92
  },
  {
   "w": "a",
-  "start": 229.04,
-  "end": 229.08
+  "start": 228.98,
+  "end": 229.14
  },
  {
   "w": "bold",
-  "start": 229.24,
+  "start": 229.18,
   "end": 229.48
  },
  {
   "w": "decision.",
-  "start": 229.56,
-  "end": 230.12
+  "start": 229.52,
+  "end": 230.0
  },
  {
   "w": "He",
-  "start": 230.52,
-  "end": 230.68
+  "start": 230.5,
+  "end": 230.6
  },
  {
   "w": "sent",
-  "start": 230.8,
-  "end": 230.92
+  "start": 230.68,
+  "end": 230.86
  },
  {
   "w": "his",
-  "start": 231.0,
-  "end": 231.08
+  "start": 230.9,
+  "end": 231.12
  },
  {
   "w": "Baltic",
-  "start": 231.24,
+  "start": 231.18,
   "end": 231.56
  },
  {
-  "w": "Fleet",
-  "start": 231.64,
-  "end": 231.88
+  "w": "fleet",
+  "start": 231.62,
+  "end": 231.92
  },
  {
   "w": "to",
-  "start": 232.04,
-  "end": 232.08
+  "start": 231.96,
+  "end": 232.04
  },
  {
   "w": "the",
-  "start": 232.12,
-  "end": 232.2
+  "start": 232.08,
+  "end": 232.16
  },
  {
-  "w": "rescue.",
-  "start": 232.32,
-  "end": 232.76
+  "w": "rescue",
+  "start": 232.2,
+  "end": 232.64
  },
  {
-  "w": "From",
-  "start": 233.16,
-  "end": 233.32
+  "w": "from",
+  "start": 233.12,
+  "end": 233.28
  },
  {
   "w": "the",
-  "start": 233.4,
-  "end": 233.48
+  "start": 233.34,
+  "end": 233.52
  },
  {
   "w": "other",
-  "start": 233.64,
-  "end": 233.88
+  "start": 233.62,
+  "end": 233.82
  },
  {
   "w": "side",
-  "start": 234.04,
-  "end": 234.36
+  "start": 234.0,
+  "end": 234.3
  },
  {
   "w": "of",
-  "start": 234.4,
-  "end": 234.44
+  "start": 234.36,
+  "end": 234.42
  },
  {
   "w": "the",
-  "start": 234.52,
-  "end": 234.6
+  "start": 234.46,
+  "end": 234.56
  },
  {
   "w": "planet.",
-  "start": 234.68,
-  "end": 235.32
+  "start": 234.62,
+  "end": 235.04
  },
  {
   "w": "With",
   "start": 236.26,
-  "end": 236.42
+  "end": 236.44
  },
  {
   "w": "no",
-  "start": 236.58,
-  "end": 236.74
+  "start": 236.52,
+  "end": 236.72
  },
  {
   "w": "short",
-  "start": 236.82,
-  "end": 237.06
+  "start": 236.78,
+  "end": 237.02
  },
  {
   "w": "way",
-  "start": 237.14,
+  "start": 237.06,
   "end": 237.22
  },
  {
   "w": "out,",
-  "start": 237.38,
-  "end": 237.86
+  "start": 237.32,
+  "end": 237.5
  },
  {
   "w": "the",
-  "start": 237.9,
-  "end": 237.94
+  "start": 237.84,
+  "end": 237.92
  },
  {
   "w": "fleet",
-  "start": 238.02,
-  "end": 238.34
+  "start": 238.0,
+  "end": 238.28
  },
  {
   "w": "sailed",
-  "start": 238.42,
-  "end": 238.74
+  "start": 238.38,
+  "end": 238.66
  },
  {
   "w": "around",
-  "start": 238.98,
-  "end": 239.22
+  "start": 238.74,
+  "end": 239.16
  },
  {
   "w": "Europe,",
-  "start": 239.3,
-  "end": 239.78
+  "start": 239.26,
+  "end": 239.54
  },
  {
   "w": "around",
   "start": 239.86,
-  "end": 240.26
+  "end": 240.24
  },
  {
   "w": "Africa,",
   "start": 240.34,
-  "end": 241.06
+  "end": 240.74
  },
  {
   "w": "across",
-  "start": 241.18,
-  "end": 241.62
+  "start": 241.08,
+  "end": 241.56
  },
  {
   "w": "the",
-  "start": 241.7,
+  "start": 241.62,
   "end": 241.78
  },
  {
   "w": "Indian",
-  "start": 241.86,
-  "end": 242.26
+  "start": 241.84,
+  "end": 242.2
  },
  {
-  "w": "Ocean.",
-  "start": 242.34,
-  "end": 242.94
+  "w": "Ocean,",
+  "start": 242.32,
+  "end": 242.66
  },
  {
-  "w": "Eighteen",
+  "w": "eighteen",
   "start": 243.14,
-  "end": 243.7
+  "end": 243.66
  },
  {
   "w": "thousand",
-  "start": 244.02,
+  "start": 243.94,
   "end": 244.42
  },
  {
   "w": "miles.",
-  "start": 244.58,
-  "end": 245.3
+  "start": 244.52,
+  "end": 244.98
  },
  {
   "w": "In",
-  "start": 245.54,
-  "end": 245.62
+  "start": 245.52,
+  "end": 245.58
  },
  {
   "w": "the",
-  "start": 245.66,
-  "end": 245.7
+  "start": 245.6,
+  "end": 245.68
  },
  {
   "w": "North",
-  "start": 245.78,
-  "end": 246.02
+  "start": 245.72,
+  "end": 245.96
  },
  {
   "w": "Sea,",
-  "start": 246.1,
-  "end": 246.66
+  "start": 246.08,
+  "end": 246.32
  },
  {
   "w": "nervous",
-  "start": 246.74,
-  "end": 247.06
+  "start": 246.68,
+  "end": 247.04
  },
  {
   "w": "Russian",
-  "start": 247.14,
-  "end": 247.46
+  "start": 247.1,
+  "end": 247.38
  },
  {
   "w": "sailors",
-  "start": 247.54,
-  "end": 248.02
+  "start": 247.52,
+  "end": 247.96
  },
  {
   "w": "even",
-  "start": 248.14,
-  "end": 248.26
+  "start": 248.04,
+  "end": 248.22
  },
  {
   "w": "mistook",
-  "start": 248.42,
-  "end": 248.74
+  "start": 248.26,
+  "end": 248.64
  },
  {
   "w": "British",
-  "start": 248.82,
+  "start": 248.78,
   "end": 249.14
  },
  {
   "w": "fishing",
-  "start": 249.22,
-  "end": 249.54
+  "start": 249.2,
+  "end": 249.5
  },
  {
   "w": "boats",
-  "start": 249.62,
-  "end": 249.86
+  "start": 249.56,
+  "end": 249.82
  },
  {
   "w": "for",
-  "start": 249.94,
-  "end": 250.02
+  "start": 249.86,
+  "end": 250.0
  },
  {
   "w": "Japanese",
-  "start": 250.1,
-  "end": 250.58
+  "start": 250.08,
+  "end": 250.54
  },
  {
   "w": "torpedo",
-  "start": 250.66,
-  "end": 251.14
+  "start": 250.58,
+  "end": 251.12
  },
  {
-  "w": "boats,",
-  "start": 251.22,
-  "end": 251.62
+  "w": "boats",
+  "start": 251.18,
+  "end": 251.56
  },
  {
   "w": "and",
-  "start": 251.7,
-  "end": 251.78
+  "start": 251.62,
+  "end": 251.74
  },
  {
   "w": "opened",
-  "start": 251.86,
-  "end": 252.1
+  "start": 251.84,
+  "end": 252.12
  },
  {
   "w": "fire.",
-  "start": 252.26,
-  "end": 252.82
+  "start": 252.2,
+  "end": 252.54
  },
  {
   "w": "It",
-  "start": 253.76,
-  "end": 253.92
+  "start": 253.74,
+  "end": 253.84
  },
  {
   "w": "took",
-  "start": 254.04,
-  "end": 254.16
+  "start": 253.92,
+  "end": 254.08
  },
  {
   "w": "seven",
   "start": 254.32,
-  "end": 254.64
+  "end": 254.66
  },
  {
   "w": "months.",
-  "start": 254.8,
-  "end": 255.4
+  "start": 254.72,
+  "end": 255.12
  },
  {
   "w": "By",
-  "start": 255.6,
+  "start": 255.58,
   "end": 255.68
  },
  {
   "w": "the",
-  "start": 255.76,
-  "end": 255.84
+  "start": 255.72,
+  "end": 255.78
  },
  {
   "w": "time",
-  "start": 255.92,
-  "end": 256.08
+  "start": 255.86,
+  "end": 256.079
  },
  {
   "w": "the",
-  "start": 256.16,
-  "end": 256.24
+  "start": 256.12,
+  "end": 256.2
  },
  {
   "w": "fleet",
-  "start": 256.36,
-  "end": 256.48
+  "start": 256.26,
+  "end": 256.42
  },
  {
   "w": "arrived,",
-  "start": 256.56,
-  "end": 257.28
+  "start": 256.48,
+  "end": 256.959
  },
  {
   "w": "Port",
-  "start": 257.4,
-  "end": 257.52
+  "start": 257.3,
+  "end": 257.459
  },
  {
   "w": "Arthur",
-  "start": 257.6,
-  "end": 258.0
+  "start": 257.579,
+  "end": 257.959
  },
  {
   "w": "had",
-  "start": 258.08,
-  "end": 258.24
+  "start": 258.0,
+  "end": 258.18
  },
  {
   "w": "already",
-  "start": 258.32,
-  "end": 258.72
+  "start": 258.279,
+  "end": 258.64
  },
  {
-  "w": "fallen.",
-  "start": 258.84,
-  "end": 259.52
+  "w": "fallen,",
+  "start": 258.7,
+  "end": 259.04
  },
  {
-  "w": "And",
-  "start": 259.6,
-  "end": 259.68
+  "w": "and",
+  "start": 259.519,
+  "end": 259.62
  },
  {
   "w": "in",
-  "start": 259.76,
-  "end": 259.84
+  "start": 259.66,
+  "end": 259.779
  },
  {
   "w": "May",
-  "start": 259.92,
-  "end": 260.08
+  "start": 259.839,
+  "end": 260.1
  },
  {
-  "w": "1905,",
+  "w": "nineteen",
   "start": 260.16,
-  "end": 261.36
+  "end": 260.5
+ },
+ {
+  "w": "oh",
+  "start": 260.56,
+  "end": 260.68
+ },
+ {
+  "w": "five,",
+  "start": 260.74,
+  "end": 261.079
  },
  {
   "w": "near",
-  "start": 261.44,
-  "end": 261.52
+  "start": 261.339,
+  "end": 261.48
  },
  {
   "w": "the",
-  "start": 261.6,
-  "end": 261.68
+  "start": 261.519,
+  "end": 261.6
  },
  {
   "w": "island",
-  "start": 261.76,
-  "end": 262.0
+  "start": 261.7,
+  "end": 261.94
  },
  {
   "w": "of",
-  "start": 262.04,
-  "end": 262.08
+  "start": 261.98,
+  "end": 262.06
  },
  {
   "w": "Tsushima,",
-  "start": 262.16,
-  "end": 263.04
+  "start": 262.1,
+  "end": 262.66
  },
  {
   "w": "the",
-  "start": 263.12,
-  "end": 263.2
+  "start": 263.02,
+  "end": 263.12
  },
  {
   "w": "Japanese",
-  "start": 263.48,
-  "end": 263.76
+  "start": 263.2,
+  "end": 263.68
  },
  {
-  "w": "navy",
-  "start": 263.84,
-  "end": 264.24
+  "w": "Navy",
+  "start": 263.78,
+  "end": 264.2
  },
  {
   "w": "was",
-  "start": 264.32,
-  "end": 264.48
+  "start": 264.26,
+  "end": 264.4
  },
  {
   "w": "waiting.",
-  "start": 264.68,
-  "end": 265.28
+  "start": 264.46,
+  "end": 264.8
  },
  {
   "w": "Out",
-  "start": 266.06,
-  "end": 266.14
+  "start": 266.02,
+  "end": 266.1
  },
  {
   "w": "of",
-  "start": 266.22,
-  "end": 266.38
+  "start": 266.14,
+  "end": 266.28
  },
  {
-  "w": "thirty-",
-  "start": 266.46,
-  "end": 266.82
- },
- {
-  "w": "eight",
-  "start": 266.82,
-  "end": 267.02
+  "w": "thirty-eight",
+  "start": 266.38,
+  "end": 266.94
  },
  {
   "w": "Russian",
-  "start": 267.1,
+  "start": 267.04,
   "end": 267.34
  },
  {
   "w": "warships,",
-  "start": 267.42,
-  "end": 268.3
+  "start": 267.38,
+  "end": 267.92
  },
  {
   "w": "only",
-  "start": 268.38,
-  "end": 268.78
+  "start": 268.36,
+  "end": 268.66
  },
  {
   "w": "three",
-  "start": 269.02,
-  "end": 269.26
+  "start": 268.76,
+  "end": 269.06
  },
  {
   "w": "made",
-  "start": 269.34,
-  "end": 269.42
+  "start": 269.24,
+  "end": 269.36
  },
  {
   "w": "it",
-  "start": 269.46,
-  "end": 269.5
+  "start": 269.4,
+  "end": 269.48
  },
  {
   "w": "to",
-  "start": 269.58,
-  "end": 269.66
+  "start": 269.54,
+  "end": 269.64
  },
  {
   "w": "port.",
-  "start": 269.74,
-  "end": 270.54
+  "start": 269.7,
+  "end": 269.94
  },
  {
   "w": "Seven",
-  "start": 271.32,
-  "end": 271.64
+  "start": 271.28,
+  "end": 271.62
  },
  {
   "w": "months",
-  "start": 271.72,
-  "end": 272.04
+  "start": 271.68,
+  "end": 271.96
  },
  {
   "w": "at",
-  "start": 272.12,
-  "end": 272.2
+  "start": 272.02,
+  "end": 272.16
  },
  {
-  "w": "sea.",
-  "start": 272.28,
-  "end": 273.08
+  "w": "sea,",
+  "start": 272.24,
+  "end": 272.46
  },
  {
-  "w": "Lost",
-  "start": 273.16,
-  "end": 273.56
+  "w": "lost",
+  "start": 273.08,
+  "end": 273.54
  },
  {
   "w": "in",
-  "start": 273.64,
-  "end": 273.72
+  "start": 273.6,
+  "end": 273.66
  },
  {
   "w": "a",
-  "start": 273.8,
-  "end": 273.88
+  "start": 273.7,
+  "end": 273.78
  },
  {
   "w": "single",
-  "start": 273.96,
-  "end": 274.28
+  "start": 273.92,
+  "end": 274.2
  },
  {
   "w": "battle.",
-  "start": 274.36,
-  "end": 275.2
+  "start": 274.32,
+  "end": 274.62
  },
  {
   "w": "Chapter",
   "start": 277.52,
-  "end": 277.84
+  "end": 277.82
  },
  {
-  "w": "three.",
-  "start": 278.0,
-  "end": 278.8
+  "w": "Three:",
+  "start": 277.92,
+  "end": 278.24
  },
  {
   "w": "The",
-  "start": 278.88,
-  "end": 278.96
+  "start": 278.84,
+  "end": 278.9
  },
  {
   "w": "Warm",
-  "start": 279.04,
-  "end": 279.36
+  "start": 279.02,
+  "end": 279.28
  },
  {
   "w": "Door",
-  "start": 279.44,
-  "end": 279.76
+  "start": 279.4,
+  "end": 279.74
  },
  {
   "w": "in",
-  "start": 279.84,
-  "end": 279.92
+  "start": 279.8,
+  "end": 279.86
  },
  {
   "w": "the",
-  "start": 279.96,
+  "start": 279.92,
   "end": 280.0
  },
  {
   "w": "Arctic.",
-  "start": 280.08,
-  "end": 281.04
+  "start": 280.06,
+  "end": 280.48
  },
  {
   "w": "Ten",
-  "start": 283.32,
-  "end": 283.56
+  "start": 283.34,
+  "end": 283.52
  },
  {
   "w": "years",
-  "start": 283.68,
-  "end": 283.8
+  "start": 283.56,
+  "end": 283.78
  },
  {
   "w": "later,",
-  "start": 283.88,
-  "end": 284.36
+  "start": 283.84,
+  "end": 284.12
  },
  {
   "w": "in",
-  "start": 284.4,
-  "end": 284.44
+  "start": 284.34,
+  "end": 284.4
  },
  {
   "w": "the",
-  "start": 284.52,
-  "end": 284.6
+  "start": 284.44,
+  "end": 284.52
  },
  {
   "w": "First",
-  "start": 284.72,
-  "end": 284.84
+  "start": 284.58,
+  "end": 284.8
  },
  {
   "w": "World",
-  "start": 284.92,
-  "end": 285.16
+  "start": 284.88,
+  "end": 285.08
  },
  {
   "w": "War,",
-  "start": 285.24,
-  "end": 285.72
+  "start": 285.16,
+  "end": 285.36
  },
  {
   "w": "Russia's",
-  "start": 285.8,
-  "end": 286.28
+  "start": 285.78,
+  "end": 286.12
  },
  {
   "w": "Baltic",
-  "start": 286.32,
-  "end": 286.68
+  "start": 286.26,
+  "end": 286.66
  },
  {
   "w": "and",
-  "start": 286.76,
-  "end": 286.84
+  "start": 286.7,
+  "end": 286.78
  },
  {
   "w": "Black",
-  "start": 286.92,
-  "end": 287.16
+  "start": 286.88,
+  "end": 287.12
  },
  {
   "w": "Sea",
-  "start": 287.24,
-  "end": 287.4
+  "start": 287.22,
+  "end": 287.36
  },
  {
   "w": "doors",
-  "start": 287.48,
-  "end": 287.88
+  "start": 287.46,
+  "end": 287.82
  },
  {
   "w": "were",
-  "start": 288.0,
-  "end": 288.12
+  "start": 287.86,
+  "end": 288.04
  },
  {
   "w": "both",
-  "start": 288.28,
-  "end": 288.44
+  "start": 288.1,
+  "end": 288.34
  },
  {
   "w": "blocked",
-  "start": 288.52,
-  "end": 288.84
+  "start": 288.46,
+  "end": 288.76
  },
  {
   "w": "by",
-  "start": 288.92,
-  "end": 289.0
+  "start": 288.82,
+  "end": 288.96
  },
  {
   "w": "enemies.",
-  "start": 289.08,
-  "end": 289.8
+  "start": 289.02,
+  "end": 289.42
  },
  {
   "w": "Its",
-  "start": 289.88,
-  "end": 290.04
+  "start": 289.84,
+  "end": 289.98
  },
  {
   "w": "allies",
-  "start": 290.12,
-  "end": 290.6
+  "start": 290.08,
+  "end": 290.52
  },
  {
   "w": "couldn't",
-  "start": 290.68,
-  "end": 290.84
+  "start": 290.58,
+  "end": 290.8
  },
  {
   "w": "get",
-  "start": 290.92,
-  "end": 291.0
+  "start": 290.84,
+  "end": 290.98
  },
  {
   "w": "supplies",
-  "start": 291.08,
-  "end": 291.56
+  "start": 291.04,
+  "end": 291.48
  },
  {
   "w": "in.",
-  "start": 291.64,
-  "end": 292.2
+  "start": 291.54,
+  "end": 291.68
  },
  {
   "w": "So",
-  "start": 293.02,
-  "end": 293.14
+  "start": 292.9,
+  "end": 293.1
  },
  {
   "w": "Russia",
-  "start": 293.46,
-  "end": 293.7
+  "start": 293.38,
+  "end": 293.68
  },
  {
   "w": "built",
-  "start": 293.78,
-  "end": 293.94
+  "start": 293.72,
+  "end": 293.9
  },
  {
   "w": "a",
-  "start": 294.02,
-  "end": 294.06
+  "start": 293.96,
+  "end": 294.04
  },
  {
   "w": "railway",
-  "start": 294.1,
-  "end": 294.58
+  "start": 294.08,
+  "end": 294.46
  },
  {
-  "w": "north,",
-  "start": 294.66,
-  "end": 295.14
+  "w": "north",
+  "start": 294.6,
+  "end": 295.06
  },
  {
   "w": "to",
-  "start": 295.18,
-  "end": 295.22
+  "start": 295.12,
+  "end": 295.18
  },
  {
   "w": "the",
-  "start": 295.3,
-  "end": 295.34
+  "start": 295.22,
+  "end": 295.32
  },
  {
   "w": "Arctic",
   "start": 295.38,
-  "end": 295.78
+  "end": 295.7
  },
  {
   "w": "coast,",
-  "start": 295.86,
-  "end": 296.5
+  "start": 295.82,
+  "end": 296.18
  },
  {
   "w": "and",
-  "start": 296.54,
-  "end": 296.58
+  "start": 296.48,
+  "end": 296.56
  },
  {
   "w": "in",
-  "start": 296.66,
-  "end": 296.74
+  "start": 296.6,
+  "end": 296.68
  },
  {
-  "w": "1916",
-  "start": 296.82,
-  "end": 297.78
+  "w": "nineteen",
+  "start": 296.74,
+  "end": 297.06
+ },
+ {
+  "w": "sixteen,",
+  "start": 297.18,
+  "end": 297.66
  },
  {
   "w": "founded",
-  "start": 297.94,
-  "end": 298.26
+  "start": 297.9,
+  "end": 298.2
  },
  {
   "w": "a",
-  "start": 298.3,
+  "start": 298.26,
   "end": 298.34
  },
  {
   "w": "port",
-  "start": 298.42,
-  "end": 298.74
+  "start": 298.4,
+  "end": 298.72
  },
  {
   "w": "at",
-  "start": 298.82,
-  "end": 298.9
+  "start": 298.78,
+  "end": 298.86
  },
  {
   "w": "the",
-  "start": 298.98,
-  "end": 299.02
+  "start": 298.9,
+  "end": 298.98
  },
  {
   "w": "end",
-  "start": 299.06,
-  "end": 299.22
+  "start": 299.02,
+  "end": 299.14
  },
  {
   "w": "of",
-  "start": 299.26,
-  "end": 299.3
+  "start": 299.18,
+  "end": 299.24
  },
  {
   "w": "it.",
-  "start": 299.38,
-  "end": 299.66
+  "start": 299.3,
+  "end": 299.4
  },
  {
-  "w": "Today",
-  "start": 299.86,
-  "end": 300.26
+  "w": "Today,",
+  "start": 299.84,
+  "end": 300.2
  },
  {
   "w": "it's",
-  "start": 300.5,
-  "end": 300.66
+  "start": 300.44,
+  "end": 300.58
  },
  {
   "w": "called",
-  "start": 300.78,
-  "end": 300.9
+  "start": 300.62,
+  "end": 300.88
  },
  {
   "w": "Murmansk.",
-  "start": 301.06,
-  "end": 301.9
+  "start": 301.04,
+  "end": 301.62
  },
  {
   "w": "It's",
   "start": 302.8,
-  "end": 303.12
+  "end": 303.04
  },
  {
   "w": "far",
-  "start": 303.24,
-  "end": 303.36
+  "start": 303.1,
+  "end": 303.34
  },
  {
   "w": "above",
-  "start": 303.44,
-  "end": 303.84
+  "start": 303.4,
+  "end": 303.76
  },
  {
   "w": "the",
-  "start": 303.88,
-  "end": 303.92
+  "start": 303.82,
+  "end": 303.9
  },
  {
   "w": "Arctic",
-  "start": 304.0,
-  "end": 304.32
+  "start": 303.96,
+  "end": 304.26
  },
  {
-  "w": "Circle.",
-  "start": 304.4,
-  "end": 304.8
+  "w": "Circle,",
+  "start": 304.34,
+  "end": 304.66
  },
  {
-  "w": "And",
-  "start": 305.12,
-  "end": 305.28
+  "w": "and",
+  "start": 305.1,
+  "end": 305.2
  },
  {
-  "w": "yet,",
-  "start": 305.4,
-  "end": 305.76
+  "w": "yet",
+  "start": 305.26,
+  "end": 305.48
  },
  {
   "w": "its",
-  "start": 305.84,
-  "end": 306.0
+  "start": 305.82,
+  "end": 305.94
  },
  {
   "w": "harbor",
-  "start": 306.08,
-  "end": 306.4
+  "start": 306.02,
+  "end": 306.34
  },
  {
   "w": "doesn't",
-  "start": 306.48,
-  "end": 306.8
+  "start": 306.46,
+  "end": 306.74
  },
  {
   "w": "freeze.",
-  "start": 306.88,
-  "end": 307.52
+  "start": 306.82,
+  "end": 307.22
  },
  {
   "w": "Warm",
   "start": 307.76,
-  "end": 308.08
+  "end": 308.02
  },
  {
   "w": "water",
-  "start": 308.16,
+  "start": 308.08,
   "end": 308.4
  },
  {
   "w": "from",
-  "start": 308.48,
-  "end": 308.56
+  "start": 308.44,
+  "end": 308.54
  },
  {
   "w": "the",
-  "start": 308.64,
-  "end": 308.68
+  "start": 308.6,
+  "end": 308.64
  },
  {
   "w": "Atlantic,",
-  "start": 308.72,
-  "end": 309.44
+  "start": 308.68,
+  "end": 309.2
  },
  {
   "w": "the",
-  "start": 309.52,
-  "end": 309.6
+  "start": 309.46,
+  "end": 309.54
  },
  {
   "w": "tail",
-  "start": 309.76,
-  "end": 309.92
+  "start": 309.6,
+  "end": 309.86
  },
  {
   "w": "end",
-  "start": 310.0,
-  "end": 310.08
+  "start": 309.9,
+  "end": 310.04
  },
  {
   "w": "of",
-  "start": 310.16,
-  "end": 310.2
+  "start": 310.08,
+  "end": 310.14
  },
  {
   "w": "the",
-  "start": 310.24,
-  "end": 310.28
+  "start": 310.18,
+  "end": 310.26
  },
  {
   "w": "Gulf",
-  "start": 310.32,
-  "end": 310.56
+  "start": 310.3,
+  "end": 310.5
  },
  {
   "w": "Stream,",
-  "start": 310.64,
-  "end": 311.2
+  "start": 310.6,
+  "end": 310.86
  },
  {
   "w": "curls",
-  "start": 311.28,
-  "end": 311.64
+  "start": 311.24,
+  "end": 311.58
  },
  {
   "w": "around",
-  "start": 311.68,
-  "end": 312.0
+  "start": 311.66,
+  "end": 311.96
  },
  {
   "w": "the",
-  "start": 312.08,
-  "end": 312.16
+  "start": 312.0,
+  "end": 312.08
  },
  {
   "w": "top",
-  "start": 312.28,
-  "end": 312.4
+  "start": 312.14,
+  "end": 312.34
  },
  {
   "w": "of",
-  "start": 312.44,
+  "start": 312.38,
   "end": 312.48
  },
  {
   "w": "Norway",
-  "start": 312.56,
-  "end": 313.04
+  "start": 312.54,
+  "end": 312.94
  },
  {
   "w": "and",
-  "start": 313.2,
-  "end": 313.36
+  "start": 313.18,
+  "end": 313.26
  },
  {
   "w": "keeps",
-  "start": 313.44,
-  "end": 313.68
+  "start": 313.38,
+  "end": 313.62
  },
  {
   "w": "the",
-  "start": 313.76,
-  "end": 313.84
+  "start": 313.68,
+  "end": 313.78
  },
  {
   "w": "sea",
-  "start": 313.92,
+  "start": 313.86,
   "end": 314.08
  },
  {
   "w": "open",
-  "start": 314.16,
+  "start": 314.18,
   "end": 314.56
  },
  {
   "w": "all",
-  "start": 314.64,
+  "start": 314.66,
   "end": 314.8
  },
  {
   "w": "winter.",
-  "start": 314.88,
-  "end": 315.28
+  "start": 314.84,
+  "end": 315.16
  },
  {
   "w": "In",
   "start": 316.38,
-  "end": 316.46
+  "end": 316.44
  },
  {
   "w": "the",
-  "start": 316.54,
-  "end": 316.58
+  "start": 316.48,
+  "end": 316.56
  },
  {
   "w": "Second",
-  "start": 316.62,
-  "end": 316.94
+  "start": 316.6,
+  "end": 316.86
  },
  {
   "w": "World",
-  "start": 317.02,
-  "end": 317.18
+  "start": 316.94,
+  "end": 317.14
  },
  {
   "w": "War,",
-  "start": 317.26,
-  "end": 317.74
+  "start": 317.22,
+  "end": 317.42
  },
  {
   "w": "Allied",
-  "start": 317.82,
-  "end": 318.14
+  "start": 317.8,
+  "end": 318.1
  },
  {
   "w": "convoys",
-  "start": 318.22,
-  "end": 318.78
+  "start": 318.2,
+  "end": 318.72
  },
  {
   "w": "fought",
-  "start": 318.94,
-  "end": 319.18
+  "start": 318.88,
+  "end": 319.1
  },
  {
   "w": "through",
-  "start": 319.3,
-  "end": 319.42
+  "start": 319.12,
+  "end": 319.4
  },
  {
   "w": "ice",
   "start": 319.5,
-  "end": 319.82
+  "end": 319.78
  },
  {
   "w": "and",
-  "start": 319.9,
-  "end": 319.98
+  "start": 319.82,
+  "end": 319.9
  },
  {
   "w": "storms",
-  "start": 320.14,
-  "end": 320.62
+  "start": 320.12,
+  "end": 320.6
  },
  {
   "w": "to",
-  "start": 320.7,
-  "end": 320.78
+  "start": 320.66,
+  "end": 320.72
  },
  {
   "w": "bring",
-  "start": 320.9,
-  "end": 321.02
+  "start": 320.76,
+  "end": 320.98
  },
  {
   "w": "tanks,",
-  "start": 321.1,
-  "end": 321.66
+  "start": 321.06,
+  "end": 321.44
  },
  {
-  "w": "planes",
-  "start": 321.9,
-  "end": 322.14
+  "w": "planes,",
+  "start": 321.66,
+  "end": 322.06
  },
  {
   "w": "and",
-  "start": 322.22,
-  "end": 322.3
+  "start": 322.16,
+  "end": 322.24
  },
  {
   "w": "food",
-  "start": 322.46,
-  "end": 322.78
+  "start": 322.42,
+  "end": 322.7
  },
  {
   "w": "into",
-  "start": 322.86,
+  "start": 322.84,
   "end": 323.1
  },
  {
   "w": "Russia",
-  "start": 323.18,
-  "end": 323.5
+  "start": 323.14,
+  "end": 323.54
  },
  {
   "w": "through",
-  "start": 323.66,
-  "end": 323.82
+  "start": 323.58,
+  "end": 323.74
  },
  {
   "w": "this",
-  "start": 323.94,
-  "end": 324.06
+  "start": 323.78,
+  "end": 324.0
  },
  {
   "w": "one",
   "start": 324.14,
-  "end": 324.38
+  "end": 324.28
  },
  {
   "w": "Arctic",
-  "start": 324.46,
-  "end": 324.86
+  "start": 324.44,
+  "end": 324.76
  },
  {
   "w": "door.",
-  "start": 324.94,
-  "end": 325.58
+  "start": 324.88,
+  "end": 325.14
  },
  {
   "w": "Today,",
-  "start": 325.78,
-  "end": 326.22
+  "start": 325.6,
+  "end": 325.96
  },
  {
   "w": "Murmansk",
-  "start": 326.26,
-  "end": 326.78
+  "start": 326.22,
+  "end": 326.7
  },
  {
   "w": "is",
-  "start": 326.86,
-  "end": 326.94
+  "start": 326.74,
+  "end": 326.84
  },
  {
   "w": "home",
-  "start": 327.06,
-  "end": 327.18
+  "start": 326.9,
+  "end": 327.14
  },
  {
   "w": "to",
-  "start": 327.26,
-  "end": 327.34
+  "start": 327.18,
+  "end": 327.3
  },
  {
   "w": "Russia's",
-  "start": 327.42,
-  "end": 327.82
+  "start": 327.34,
+  "end": 327.72
  },
  {
   "w": "most",
-  "start": 327.98,
-  "end": 328.14
+  "start": 327.78,
+  "end": 327.96
  },
  {
   "w": "powerful",
-  "start": 328.3,
-  "end": 328.62
+  "start": 328.14,
+  "end": 328.56
  },
  {
   "w": "fleet,",
-  "start": 328.7,
-  "end": 329.34
+  "start": 328.68,
+  "end": 328.94
  },
  {
   "w": "the",
-  "start": 329.42,
-  "end": 329.5
+  "start": 329.34,
+  "end": 329.44
  },
  {
   "w": "Northern",
-  "start": 329.58,
-  "end": 329.9
+  "start": 329.5,
+  "end": 329.86
  },
  {
   "w": "Fleet.",
-  "start": 330.06,
-  "end": 330.7
+  "start": 329.98,
+  "end": 330.24
  },
  {
   "w": "The",
-  "start": 331.48,
-  "end": 331.64
+  "start": 331.42,
+  "end": 331.54
  },
  {
   "w": "coldest",
-  "start": 331.72,
-  "end": 332.12
+  "start": 331.64,
+  "end": 332.04
  },
  {
   "w": "corner",
-  "start": 332.2,
-  "end": 332.44
+  "start": 332.14,
+  "end": 332.4
  },
  {
   "w": "of",
-  "start": 332.52,
-  "end": 332.6
+  "start": 332.46,
+  "end": 332.52
  },
  {
   "w": "the",
-  "start": 332.64,
-  "end": 332.68
+  "start": 332.56,
+  "end": 332.64
  },
  {
   "w": "country",
-  "start": 332.76,
-  "end": 333.16
+  "start": 332.68,
+  "end": 333.06
  },
  {
   "w": "turned",
-  "start": 333.4,
-  "end": 333.64
+  "start": 333.36,
+  "end": 333.6
  },
  {
   "w": "out",
-  "start": 333.72,
-  "end": 333.88
+  "start": 333.66,
+  "end": 333.8
  },
  {
   "w": "to",
-  "start": 333.96,
-  "end": 334.04
+  "start": 333.86,
+  "end": 333.96
  },
  {
   "w": "have",
-  "start": 334.12,
-  "end": 334.2
+  "start": 334.0,
+  "end": 334.18
  },
  {
   "w": "its",
-  "start": 334.28,
-  "end": 334.52
+  "start": 334.22,
+  "end": 334.38
  },
  {
   "w": "warmest",
-  "start": 334.6,
-  "end": 335.0
+  "start": 334.54,
+  "end": 334.88
  },
  {
   "w": "door.",
-  "start": 335.16,
-  "end": 336.12
+  "start": 335.0,
+  "end": 335.3
  },
  {
   "w": "But",
-  "start": 336.9,
-  "end": 336.98
+  "start": 336.84,
+  "end": 336.94
  },
  {
   "w": "here's",
-  "start": 337.06,
-  "end": 337.22
+  "start": 337.0,
+  "end": 337.2
  },
  {
   "w": "the",
-  "start": 337.3,
-  "end": 337.38
+  "start": 337.24,
+  "end": 337.34
  },
  {
   "w": "part",
-  "start": 337.46,
-  "end": 337.7
+  "start": 337.38,
+  "end": 337.66
  },
  {
   "w": "most",
-  "start": 337.78,
-  "end": 338.02
+  "start": 337.74,
+  "end": 338.0
  },
  {
   "w": "people",
-  "start": 338.1,
-  "end": 338.34
+  "start": 338.06,
+  "end": 338.3
  },
  {
   "w": "get",
-  "start": 338.42,
-  "end": 338.58
+  "start": 338.34,
+  "end": 338.52
  },
  {
   "w": "wrong.",
-  "start": 338.78,
-  "end": 339.38
+  "start": 338.54,
+  "end": 338.9
  },
  {
   "w": "That",
-  "start": 340.16,
-  "end": 340.4
+  "start": 340.12,
+  "end": 340.44
  },
  {
-  "w": "\"warm",
-  "start": 340.48,
-  "end": 340.88
+  "w": "warm",
+  "start": 340.52,
+  "end": 340.82
  },
  {
-  "w": "water\"",
-  "start": 340.96,
-  "end": 341.28
+  "w": "water",
+  "start": 340.9,
+  "end": 341.14
  },
  {
   "w": "story",
-  "start": 341.48,
-  "end": 341.68
+  "start": 341.28,
+  "end": 341.64
  },
  {
   "w": "is",
-  "start": 341.76,
+  "start": 341.7,
   "end": 341.84
  },
  {
-  "w": "famous.",
-  "start": 342.0,
-  "end": 342.72
+  "w": "famous,",
+  "start": 341.92,
+  "end": 342.3
  },
  {
-  "w": "But",
-  "start": 342.8,
-  "end": 342.88
+  "w": "but",
+  "start": 342.72,
+  "end": 342.84
  },
  {
   "w": "many",
-  "start": 342.96,
-  "end": 343.12
+  "start": 342.88,
+  "end": 343.08
  },
  {
   "w": "historians",
-  "start": 343.32,
-  "end": 343.84
+  "start": 343.12,
+  "end": 343.8
  },
  {
   "w": "think",
-  "start": 343.92,
-  "end": 344.08
+  "start": 343.84,
+  "end": 344.02
  },
  {
   "w": "it's",
-  "start": 344.12,
-  "end": 344.4
+  "start": 344.06,
+  "end": 344.28
  },
  {
   "w": "far",
-  "start": 344.52,
-  "end": 344.64
+  "start": 344.36,
+  "end": 344.56
  },
  {
   "w": "too",
-  "start": 344.76,
-  "end": 344.88
+  "start": 344.62,
+  "end": 344.72
  },
  {
   "w": "simple.",
-  "start": 345.04,
-  "end": 345.68
+  "start": 344.86,
+  "end": 345.2
  },
  {
   "w": "Russia",
-  "start": 345.76,
-  "end": 346.08
+  "start": 345.68,
+  "end": 346.0
  },
  {
   "w": "didn't",
-  "start": 346.16,
-  "end": 346.4
+  "start": 346.04,
+  "end": 346.3
  },
  {
   "w": "push",
-  "start": 346.56,
-  "end": 346.72
+  "start": 346.36,
+  "end": 346.6
  },
  {
   "w": "south",
-  "start": 346.92,
-  "end": 347.12
+  "start": 346.68,
+  "end": 347.1
  },
  {
   "w": "only",
-  "start": 347.2,
+  "start": 347.18,
   "end": 347.44
  },
  {
   "w": "for",
-  "start": 347.52,
-  "end": 347.68
+  "start": 347.48,
+  "end": 347.64
  },
  {
   "w": "ports.",
-  "start": 347.76,
-  "end": 348.56
+  "start": 347.7,
+  "end": 348.1
  },
  {
   "w": "It",
-  "start": 348.64,
-  "end": 348.8
+  "start": 348.6,
+  "end": 348.7
  },
  {
   "w": "also",
-  "start": 348.88,
-  "end": 349.2
+  "start": 348.82,
+  "end": 349.14
  },
  {
   "w": "wanted",
-  "start": 349.36,
-  "end": 349.52
+  "start": 349.18,
+  "end": 349.48
  },
  {
   "w": "the",
-  "start": 349.6,
-  "end": 349.68
+  "start": 349.52,
+  "end": 349.64
  },
  {
   "w": "rich",
-  "start": 349.76,
-  "end": 350.0
+  "start": 349.7,
+  "end": 349.9
  },
  {
   "w": "farmland",
-  "start": 350.08,
-  "end": 350.64
+  "start": 350.06,
+  "end": 350.56
  },
  {
   "w": "of",
-  "start": 350.68,
-  "end": 350.72
+  "start": 350.6,
+  "end": 350.66
  },
  {
   "w": "the",
-  "start": 350.76,
+  "start": 350.7,
   "end": 350.8
  },
  {
-  "w": "steppe,",
-  "start": 350.88,
-  "end": 351.52
+  "w": "steppe",
+  "start": 350.9,
+  "end": 351.18
  },
  {
   "w": "and",
   "start": 351.6,
-  "end": 351.84
+  "end": 351.8
  },
  {
   "w": "an",
-  "start": 351.92,
-  "end": 352.08
+  "start": 351.86,
+  "end": 352.02
  },
  {
   "w": "end",
-  "start": 352.16,
-  "end": 352.48
+  "start": 352.12,
+  "end": 352.44
  },
  {
   "w": "to",
-  "start": 352.6,
-  "end": 352.72
+  "start": 352.48,
+  "end": 352.64
  },
  {
   "w": "centuries",
-  "start": 352.8,
-  "end": 353.28
+  "start": 352.74,
+  "end": 353.24
  },
  {
   "w": "of",
-  "start": 353.36,
-  "end": 353.44
+  "start": 353.28,
+  "end": 353.38
  },
  {
   "w": "raids",
-  "start": 353.52,
-  "end": 353.84
+  "start": 353.46,
+  "end": 353.82
  },
  {
   "w": "by",
-  "start": 353.92,
-  "end": 354.0
+  "start": 353.86,
+  "end": 353.96
  },
  {
   "w": "the",
-  "start": 354.08,
-  "end": 354.16
+  "start": 354.0,
+  "end": 354.06
  },
  {
   "w": "Crimean",
-  "start": 354.32,
-  "end": 354.64
+  "start": 354.12,
+  "end": 354.56
  },
  {
-  "w": "Tatars,",
-  "start": 354.72,
-  "end": 355.44
+  "w": "Tatars",
+  "start": 354.66,
+  "end": 355.18
  },
  {
   "w": "who",
-  "start": 355.52,
-  "end": 355.6
+  "start": 355.4,
+  "end": 355.52
  },
  {
   "w": "even",
-  "start": 355.72,
-  "end": 355.84
+  "start": 355.58,
+  "end": 355.92
  },
  {
   "w": "burned",
-  "start": 356.0,
-  "end": 356.32
+  "start": 355.98,
+  "end": 356.26
  },
  {
   "w": "Moscow",
-  "start": 356.48,
-  "end": 356.96
+  "start": 356.4,
+  "end": 356.88
  },
  {
   "w": "in",
-  "start": 357.04,
-  "end": 357.12
+  "start": 356.94,
+  "end": 357.04
  },
  {
-  "w": "1571.",
-  "start": 357.16,
-  "end": 358.64
+  "w": "fifteen",
+  "start": 357.1,
+  "end": 357.44
  },
  {
-  "w": "And",
-  "start": 358.72,
-  "end": 358.8
+  "w": "seventy-one,",
+  "start": 357.56,
+  "end": 358.2
+ },
+ {
+  "w": "and",
+  "start": 358.66,
+  "end": 358.76
  },
  {
   "w": "Russians",
-  "start": 358.92,
-  "end": 359.28
+  "start": 358.8,
+  "end": 359.24
  },
  {
   "w": "didn't",
-  "start": 359.36,
-  "end": 359.6
+  "start": 359.28,
+  "end": 359.52
  },
  {
   "w": "cross",
-  "start": 359.76,
-  "end": 359.92
+  "start": 359.58,
+  "end": 359.84
  },
  {
   "w": "Siberia",
-  "start": 359.96,
-  "end": 360.56
+  "start": 359.9,
+  "end": 360.52
  },
  {
   "w": "looking",
-  "start": 360.64,
-  "end": 360.88
+  "start": 360.58,
+  "end": 360.84
  },
  {
   "w": "for",
-  "start": 360.96,
-  "end": 361.12
+  "start": 360.88,
+  "end": 361.0
  },
  {
   "w": "harbors.",
-  "start": 361.2,
-  "end": 362.0
+  "start": 361.08,
+  "end": 361.56
  },
  {
   "w": "They",
-  "start": 362.08,
-  "end": 362.16
+  "start": 362.02,
+  "end": 362.14
  },
  {
   "w": "were",
-  "start": 362.24,
-  "end": 362.32
+  "start": 362.16,
+  "end": 362.28
  },
  {
   "w": "hunting",
-  "start": 362.4,
-  "end": 362.72
+  "start": 362.32,
+  "end": 362.62
  },
  {
   "w": "fur.",
-  "start": 362.88,
-  "end": 363.36
+  "start": 362.84,
+  "end": 363.12
  },
  {
   "w": "So",
-  "start": 364.14,
-  "end": 364.38
+  "start": 364.092,
+  "end": 364.252
  },
  {
   "w": "the",
-  "start": 364.54,
-  "end": 364.62
+  "start": 364.412,
+  "end": 364.492
  },
  {
   "w": "map",
-  "start": 364.7,
-  "end": 364.94
+  "start": 364.552,
+  "end": 364.752
  },
  {
   "w": "didn't",
-  "start": 365.02,
-  "end": 365.26
+  "start": 364.872,
+  "end": 365.112
  },
  {
   "w": "decide",
-  "start": 365.34,
-  "end": 365.66
+  "start": 365.152,
+  "end": 365.532
  },
  {
-  "w": "everything.",
-  "start": 365.9,
-  "end": 366.7
+  "w": "everything,",
+  "start": 365.752,
+  "end": 366.252
  },
  {
-  "w": "But",
-  "start": 366.94,
-  "end": 367.18
+  "w": "but",
+  "start": 366.832,
+  "end": 367.012
  },
  {
   "w": "it",
-  "start": 367.34,
-  "end": 367.5
+  "start": 367.252,
+  "end": 367.372
  },
  {
   "w": "kept",
-  "start": 367.58,
-  "end": 367.82
+  "start": 367.452,
+  "end": 367.652
  },
  {
   "w": "pushing",
-  "start": 367.9,
-  "end": 368.22
+  "start": 367.772,
+  "end": 368.032
  },
  {
   "w": "Russia",
-  "start": 368.3,
-  "end": 368.62
+  "start": 368.132,
+  "end": 368.452
  },
  {
   "w": "toward",
-  "start": 368.727,
-  "end": 368.94
+  "start": 368.512,
+  "end": 368.792
  },
  {
   "w": "the",
-  "start": 369.02,
-  "end": 369.1
+  "start": 368.832,
+  "end": 368.932
  },
  {
   "w": "same",
-  "start": 369.18,
-  "end": 369.42
+  "start": 369.032,
+  "end": 369.372
  },
  {
   "w": "few",
-  "start": 369.58,
-  "end": 369.74
+  "start": 369.432,
+  "end": 369.612
  },
  {
   "w": "doors.",
-  "start": 369.82,
-  "end": 370.54
+  "start": 369.712,
+  "end": 370.112
  },
  {
   "w": "And",
-  "start": 371.48,
-  "end": 371.64
+  "start": 371.392,
+  "end": 371.472
  },
  {
   "w": "right",
-  "start": 371.72,
-  "end": 371.8
+  "start": 371.532,
+  "end": 371.692
  },
  {
   "w": "now,",
-  "start": 371.88,
-  "end": 372.52
+  "start": 371.752,
+  "end": 372.012
  },
  {
   "w": "those",
-  "start": 372.6,
-  "end": 372.84
+  "start": 372.472,
+  "end": 372.712
  },
  {
   "w": "doors",
-  "start": 372.92,
-  "end": 373.32
+  "start": 372.772,
+  "end": 373.152
  },
  {
   "w": "are",
-  "start": 373.4,
-  "end": 373.48
+  "start": 373.192,
+  "end": 373.312
  },
  {
   "w": "closing",
-  "start": 373.72,
-  "end": 373.96
+  "start": 373.392,
+  "end": 373.812
  },
  {
   "w": "again.",
-  "start": 374.16,
-  "end": 375.12
+  "start": 373.872,
+  "end": 374.212
  },
  {
   "w": "Chapter",
-  "start": 377.68,
-  "end": 378.0
+  "start": 377.572,
+  "end": 377.852
  },
  {
-  "w": "four.",
-  "start": 378.08,
-  "end": 378.96
+  "w": "four:",
+  "start": 377.972,
+  "end": 378.232
  },
  {
   "w": "The",
-  "start": 379.0,
-  "end": 379.04
- },
- {
-  "w": "Doors",
-  "start": 379.12,
-  "end": 379.52
- },
- {
-  "w": "Slam",
-  "start": 379.76,
-  "end": 380.16
- },
- {
-  "w": "Shut.",
-  "start": 380.24,
-  "end": 381.2
- },
- {
-  "w": "In",
-  "start": 383.64,
-  "end": 383.8
- },
- {
-  "w": "2014,",
-  "start": 383.88,
-  "end": 384.92
- },
- {
-  "w": "Russia",
-  "start": 385.0,
-  "end": 385.32
- },
- {
-  "w": "annexed",
-  "start": 385.4,
-  "end": 385.8
- },
- {
-  "w": "Crimea.",
-  "start": 385.88,
-  "end": 386.92
- },
- {
-  "w": "Most",
-  "start": 387.0,
-  "end": 387.16
- },
- {
-  "w": "of",
-  "start": 387.24,
-  "end": 387.32
- },
- {
-  "w": "the",
-  "start": 387.36,
-  "end": 387.4
- },
- {
-  "w": "world",
-  "start": 387.48,
-  "end": 387.8
- },
- {
-  "w": "still",
-  "start": 387.96,
-  "end": 388.12
- },
- {
-  "w": "doesn't",
-  "start": 388.2,
-  "end": 388.44
- },
- {
-  "w": "recognise",
-  "start": 388.6,
-  "end": 388.92
- },
- {
-  "w": "it.",
-  "start": 389.0,
-  "end": 389.48
- },
- {
-  "w": "But",
-  "start": 389.56,
-  "end": 389.64
- },
- {
-  "w": "for",
-  "start": 389.72,
-  "end": 389.8
- },
- {
-  "w": "Moscow,",
-  "start": 389.88,
-  "end": 390.6
- },
- {
-  "w": "one",
-  "start": 390.68,
-  "end": 390.84
- },
- {
-  "w": "big",
-  "start": 391.0,
-  "end": 391.16
- },
- {
-  "w": "reason",
-  "start": 391.24,
-  "end": 391.64
- },
- {
-  "w": "was",
-  "start": 391.72,
-  "end": 391.8
- },
- {
-  "w": "Sevastopol,",
-  "start": 391.88,
-  "end": 392.84
- },
- {
-  "w": "the",
-  "start": 392.92,
-  "end": 393.0
- },
- {
-  "w": "home",
-  "start": 393.12,
-  "end": 393.24
- },
- {
-  "w": "of",
-  "start": 393.32,
-  "end": 393.4
- },
- {
-  "w": "its",
-  "start": 393.52,
-  "end": 393.64
- },
- {
-  "w": "Black",
-  "start": 393.8,
-  "end": 393.96
- },
- {
-  "w": "Sea",
-  "start": 394.04,
-  "end": 394.2
- },
- {
-  "w": "Fleet.",
-  "start": 394.28,
-  "end": 395.32
- },
- {
-  "w": "Then,",
-  "start": 396.1,
-  "end": 396.58
- },
- {
-  "w": "in",
-  "start": 396.66,
-  "end": 396.74
- },
- {
-  "w": "2022,",
-  "start": 396.82,
-  "end": 397.94
- },
- {
-  "w": "Russia",
-  "start": 398.02,
-  "end": 398.34
- },
- {
-  "w": "invaded",
-  "start": 398.42,
-  "end": 398.9
- },
- {
-  "w": "Ukraine.",
-  "start": 398.98,
-  "end": 399.94
- },
- {
-  "w": "And",
-  "start": 399.98,
-  "end": 400.02
- },
- {
-  "w": "the",
-  "start": 400.1,
-  "end": 400.18
- },
- {
-  "w": "old",
-  "start": 400.26,
-  "end": 400.42
- },
- {
-  "w": "geography",
-  "start": 400.5,
-  "end": 401.14
- },
- {
-  "w": "came",
-  "start": 401.22,
-  "end": 401.46
- },
- {
-  "w": "back",
-  "start": 401.58,
-  "end": 401.7
- },
- {
-  "w": "fast.",
-  "start": 401.86,
-  "end": 402.9
- },
- {
-  "w": "Turkey",
-  "start": 403.8,
-  "end": 404.0
- },
- {
-  "w": "used",
-  "start": 404.08,
-  "end": 404.24
- },
- {
-  "w": "a",
-  "start": 404.32,
-  "end": 404.4
- },
- {
-  "w": "treaty",
-  "start": 404.44,
-  "end": 404.8
- },
- {
-  "w": "from",
-  "start": 404.88,
-  "end": 404.96
- },
- {
-  "w": "1936",
-  "start": 405.04,
-  "end": 405.36
- },
- {
-  "w": "that",
-  "start": 405.52,
-  "end": 406.4
- },
- {
-  "w": "lets",
-  "start": 406.48,
-  "end": 406.64
- },
- {
-  "w": "it",
-  "start": 406.72,
-  "end": 406.8
- },
- {
-  "w": "close",
-  "start": 406.88,
-  "end": 407.2
- },
- {
-  "w": "the",
-  "start": 407.24,
-  "end": 407.28
- },
- {
-  "w": "Bosporus",
-  "start": 407.36,
-  "end": 407.92
- },
- {
-  "w": "to",
-  "start": 408.0,
-  "end": 408.08
- },
- {
-  "w": "warships",
-  "start": 408.2,
-  "end": 408.64
- },
- {
-  "w": "of",
-  "start": 408.68,
-  "end": 408.72
- },
- {
-  "w": "countries",
-  "start": 408.8,
-  "end": 409.2
- },
- {
-  "w": "at",
-  "start": 409.24,
-  "end": 409.28
- },
- {
-  "w": "war.",
-  "start": 409.36,
-  "end": 409.92
- },
- {
-  "w": "Russian",
-  "start": 410.16,
-  "end": 410.48
- },
- {
-  "w": "warships",
-  "start": 410.56,
-  "end": 411.04
- },
- {
-  "w": "that",
-  "start": 411.08,
-  "end": 411.12
- },
- {
-  "w": "were",
-  "start": 411.2,
-  "end": 411.36
- },
- {
-  "w": "outside",
-  "start": 411.44,
-  "end": 411.92
- },
- {
-  "w": "the",
-  "start": 412.0,
-  "end": 412.04
- },
- {
-  "w": "Black",
-  "start": 412.08,
-  "end": 412.32
- },
- {
-  "w": "Sea",
-  "start": 412.4,
-  "end": 412.72
- },
- {
-  "w": "could",
-  "start": 412.88,
-  "end": 413.04
- },
- {
-  "w": "no",
-  "start": 413.12,
-  "end": 413.28
- },
- {
-  "w": "longer",
-  "start": 413.36,
-  "end": 413.68
- },
- {
-  "w": "get",
-  "start": 413.76,
-  "end": 413.92
- },
- {
-  "w": "back",
-  "start": 414.04,
-  "end": 414.16
- },
- {
-  "w": "in.",
-  "start": 414.24,
-  "end": 414.96
- },
- {
-  "w": "Inside",
-  "start": 416.14,
-  "end": 416.62
- },
- {
-  "w": "the",
-  "start": 416.66,
-  "end": 416.7
- },
- {
-  "w": "Black",
-  "start": 416.82,
-  "end": 416.94
- },
- {
-  "w": "Sea,",
-  "start": 417.02,
-  "end": 417.58
- },
- {
-  "w": "Ukraine,",
-  "start": 417.66,
-  "end": 418.38
- },
- {
-  "w": "a",
-  "start": 418.42,
-  "end": 418.46
- },
- {
-  "w": "country",
-  "start": 418.54,
-  "end": 418.86
- },
- {
-  "w": "with",
-  "start": 418.98,
-  "end": 419.1
- },
- {
-  "w": "almost",
-  "start": 419.3,
-  "end": 419.5
- },
- {
-  "w": "no",
-  "start": 419.66,
-  "end": 419.82
- },
- {
-  "w": "navy,",
-  "start": 419.9,
-  "end": 420.54
- },
- {
-  "w": "hit",
-  "start": 420.66,
-  "end": 420.78
- },
- {
-  "w": "the",
-  "start": 420.86,
-  "end": 420.94
- },
- {
-  "w": "fleet",
-  "start": 421.06,
-  "end": 421.18
- },
- {
-  "w": "again",
-  "start": 421.26,
-  "end": 421.74
- },
- {
-  "w": "and",
-  "start": 421.82,
-  "end": 421.9
- },
- {
-  "w": "again",
-  "start": 422.14,
-  "end": 422.38
- },
- {
-  "w": "with",
-  "start": 422.46,
-  "end": 422.62
- },
- {
-  "w": "missiles",
-  "start": 422.7,
-  "end": 423.18
- },
- {
-  "w": "and",
-  "start": 423.26,
-  "end": 423.34
- },
- {
-  "w": "sea",
-  "start": 423.42,
-  "end": 423.58
- },
- {
-  "w": "drones.",
-  "start": 423.66,
-  "end": 424.14
- },
- {
-  "w": "Ukraine",
-  "start": 424.62,
-  "end": 425.02
- },
- {
-  "w": "says",
-  "start": 425.1,
-  "end": 425.42
- },
- {
-  "w": "around",
-  "start": 425.5,
-  "end": 425.82
- },
- {
-  "w": "a",
-  "start": 425.9,
-  "end": 425.98
- },
- {
-  "w": "third",
-  "start": 426.06,
-  "end": 426.3
- },
- {
-  "w": "of",
-  "start": 426.34,
-  "end": 426.38
- },
- {
-  "w": "the",
-  "start": 426.46,
-  "end": 426.5
- },
- {
-  "w": "fleet",
-  "start": 426.54,
-  "end": 426.86
- },
- {
-  "w": "has",
-  "start": 426.94,
-  "end": 427.02
- },
- {
-  "w": "been",
-  "start": 427.1,
-  "end": 427.18
- },
- {
-  "w": "sunk",
-  "start": 427.34,
-  "end": 427.58
- },
- {
-  "w": "or",
-  "start": 427.74,
-  "end": 427.82
- },
- {
-  "w": "damaged.",
-  "start": 427.9,
-  "end": 428.46
- },
- {
-  "w": "By",
-  "start": 429.34,
-  "end": 429.42
- },
- {
-  "w": "2023,",
-  "start": 429.5,
-  "end": 430.62
- },
- {
-  "w": "many",
-  "start": 430.7,
-  "end": 430.94
- },
- {
-  "w": "Russian",
-  "start": 431.02,
-  "end": 431.34
- },
- {
-  "w": "ships",
-  "start": 431.42,
-  "end": 431.66
- },
- {
-  "w": "had",
-  "start": 431.74,
-  "end": 431.82
- },
- {
-  "w": "left",
-  "start": 431.9,
-  "end": 432.14
- },
- {
-  "w": "Sevastopol",
-  "start": 432.22,
-  "end": 432.86
- },
- {
-  "w": "and",
-  "start": 432.94,
-  "end": 433.02
- },
- {
-  "w": "moved",
-  "start": 433.1,
-  "end": 433.34
- },
- {
-  "w": "east,",
-  "start": 433.42,
-  "end": 433.9
- },
- {
-  "w": "to",
-  "start": 433.94,
-  "end": 433.98
- },
- {
-  "w": "Novorossiysk.",
-  "start": 434.06,
-  "end": 435.06
- },
- {
-  "w": "And",
-  "start": 435.26,
-  "end": 435.42
- },
- {
-  "w": "Ukraine",
-  "start": 435.5,
-  "end": 435.9
- },
- {
-  "w": "reopened",
-  "start": 436.06,
-  "end": 436.54
- },
- {
-  "w": "its",
-  "start": 436.66,
-  "end": 436.78
- },
- {
-  "w": "own",
-  "start": 436.86,
-  "end": 436.94
- },
- {
-  "w": "shipping",
-  "start": 437.02,
-  "end": 437.34
- },
- {
-  "w": "route",
-  "start": 437.46,
-  "end": 437.58
- },
- {
-  "w": "along",
-  "start": 437.74,
-  "end": 437.9
- },
- {
-  "w": "the",
-  "start": 437.94,
-  "end": 437.98
- },
- {
-  "w": "coast,",
-  "start": 438.06,
-  "end": 438.62
- },
- {
-  "w": "to",
-  "start": 438.66,
-  "end": 438.7
- },
- {
-  "w": "export",
-  "start": 438.78,
-  "end": 439.18
- },
- {
-  "w": "its",
-  "start": 439.26,
-  "end": 439.34
- },
- {
-  "w": "grain.",
-  "start": 439.42,
-  "end": 440.1
- },
- {
-  "w": "The",
-  "start": 441.08,
-  "end": 441.16
- },
- {
-  "w": "warm-",
-  "start": 441.24,
-  "end": 441.6
- },
- {
-  "w": "water",
-  "start": 441.6,
-  "end": 441.8
- },
- {
-  "w": "port",
-  "start": 441.88,
-  "end": 442.2
- },
- {
-  "w": "that",
-  "start": 442.28,
-  "end": 442.36
- },
- {
-  "w": "Russia",
-  "start": 442.44,
-  "end": 442.68
- },
- {
-  "w": "fought",
-  "start": 442.76,
-  "end": 443.08
- },
- {
-  "w": "two",
-  "start": 443.16,
-  "end": 443.32
- },
- {
-  "w": "centuries",
-  "start": 443.48,
-  "end": 443.96
- },
- {
-  "w": "for",
-  "start": 444.04,
-  "end": 444.28
- },
- {
-  "w": "had",
-  "start": 444.52,
-  "end": 444.68
- },
- {
-  "w": "become",
-  "start": 444.76,
-  "end": 445.08
- },
- {
-  "w": "one",
-  "start": 445.16,
-  "end": 445.2
- },
- {
-  "w": "of",
-  "start": 445.24,
-  "end": 445.32
- },
- {
-  "w": "the",
-  "start": 445.36,
-  "end": 445.4
- },
- {
-  "w": "most",
-  "start": 445.48,
-  "end": 445.64
- },
- {
-  "w": "dangerous",
-  "start": 445.8,
-  "end": 446.28
- },
- {
-  "w": "places",
-  "start": 446.36,
-  "end": 446.84
- },
- {
-  "w": "for",
-  "start": 446.92,
-  "end": 447.0
- },
- {
-  "w": "its",
-  "start": 447.12,
-  "end": 447.24
- },
- {
-  "w": "own",
-  "start": 447.32,
-  "end": 447.48
- },
- {
-  "w": "navy.",
-  "start": 447.56,
-  "end": 448.48
- },
- {
-  "w": "Now",
-  "start": 449.7,
-  "end": 449.94
- },
- {
-  "w": "look",
-  "start": 450.02,
-  "end": 450.18
- },
- {
-  "w": "north.",
-  "start": 450.26,
-  "end": 450.94
- },
- {
-  "w": "In",
-  "start": 451.22,
-  "end": 451.3
- },
- {
-  "w": "2023,",
-  "start": 451.38,
-  "end": 452.42
- },
- {
-  "w": "Finland",
-  "start": 452.5,
-  "end": 452.9
- },
- {
-  "w": "joined",
-  "start": 453.06,
-  "end": 453.3
- },
- {
-  "w": "NATO.",
-  "start": 453.38,
-  "end": 453.78
- },
- {
-  "w": "In",
-  "start": 454.18,
-  "end": 454.26
- },
- {
-  "w": "2024,",
-  "start": 454.34,
-  "end": 455.38
- },
- {
-  "w": "Sweden",
-  "start": 455.46,
-  "end": 455.86
- },
- {
-  "w": "followed.",
-  "start": 455.94,
-  "end": 456.58
- },
- {
-  "w": "Today,",
-  "start": 456.82,
-  "end": 457.46
- },
- {
-  "w": "every",
-  "start": 457.62,
-  "end": 457.78
- },
- {
-  "w": "country",
-  "start": 457.86,
-  "end": 458.18
- },
- {
-  "w": "around",
-  "start": 458.26,
-  "end": 458.58
- },
- {
-  "w": "the",
-  "start": 458.66,
-  "end": 458.7
- },
- {
-  "w": "Baltic",
-  "start": 458.74,
-  "end": 459.06
- },
- {
-  "w": "Sea",
-  "start": 459.22,
-  "end": 459.38
- },
- {
-  "w": "is",
-  "start": 459.46,
-  "end": 459.62
- },
- {
-  "w": "in",
-  "start": 459.66,
-  "end": 459.7
- },
- {
-  "w": "NATO,",
-  "start": 459.78,
-  "end": 460.5
- },
- {
-  "w": "except",
-  "start": 460.58,
-  "end": 460.98
- },
- {
-  "w": "one:",
-  "start": 461.14,
-  "end": 461.94
- },
- {
-  "w": "Russia.",
-  "start": 462.02,
-  "end": 462.5
- },
- {
-  "w": "Remember",
-  "start": 463.84,
-  "end": 464.16
- },
- {
-  "w": "the",
-  "start": 464.2,
-  "end": 464.24
- },
- {
-  "w": "neighbor's",
-  "start": 464.4,
-  "end": 464.72
- },
- {
-  "w": "garden?",
-  "start": 464.8,
-  "end": 465.36
- },
- {
-  "w": "It's",
-  "start": 465.6,
-  "end": 465.76
- },
- {
-  "w": "now",
-  "start": 465.84,
-  "end": 466.08
- },
- {
-  "w": "one",
-  "start": 466.24,
-  "end": 466.48
- },
- {
-  "w": "big",
-  "start": 466.64,
-  "end": 466.8
- },
- {
-  "w": "neighborhood,",
-  "start": 466.88,
-  "end": 467.68
- },
- {
-  "w": "and",
-  "start": 467.76,
-  "end": 467.84
- },
- {
-  "w": "Russia",
-  "start": 468.0,
-  "end": 468.32
- },
- {
-  "w": "isn't",
-  "start": 468.56,
-  "end": 468.8
- },
- {
-  "w": "part",
-  "start": 468.88,
-  "end": 469.04
- },
- {
-  "w": "of",
-  "start": 469.08,
-  "end": 469.12
- },
- {
-  "w": "it.",
-  "start": 469.2,
-  "end": 469.72
- },
- {
-  "w": "Yet",
-  "start": 470.86,
-  "end": 471.1
- },
- {
-  "w": "that",
-  "start": 471.22,
-  "end": 471.34
- },
- {
-  "w": "narrow",
-  "start": 471.42,
-  "end": 471.74
- },
- {
-  "w": "sea",
-  "start": 471.9,
-  "end": 472.22
- },
- {
-  "w": "is",
-  "start": 472.3,
-  "end": 472.46
- },
- {
-  "w": "still",
-  "start": 472.62,
-  "end": 472.78
- },
- {
-  "w": "vital",
-  "start": 472.94,
-  "end": 473.26
- },
- {
-  "w": "for",
-  "start": 473.34,
-  "end": 473.42
- },
- {
-  "w": "Russia.",
-  "start": 473.5,
-  "end": 473.9
- },
- {
-  "w": "Through",
-  "start": 474.38,
-  "end": 474.62
- },
- {
-  "w": "it",
-  "start": 474.7,
-  "end": 474.78
- },
- {
-  "w": "sails",
-  "start": 474.94,
-  "end": 475.26
- },
- {
-  "w": "a",
-  "start": 475.34,
-  "end": 475.42
- },
- {
-  "w": "so-",
-  "start": 475.5,
-  "end": 475.626
- },
- {
-  "w": "called",
-  "start": 475.626,
-  "end": 475.9
- },
- {
-  "w": "shadow",
-  "start": 476.14,
-  "end": 476.46
- },
- {
-  "w": "fleet:",
-  "start": 476.54,
-  "end": 477.26
- },
- {
-  "w": "old",
-  "start": 477.34,
-  "end": 477.58
- },
- {
-  "w": "tankers",
-  "start": 477.66,
-  "end": 478.14
- },
- {
-  "w": "with",
-  "start": 478.22,
-  "end": 478.3
- },
- {
-  "w": "unclear",
-  "start": 478.38,
-  "end": 478.86
- },
- {
-  "w": "owners,",
-  "start": 478.94,
-  "end": 479.58
- },
- {
-  "w": "carrying",
-  "start": 479.7,
-  "end": 480.06
- },
- {
-  "w": "Russian",
-  "start": 480.14,
-  "end": 480.46
- },
- {
-  "w": "oil",
-  "start": 480.54,
-  "end": 480.78
- },
- {
-  "w": "past",
-  "start": 480.94,
-  "end": 481.26
- },
- {
-  "w": "sanctions,",
-  "start": 481.34,
-  "end": 482.14
- },
- {
-  "w": "right",
-  "start": 482.22,
-  "end": 482.46
- },
- {
-  "w": "through",
-  "start": 482.54,
-  "end": 482.78
- },
- {
-  "w": "the",
-  "start": 482.86,
-  "end": 482.94
- },
- {
-  "w": "Danish",
-  "start": 483.02,
-  "end": 483.26
- },
- {
-  "w": "straits.",
-  "start": 483.34,
-  "end": 483.9
- },
- {
-  "w": "And",
-  "start": 484.38,
-  "end": 484.54
- },
- {
-  "w": "European",
-  "start": 484.62,
-  "end": 485.02
- },
- {
-  "w": "countries",
-  "start": 485.1,
-  "end": 485.58
- },
- {
-  "w": "have",
-  "start": 485.66,
-  "end": 485.74
- },
- {
-  "w": "started",
-  "start": 485.82,
-  "end": 486.14
- },
- {
-  "w": "stopping",
-  "start": 486.3,
-  "end": 486.62
- },
- {
-  "w": "them.",
-  "start": 486.7,
-  "end": 486.94
- },
- {
-  "w": "In",
-  "start": 487.5,
-  "end": 487.58
- },
- {
-  "w": "February",
-  "start": 487.66,
-  "end": 488.14
- },
- {
-  "w": "2026,",
-  "start": 488.22,
-  "end": 489.42
- },
- {
-  "w": "Belgian",
-  "start": 489.5,
-  "end": 489.82
- },
- {
-  "w": "special",
-  "start": 489.9,
-  "end": 490.3
- },
- {
-  "w": "forces",
-  "start": 490.38,
-  "end": 490.78
- },
- {
-  "w": "boarded",
-  "start": 490.86,
-  "end": 491.18
- },
- {
-  "w": "one",
-  "start": 491.26,
-  "end": 491.34
- },
- {
-  "w": "of",
-  "start": 491.38,
-  "end": 491.42
- },
- {
-  "w": "those",
-  "start": 491.5,
-  "end": 491.66
- },
- {
-  "w": "tankers",
-  "start": 491.74,
-  "end": 492.14
- },
- {
-  "w": "in",
-  "start": 492.18,
-  "end": 492.22
- },
- {
-  "w": "the",
-  "start": 492.26,
-  "end": 492.3
- },
- {
-  "w": "North",
-  "start": 492.38,
-  "end": 492.62
- },
- {
-  "w": "Sea",
-  "start": 492.7,
-  "end": 492.94
- },
- {
-  "w": "and",
-  "start": 493.18,
-  "end": 493.26
- },
- {
-  "w": "escorted",
-  "start": 493.34,
-  "end": 493.82
- },
- {
-  "w": "it",
-  "start": 493.86,
-  "end": 493.9
- },
- {
-  "w": "into",
-  "start": 494.06,
-  "end": 494.22
- },
- {
-  "w": "port.",
-  "start": 494.3,
-  "end": 494.7
- },
- {
-  "w": "So",
-  "start": 496.36,
-  "end": 496.52
- },
- {
-  "w": "if",
-  "start": 496.68,
-  "end": 496.76
- },
- {
-  "w": "the",
-  "start": 496.84,
-  "end": 496.92
- },
- {
-  "w": "old",
-  "start": 497.0,
-  "end": 497.16
+  "start": 378.852,
+  "end": 378.952
  },
  {
   "w": "doors",
-  "start": 497.24,
-  "end": 497.48
+  "start": 379.012,
+  "end": 379.372
  },
  {
-  "w": "are",
-  "start": 497.56,
-  "end": 497.64
+  "w": "slam",
+  "start": 379.652,
+  "end": 379.992
  },
  {
-  "w": "closing,",
-  "start": 497.92,
-  "end": 498.6
- },
- {
-  "w": "where",
-  "start": 498.68,
-  "end": 498.84
- },
- {
-  "w": "else",
-  "start": 498.92,
-  "end": 499.16
- },
- {
-  "w": "can",
-  "start": 499.24,
-  "end": 499.32
- },
- {
-  "w": "Russia",
-  "start": 499.4,
-  "end": 499.64
- },
- {
-  "w": "go?",
-  "start": 499.72,
-  "end": 500.12
- },
- {
-  "w": "Chapter",
-  "start": 503.04,
-  "end": 503.36
- },
- {
-  "w": "five.",
-  "start": 503.44,
-  "end": 504.2
- },
- {
-  "w": "Looking",
-  "start": 504.48,
-  "end": 504.8
- },
- {
-  "w": "for",
-  "start": 504.88,
-  "end": 504.96
- },
- {
-  "w": "New",
-  "start": 505.12,
-  "end": 505.28
- },
- {
-  "w": "Doors.",
-  "start": 505.36,
-  "end": 505.84
- },
- {
-  "w": "Russia's",
-  "start": 508.92,
-  "end": 509.4
- },
- {
-  "w": "only",
-  "start": 509.56,
-  "end": 509.72
- },
- {
-  "w": "naval",
-  "start": 509.8,
-  "end": 510.04
- },
- {
-  "w": "base",
-  "start": 510.12,
-  "end": 510.36
- },
- {
-  "w": "in",
-  "start": 510.4,
-  "end": 510.44
- },
- {
-  "w": "the",
-  "start": 510.48,
-  "end": 510.52
- },
- {
-  "w": "Mediterranean",
-  "start": 510.6,
-  "end": 511.32
- },
- {
-  "w": "is",
-  "start": 511.48,
-  "end": 511.56
- },
- {
-  "w": "in",
-  "start": 511.6,
-  "end": 511.64
- },
- {
-  "w": "Tartus,",
-  "start": 511.8,
-  "end": 512.44
- },
- {
-  "w": "in",
-  "start": 512.48,
-  "end": 512.52
- },
- {
-  "w": "Syria.",
-  "start": 512.68,
-  "end": 513.32
- },
- {
-  "w": "When",
-  "start": 513.56,
-  "end": 513.64
- },
- {
-  "w": "the",
-  "start": 513.72,
-  "end": 513.8
- },
- {
-  "w": "Syrian",
-  "start": 513.88,
-  "end": 514.2
- },
- {
-  "w": "president",
-  "start": 514.28,
-  "end": 514.68
- },
- {
-  "w": "Bashar",
-  "start": 514.76,
-  "end": 515.16
- },
- {
-  "w": "al-",
-  "start": 515.24,
-  "end": 515.4
- },
- {
-  "w": "Assad",
-  "start": 515.4,
-  "end": 515.8
- },
- {
-  "w": "fell",
-  "start": 515.96,
-  "end": 516.2
- },
- {
-  "w": "in",
-  "start": 516.28,
-  "end": 516.32
- },
- {
-  "w": "December",
-  "start": 516.36,
-  "end": 516.76
- },
- {
-  "w": "2024,",
-  "start": 516.92,
-  "end": 518.04
- },
- {
-  "w": "its",
-  "start": 518.12,
-  "end": 518.28
- },
- {
-  "w": "future",
-  "start": 518.36,
-  "end": 518.76
- },
- {
-  "w": "was",
-  "start": 518.84,
-  "end": 519.0
- },
- {
-  "w": "suddenly",
-  "start": 519.08,
-  "end": 519.48
- },
- {
-  "w": "in",
-  "start": 519.56,
-  "end": 519.64
- },
- {
-  "w": "doubt.",
-  "start": 519.72,
-  "end": 520.32
- },
- {
-  "w": "Russian",
-  "start": 520.6,
-  "end": 520.92
- },
- {
-  "w": "ships",
-  "start": 521.0,
-  "end": 521.4
- },
- {
-  "w": "left.",
-  "start": 521.48,
-  "end": 522.2
+  "w": "shut.",
+  "start": 380.132,
+  "end": 380.412
  },
  {
   "w": "In",
-  "start": 522.52,
-  "end": 522.6
+  "start": 383.572,
+  "end": 383.652
  },
  {
-  "w": "2026,",
-  "start": 522.68,
-  "end": 523.8
+  "w": "twenty",
+  "start": 383.712,
+  "end": 383.892
+ },
+ {
+  "w": "fourteen,",
+  "start": 384.012,
+  "end": 384.532
  },
  {
   "w": "Russia",
-  "start": 523.88,
-  "end": 524.2
+  "start": 384.852,
+  "end": 385.212
  },
  {
-  "w": "and",
-  "start": 524.24,
-  "end": 524.28
+  "w": "annexed",
+  "start": 385.312,
+  "end": 385.652
  },
  {
-  "w": "Syria",
-  "start": 524.44,
-  "end": 524.76
+  "w": "Crimea.",
+  "start": 385.732,
+  "end": 386.212
  },
  {
-  "w": "signed",
-  "start": 524.84,
-  "end": 525.16
- },
- {
-  "w": "a",
-  "start": 525.24,
-  "end": 525.32
- },
- {
-  "w": "new",
-  "start": 525.4,
-  "end": 525.56
- },
- {
-  "w": "deal:",
-  "start": 525.68,
-  "end": 526.28
- },
- {
-  "w": "the",
-  "start": 526.36,
-  "end": 526.44
- },
- {
-  "w": "base",
-  "start": 526.6,
-  "end": 526.76
- },
- {
-  "w": "becomes",
-  "start": 526.84,
-  "end": 527.24
- },
- {
-  "w": "a",
-  "start": 527.32,
-  "end": 527.4
- },
- {
-  "w": "joint",
-  "start": 527.48,
-  "end": 527.72
- },
- {
-  "w": "training",
-  "start": 527.8,
-  "end": 528.12
- },
- {
-  "w": "centre,",
-  "start": 528.2,
-  "end": 528.76
- },
- {
-  "w": "and",
-  "start": 528.84,
-  "end": 528.92
- },
- {
-  "w": "Syria",
-  "start": 529.0,
-  "end": 529.4
- },
- {
-  "w": "takes",
-  "start": 529.48,
-  "end": 529.72
- },
- {
-  "w": "over",
-  "start": 529.8,
-  "end": 529.96
- },
- {
-  "w": "part",
-  "start": 530.04,
-  "end": 530.2
+  "w": "Most",
+  "start": 386.832,
+  "end": 387.052
  },
  {
   "w": "of",
-  "start": 530.28,
-  "end": 530.32
+  "start": 387.112,
+  "end": 387.152
  },
  {
   "w": "the",
-  "start": 530.36,
-  "end": 530.44
+  "start": 387.192,
+  "end": 387.272
  },
  {
-  "w": "port.",
-  "start": 530.52,
-  "end": 530.84
- },
- {
-  "w": "A",
-  "start": 532.02,
-  "end": 532.06
- },
- {
-  "w": "door",
-  "start": 532.1,
-  "end": 532.42
- },
- {
-  "w": "that's",
-  "start": 532.5,
-  "end": 532.74
+  "w": "world",
+  "start": 387.312,
+  "end": 387.572
  },
  {
   "w": "still",
-  "start": 532.9,
-  "end": 533.06
+  "start": 387.732,
+  "end": 387.972
  },
  {
-  "w": "there.",
-  "start": 533.14,
-  "end": 533.66
+  "w": "doesn't",
+  "start": 388.012,
+  "end": 388.252
  },
  {
-  "w": "Just",
-  "start": 533.86,
-  "end": 534.18
+  "w": "recognize",
+  "start": 388.312,
+  "end": 388.792
  },
  {
-  "w": "no",
-  "start": 534.34,
-  "end": 534.5
- },
- {
-  "w": "longer",
-  "start": 534.58,
-  "end": 534.82
- },
- {
-  "w": "fully",
-  "start": 535.06,
-  "end": 535.3
- },
- {
-  "w": "Russia's.",
-  "start": 535.38,
-  "end": 536.38
- },
- {
-  "w": "And",
-  "start": 537.6,
-  "end": 537.68
- },
- {
-  "w": "then",
-  "start": 537.76,
-  "end": 538.08
- },
- {
-  "w": "there's",
-  "start": 538.32,
-  "end": 538.48
- },
- {
-  "w": "the",
-  "start": 538.56,
-  "end": 538.64
- },
- {
-  "w": "north.",
-  "start": 538.72,
-  "end": 539.4
- },
- {
-  "w": "As",
-  "start": 539.68,
-  "end": 539.84
- },
- {
-  "w": "the",
-  "start": 539.88,
-  "end": 539.92
- },
- {
-  "w": "Arctic",
-  "start": 540.0,
-  "end": 540.32
- },
- {
-  "w": "warms,",
-  "start": 540.4,
-  "end": 541.04
- },
- {
-  "w": "the",
-  "start": 541.12,
-  "end": 541.2
- },
- {
-  "w": "ice",
-  "start": 541.32,
-  "end": 541.44
- },
- {
-  "w": "along",
-  "start": 541.52,
-  "end": 541.76
- },
- {
-  "w": "Russia's",
-  "start": 541.84,
-  "end": 542.24
- },
- {
-  "w": "northern",
-  "start": 542.32,
-  "end": 542.56
- },
- {
-  "w": "coast",
-  "start": 542.64,
-  "end": 543.04
- },
- {
-  "w": "is",
-  "start": 543.12,
-  "end": 543.2
- },
- {
-  "w": "melting.",
-  "start": 543.36,
-  "end": 544.0
- },
- {
-  "w": "Russia",
-  "start": 544.24,
-  "end": 544.56
- },
- {
-  "w": "calls",
-  "start": 544.64,
-  "end": 544.88
- },
- {
-  "w": "the",
-  "start": 544.92,
-  "end": 544.96
- },
- {
-  "w": "route",
-  "start": 545.04,
-  "end": 545.28
- },
- {
-  "w": "the",
-  "start": 545.44,
-  "end": 545.52
- },
- {
-  "w": "Northern",
-  "start": 545.6,
-  "end": 546.0
- },
- {
-  "w": "Sea",
-  "start": 546.16,
-  "end": 546.32
- },
- {
-  "w": "Route,",
-  "start": 546.4,
-  "end": 546.88
- },
- {
-  "w": "and",
-  "start": 546.96,
-  "end": 547.04
- },
- {
-  "w": "it's",
-  "start": 547.12,
-  "end": 547.28
- },
- {
-  "w": "betting",
-  "start": 547.36,
-  "end": 547.6
- },
- {
-  "w": "big",
-  "start": 547.76,
-  "end": 547.92
- },
- {
-  "w": "on",
-  "start": 548.0,
-  "end": 548.08
- },
- {
-  "w": "it,",
-  "start": 548.16,
-  "end": 548.48
- },
- {
-  "w": "with",
-  "start": 548.56,
-  "end": 548.64
- },
- {
-  "w": "a",
-  "start": 548.72,
-  "end": 548.8
- },
- {
-  "w": "fleet",
-  "start": 548.96,
-  "end": 549.12
- },
- {
-  "w": "of",
-  "start": 549.2,
-  "end": 549.28
- },
- {
-  "w": "nuclear-",
-  "start": 549.36,
-  "end": 549.81
- },
- {
-  "w": "powered",
-  "start": 549.81,
-  "end": 550.16
- },
- {
-  "w": "icebreakers.",
-  "start": 550.32,
-  "end": 551.2
- },
- {
-  "w": "In",
-  "start": 551.98,
-  "end": 552.14
- },
- {
-  "w": "2025,",
-  "start": 552.22,
-  "end": 553.42
- },
- {
-  "w": "a",
-  "start": 553.46,
-  "end": 553.5
- },
- {
-  "w": "record",
-  "start": 553.58,
-  "end": 553.9
- },
- {
-  "w": "one",
-  "start": 554.06,
-  "end": 554.22
- },
- {
-  "w": "hundred",
-  "start": 554.3,
-  "end": 554.54
- },
- {
-  "w": "and",
-  "start": 554.62,
-  "end": 554.78
- },
- {
-  "w": "three",
-  "start": 554.86,
-  "end": 555.02
- },
- {
-  "w": "ships",
-  "start": 555.18,
-  "end": 555.58
- },
- {
-  "w": "sailed",
-  "start": 555.74,
-  "end": 555.98
- },
- {
-  "w": "the",
-  "start": 556.02,
-  "end": 556.06
- },
- {
-  "w": "full",
-  "start": 556.22,
-  "end": 556.38
- },
- {
-  "w": "route.",
-  "start": 556.46,
-  "end": 557.02
- },
- {
-  "w": "That",
-  "start": 557.26,
-  "end": 557.42
- },
- {
-  "w": "sounds",
-  "start": 557.5,
-  "end": 557.74
- },
- {
-  "w": "like",
-  "start": 557.82,
-  "end": 557.9
- },
- {
-  "w": "a",
-  "start": 557.94,
-  "end": 557.98
- },
- {
-  "w": "lot.",
-  "start": 558.06,
-  "end": 558.58
+  "w": "it.",
+  "start": 388.832,
+  "end": 388.932
  },
  {
   "w": "But",
-  "start": 558.78,
-  "end": 559.02
+  "start": 389.412,
+  "end": 389.512
  },
  {
-  "w": "it's",
-  "start": 559.1,
-  "end": 559.26
+  "w": "for",
+  "start": 389.552,
+  "end": 389.652
  },
  {
-  "w": "about",
-  "start": 559.42,
-  "end": 559.58
+  "w": "Moscow,",
+  "start": 389.712,
+  "end": 390.152
  },
  {
-  "w": "as",
-  "start": 559.66,
-  "end": 559.74
+  "w": "one",
+  "start": 390.572,
+  "end": 390.812
  },
  {
-  "w": "many",
-  "start": 559.82,
-  "end": 559.98
+  "w": "big",
+  "start": 390.852,
+  "end": 391.032
  },
  {
-  "w": "as",
-  "start": 560.06,
-  "end": 560.14
+  "w": "reason",
+  "start": 391.132,
+  "end": 391.492
  },
  {
-  "w": "pass",
-  "start": 560.22,
-  "end": 560.46
+  "w": "was",
+  "start": 391.552,
+  "end": 391.672
+ },
+ {
+  "w": "Sevastopol,",
+  "start": 391.712,
+  "end": 392.372
  },
  {
   "w": "the",
-  "start": 560.54,
-  "end": 560.62
+  "start": 392.712,
+  "end": 392.792
  },
  {
-  "w": "southern",
-  "start": 560.7,
-  "end": 560.94
- },
- {
-  "w": "tip",
-  "start": 561.02,
-  "end": 561.18
+  "w": "home",
+  "start": 392.872,
+  "end": 393.152
  },
  {
   "w": "of",
-  "start": 561.22,
-  "end": 561.26
+  "start": 393.212,
+  "end": 393.272
  },
  {
-  "w": "Africa",
-  "start": 561.42,
-  "end": 561.9
+  "w": "its",
+  "start": 393.312,
+  "end": 393.472
+ },
+ {
+  "w": "Black",
+  "start": 393.532,
+  "end": 393.792
+ },
+ {
+  "w": "Sea",
+  "start": 393.912,
+  "end": 394.032
+ },
+ {
+  "w": "Fleet.",
+  "start": 394.172,
+  "end": 394.452
+ },
+ {
+  "w": "Then",
+  "start": 395.992,
+  "end": 396.412
  },
  {
   "w": "in",
-  "start": 561.98,
-  "end": 562.06
+  "start": 396.492,
+  "end": 396.592
  },
  {
-  "w": "a",
-  "start": 562.1,
-  "end": 562.14
+  "w": "twenty",
+  "start": 396.652,
+  "end": 396.832
  },
  {
-  "w": "day",
-  "start": 562.3,
-  "end": 562.38
+  "w": "twenty-two,",
+  "start": 396.932,
+  "end": 397.472
+ },
+ {
+  "w": "Russia",
+  "start": 397.872,
+  "end": 398.232
+ },
+ {
+  "w": "invaded",
+  "start": 398.292,
+  "end": 398.732
+ },
+ {
+  "w": "Ukraine,",
+  "start": 398.812,
+  "end": 399.292
  },
  {
   "w": "and",
-  "start": 562.46,
-  "end": 562.54
- },
- {
-  "w": "a",
-  "start": 562.58,
-  "end": 562.62
- },
- {
-  "w": "half.",
-  "start": 562.7,
-  "end": 563.42
- },
- {
-  "w": "The",
-  "start": 564.44,
-  "end": 564.52
- },
- {
-  "w": "frozen",
-  "start": 564.6,
-  "end": 565.0
- },
- {
-  "w": "door",
-  "start": 565.16,
-  "end": 565.48
- },
- {
-  "w": "is",
-  "start": 565.56,
-  "end": 565.64
- },
- {
-  "w": "opening.",
-  "start": 565.8,
-  "end": 566.28
- },
- {
-  "w": "Slowly.",
-  "start": 566.84,
-  "end": 567.68
- },
- {
-  "w": "So",
-  "start": 568.66,
-  "end": 568.82
+  "start": 399.812,
+  "end": 399.872
  },
  {
   "w": "the",
-  "start": 568.9,
-  "end": 569.06
+  "start": 399.912,
+  "end": 400.032
  },
  {
-  "w": "biggest",
-  "start": 569.14,
-  "end": 569.46
+  "w": "old",
+  "start": 400.112,
+  "end": 400.292
  },
  {
-  "w": "house",
-  "start": 569.58,
-  "end": 569.7
+  "w": "geography",
+  "start": 400.352,
+  "end": 400.992
  },
  {
-  "w": "on",
-  "start": 569.74,
-  "end": 569.78
+  "w": "came",
+  "start": 401.072,
+  "end": 401.292
  },
  {
-  "w": "the",
-  "start": 569.86,
-  "end": 569.94
+  "w": "back",
+  "start": 401.352,
+  "end": 401.552
  },
  {
-  "w": "street",
-  "start": 570.02,
-  "end": 570.34
+  "w": "fast.",
+  "start": 401.752,
+  "end": 402.172
  },
  {
-  "w": "is",
-  "start": 570.5,
-  "end": 570.66
+  "w": "Turkey",
+  "start": 403.512,
+  "end": 403.872
  },
  {
-  "w": "still",
-  "start": 570.78,
-  "end": 570.9
- },
- {
-  "w": "looking",
-  "start": 570.98,
-  "end": 571.22
- },
- {
-  "w": "for",
-  "start": 571.3,
-  "end": 571.38
+  "w": "used",
+  "start": 403.952,
+  "end": 404.112
  },
  {
   "w": "a",
-  "start": 571.46,
-  "end": 571.54
+  "start": 404.152,
+  "end": 404.212
  },
  {
-  "w": "door",
-  "start": 571.62,
-  "end": 571.94
+  "w": "treaty",
+  "start": 404.292,
+  "end": 404.612
+ },
+ {
+  "w": "from",
+  "start": 404.672,
+  "end": 404.812
+ },
+ {
+  "w": "nineteen",
+  "start": 404.872,
+  "end": 405.252
+ },
+ {
+  "w": "thirty-six",
+  "start": 405.352,
+  "end": 406.132
+ },
+ {
+  "w": "that",
+  "start": 406.192,
+  "end": 406.292
+ },
+ {
+  "w": "lets",
+  "start": 406.332,
+  "end": 406.492
  },
  {
   "w": "it",
-  "start": 572.02,
-  "end": 572.18
+  "start": 406.532,
+  "end": 406.632
  },
  {
-  "w": "alone",
-  "start": 572.26,
-  "end": 572.74
- },
- {
-  "w": "controls.",
-  "start": 572.82,
-  "end": 573.54
- },
- {
-  "w": "Three",
-  "start": 574.72,
-  "end": 574.96
- },
- {
-  "w": "hundred",
-  "start": 575.04,
-  "end": 575.36
- },
- {
-  "w": "years",
-  "start": 575.52,
-  "end": 575.84
- },
- {
-  "w": "after",
-  "start": 575.92,
-  "end": 576.16
- },
- {
-  "w": "Peter",
-  "start": 576.24,
-  "end": 576.48
+  "w": "close",
+  "start": 406.712,
+  "end": 407.032
  },
  {
   "w": "the",
-  "start": 576.52,
-  "end": 576.56
+  "start": 407.072,
+  "end": 407.152
  },
  {
-  "w": "Great",
-  "start": 576.64,
-  "end": 576.96
- },
- {
-  "w": "captured",
-  "start": 577.08,
-  "end": 577.36
- },
- {
-  "w": "his",
-  "start": 577.48,
-  "end": 577.6
- },
- {
-  "w": "first",
-  "start": 577.68,
-  "end": 577.92
- },
- {
-  "w": "little",
-  "start": 578.0,
-  "end": 578.16
- },
- {
-  "w": "fortress",
-  "start": 578.24,
-  "end": 578.72
- },
- {
-  "w": "on",
-  "start": 578.76,
-  "end": 578.8
- },
- {
-  "w": "the",
-  "start": 578.88,
-  "end": 578.92
- },
- {
-  "w": "way",
-  "start": 578.96,
-  "end": 579.12
+  "w": "Bosporus",
+  "start": 407.192,
+  "end": 407.772
  },
  {
   "w": "to",
-  "start": 579.2,
-  "end": 579.28
+  "start": 407.832,
+  "end": 407.932
+ },
+ {
+  "w": "warships",
+  "start": 407.972,
+  "end": 408.452
+ },
+ {
+  "w": "of",
+  "start": 408.512,
+  "end": 408.592
+ },
+ {
+  "w": "countries",
+  "start": 408.652,
+  "end": 409.012
+ },
+ {
+  "w": "at",
+  "start": 409.052,
+  "end": 409.152
+ },
+ {
+  "w": "war.",
+  "start": 409.232,
+  "end": 409.512
+ },
+ {
+  "w": "Russian",
+  "start": 410.072,
+  "end": 410.372
+ },
+ {
+  "w": "warships",
+  "start": 410.432,
+  "end": 410.892
+ },
+ {
+  "w": "that",
+  "start": 410.932,
+  "end": 411.032
+ },
+ {
+  "w": "were",
+  "start": 411.052,
+  "end": 411.192
+ },
+ {
+  "w": "outside",
+  "start": 411.292,
+  "end": 411.792
  },
  {
   "w": "the",
-  "start": 579.32,
-  "end": 579.36
+  "start": 411.832,
+  "end": 411.912
  },
  {
-  "w": "sea,",
-  "start": 579.44,
-  "end": 580.08
+  "w": "Black",
+  "start": 411.952,
+  "end": 412.172
+ },
+ {
+  "w": "Sea",
+  "start": 412.292,
+  "end": 412.692
+ },
+ {
+  "w": "could",
+  "start": 412.752,
+  "end": 412.932
+ },
+ {
+  "w": "no",
+  "start": 412.992,
+  "end": 413.152
+ },
+ {
+  "w": "longer",
+  "start": 413.212,
+  "end": 413.572
+ },
+ {
+  "w": "get",
+  "start": 413.612,
+  "end": 413.772
+ },
+ {
+  "w": "back",
+  "start": 413.832,
+  "end": 414.032
+ },
+ {
+  "w": "in.",
+  "start": 414.132,
+  "end": 414.312
+ },
+ {
+  "w": "Inside",
+  "start": 416.052,
+  "end": 416.452
  },
  {
   "w": "the",
-  "start": 580.16,
-  "end": 580.24
+  "start": 416.492,
+  "end": 416.552
  },
  {
-  "w": "map",
-  "start": 580.32,
-  "end": 580.56
+  "w": "Black",
+  "start": 416.592,
+  "end": 416.812
  },
  {
-  "w": "is",
-  "start": 580.64,
-  "end": 580.88
+  "w": "Sea,",
+  "start": 416.912,
+  "end": 417.092
  },
  {
-  "w": "still",
-  "start": 581.04,
-  "end": 581.2
+  "w": "Ukraine,",
+  "start": 417.512,
+  "end": 417.992
  },
  {
-  "w": "shaping",
-  "start": 581.36,
-  "end": 581.68
+  "w": "a",
+  "start": 418.272,
+  "end": 418.332
  },
  {
-  "w": "Russia's",
-  "start": 581.76,
-  "end": 582.16
+  "w": "country",
+  "start": 418.392,
+  "end": 418.732
  },
  {
-  "w": "choices.",
-  "start": 582.4,
-  "end": 582.72
+  "w": "with",
+  "start": 418.772,
+  "end": 418.932
  },
  {
-  "w": "If",
-  "start": 584.14,
-  "end": 584.22
+  "w": "almost",
+  "start": 419.012,
+  "end": 419.352
  },
  {
-  "w": "you",
-  "start": 584.26,
-  "end": 584.3
+  "w": "no",
+  "start": 419.512,
+  "end": 419.652
  },
  {
-  "w": "enjoyed",
-  "start": 584.38,
-  "end": 584.78
+  "w": "navy,",
+  "start": 419.772,
+  "end": 420.092
  },
  {
-  "w": "this,",
-  "start": 584.9,
-  "end": 585.26
+  "w": "hit",
+  "start": 420.452,
+  "end": 420.592
  },
  {
-  "w": "like",
-  "start": 585.34,
-  "end": 585.58
+  "w": "the",
+  "start": 420.652,
+  "end": 420.752
+ },
+ {
+  "w": "fleet",
+  "start": 420.812,
+  "end": 421.072
+ },
+ {
+  "w": "again",
+  "start": 421.152,
+  "end": 421.612
  },
  {
   "w": "and",
-  "start": 585.66,
-  "end": 585.74
+  "start": 421.672,
+  "end": 421.752
  },
  {
-  "w": "subscribe",
-  "start": 585.82,
-  "end": 586.38
+  "w": "again",
+  "start": 421.832,
+  "end": 422.292
+ },
+ {
+  "w": "with",
+  "start": 422.352,
+  "end": 422.512
+ },
+ {
+  "w": "missiles",
+  "start": 422.592,
+  "end": 423.052
+ },
+ {
+  "w": "and",
+  "start": 423.092,
+  "end": 423.232
+ },
+ {
+  "w": "sea",
+  "start": 423.312,
+  "end": 423.472
+ },
+ {
+  "w": "drones.",
+  "start": 423.532,
+  "end": 423.952
+ },
+ {
+  "w": "Ukraine",
+  "start": 424.512,
+  "end": 424.912
+ },
+ {
+  "w": "says",
+  "start": 424.972,
+  "end": 425.292
+ },
+ {
+  "w": "around",
+  "start": 425.392,
+  "end": 425.652
+ },
+ {
+  "w": "a",
+  "start": 425.692,
+  "end": 425.832
+ },
+ {
+  "w": "third",
+  "start": 425.892,
+  "end": 426.132
+ },
+ {
+  "w": "of",
+  "start": 426.172,
+  "end": 426.252
+ },
+ {
+  "w": "the",
+  "start": 426.292,
+  "end": 426.372
+ },
+ {
+  "w": "fleet",
+  "start": 426.432,
+  "end": 426.692
+ },
+ {
+  "w": "has",
+  "start": 426.732,
+  "end": 426.852
+ },
+ {
+  "w": "been",
+  "start": 426.892,
+  "end": 427.072
+ },
+ {
+  "w": "sunk",
+  "start": 427.172,
+  "end": 427.532
+ },
+ {
+  "w": "or",
+  "start": 427.592,
+  "end": 427.712
+ },
+ {
+  "w": "damaged.",
+  "start": 427.772,
+  "end": 428.252
+ },
+ {
+  "w": "By",
+  "start": 429.171,
+  "end": 429.292
+ },
+ {
+  "w": "twenty",
+  "start": 429.352,
+  "end": 429.552
+ },
+ {
+  "w": "twenty-three,",
+  "start": 429.632,
+  "end": 430.212
+ },
+ {
+  "w": "many",
+  "start": 430.552,
+  "end": 430.812
+ },
+ {
+  "w": "Russian",
+  "start": 430.852,
+  "end": 431.192
+ },
+ {
+  "w": "ships",
+  "start": 431.252,
+  "end": 431.532
+ },
+ {
+  "w": "had",
+  "start": 431.552,
+  "end": 431.712
+ },
+ {
+  "w": "left",
+  "start": 431.772,
+  "end": 431.992
+ },
+ {
+  "w": "Sevastopol",
+  "start": 432.032,
+  "end": 432.732
+ },
+ {
+  "w": "and",
+  "start": 432.792,
+  "end": 432.892
+ },
+ {
+  "w": "moved",
+  "start": 432.932,
+  "end": 433.212
+ },
+ {
+  "w": "east",
+  "start": 433.292,
+  "end": 433.732
  },
  {
   "w": "to",
-  "start": 586.46,
-  "end": 586.54
+  "start": 433.812,
+  "end": 433.872
  },
  {
-  "w": "Nexus",
-  "start": 586.58,
-  "end": 586.94
+  "w": "Novorossiysk,",
+  "start": 433.932,
+  "end": 434.672
  },
  {
-  "w": "Docs.",
-  "start": 587.02,
-  "end": 587.42
+  "w": "and",
+  "start": 435.152,
+  "end": 435.232
  },
  {
-  "w": "And",
-  "start": 587.74,
-  "end": 587.82
+  "w": "Ukraine",
+  "start": 435.332,
+  "end": 435.832
  },
  {
-  "w": "check",
-  "start": 587.9,
-  "end": 588.06
+  "w": "reopened",
+  "start": 435.912,
+  "end": 436.372
  },
  {
-  "w": "out",
-  "start": 588.14,
-  "end": 588.22
+  "w": "its",
+  "start": 436.412,
+  "end": 436.572
  },
  {
-  "w": "our",
-  "start": 588.3,
-  "end": 588.38
+  "w": "own",
+  "start": 436.652,
+  "end": 436.852
  },
  {
-  "w": "other",
-  "start": 588.46,
-  "end": 588.54
+  "w": "shipping",
+  "start": 436.892,
+  "end": 437.192
  },
  {
-  "w": "videos",
-  "start": 588.62,
-  "end": 589.02
+  "w": "route",
+  "start": 437.232,
+  "end": 437.432
+ },
+ {
+  "w": "along",
+  "start": 437.512,
+  "end": 437.732
+ },
+ {
+  "w": "the",
+  "start": 437.772,
+  "end": 437.852
+ },
+ {
+  "w": "coast",
+  "start": 437.912,
+  "end": 438.412
+ },
+ {
+  "w": "to",
+  "start": 438.492,
+  "end": 438.552
+ },
+ {
+  "w": "export",
+  "start": 438.612,
+  "end": 439.032
+ },
+ {
+  "w": "its",
+  "start": 439.092,
+  "end": 439.212
+ },
+ {
+  "w": "grain.",
+  "start": 439.272,
+  "end": 439.652
+ },
+ {
+  "w": "The",
+  "start": 440.952,
+  "end": 441.052
+ },
+ {
+  "w": "warm",
+  "start": 441.132,
+  "end": 441.372
+ },
+ {
+  "w": "water",
+  "start": 441.432,
+  "end": 441.712
+ },
+ {
+  "w": "port",
+  "start": 441.772,
+  "end": 442.012
+ },
+ {
+  "w": "that",
+  "start": 442.052,
+  "end": 442.192
+ },
+ {
+  "w": "Russia",
+  "start": 442.252,
+  "end": 442.572
+ },
+ {
+  "w": "fought",
+  "start": 442.652,
+  "end": 442.912
+ },
+ {
+  "w": "two",
+  "start": 443.012,
+  "end": 443.152
+ },
+ {
+  "w": "centuries",
+  "start": 443.352,
+  "end": 443.852
  },
  {
   "w": "for",
-  "start": 589.1,
-  "end": 589.18
+  "start": 443.912,
+  "end": 444.372
  },
  {
-  "w": "more",
-  "start": 589.26,
-  "end": 589.42
+  "w": "had",
+  "start": 444.412,
+  "end": 444.512
  },
  {
-  "w": "stories",
-  "start": 589.5,
-  "end": 589.82
+  "w": "become",
+  "start": 444.552,
+  "end": 444.932
+ },
+ {
+  "w": "one",
+  "start": 444.992,
+  "end": 445.052
+ },
+ {
+  "w": "of",
+  "start": 445.092,
+  "end": 445.172
+ },
+ {
+  "w": "the",
+  "start": 445.192,
+  "end": 445.252
+ },
+ {
+  "w": "most",
+  "start": 445.312,
+  "end": 445.492
+ },
+ {
+  "w": "dangerous",
+  "start": 445.672,
+  "end": 446.112
+ },
+ {
+  "w": "places",
+  "start": 446.232,
+  "end": 446.692
+ },
+ {
+  "w": "for",
+  "start": 446.752,
+  "end": 446.852
+ },
+ {
+  "w": "its",
+  "start": 446.892,
+  "end": 447.072
+ },
+ {
+  "w": "own",
+  "start": 447.172,
+  "end": 447.352
+ },
+ {
+  "w": "navy.",
+  "start": 447.412,
+  "end": 447.772
+ },
+ {
+  "w": "Now",
+  "start": 449.572,
+  "end": 449.792
+ },
+ {
+  "w": "look",
+  "start": 449.832,
+  "end": 450.052
+ },
+ {
+  "w": "north.",
+  "start": 450.112,
+  "end": 450.472
+ },
+ {
+  "w": "In",
+  "start": 451.052,
+  "end": 451.132
+ },
+ {
+  "w": "twenty",
+  "start": 451.192,
+  "end": 451.372
+ },
+ {
+  "w": "twenty-three,",
+  "start": 451.472,
+  "end": 452.012
+ },
+ {
+  "w": "Finland",
+  "start": 452.352,
+  "end": 452.752
+ },
+ {
+  "w": "joined",
+  "start": 452.892,
+  "end": 453.132
+ },
+ {
+  "w": "NATO.",
+  "start": 453.232,
+  "end": 453.552
+ },
+ {
+  "w": "In",
+  "start": 454.032,
+  "end": 454.112
+ },
+ {
+  "w": "twenty",
+  "start": 454.172,
+  "end": 454.332
+ },
+ {
+  "w": "twenty-four,",
+  "start": 454.432,
+  "end": 454.972
+ },
+ {
+  "w": "Sweden",
+  "start": 455.332,
+  "end": 455.652
+ },
+ {
+  "w": "followed.",
+  "start": 455.772,
+  "end": 456.152
+ },
+ {
+  "w": "Today,",
+  "start": 456.672,
+  "end": 456.972
+ },
+ {
+  "w": "every",
+  "start": 457.372,
+  "end": 457.652
+ },
+ {
+  "w": "country",
+  "start": 457.712,
+  "end": 458.072
+ },
+ {
+  "w": "around",
+  "start": 458.152,
+  "end": 458.432
+ },
+ {
+  "w": "the",
+  "start": 458.472,
+  "end": 458.572
+ },
+ {
+  "w": "Baltic",
+  "start": 458.612,
+  "end": 458.912
+ },
+ {
+  "w": "Sea",
+  "start": 459.032,
+  "end": 459.292
+ },
+ {
+  "w": "is",
+  "start": 459.352,
+  "end": 459.432
+ },
+ {
+  "w": "in",
+  "start": 459.492,
+  "end": 459.592
+ },
+ {
+  "w": "NATO,",
+  "start": 459.652,
+  "end": 459.972
+ },
+ {
+  "w": "except",
+  "start": 460.432,
+  "end": 460.832
+ },
+ {
+  "w": "one,",
+  "start": 460.992,
+  "end": 461.232
+ },
+ {
+  "w": "Russia.",
+  "start": 461.892,
+  "end": 462.252
+ },
+ {
+  "w": "Remember",
+  "start": 463.672,
+  "end": 464.032
+ },
+ {
+  "w": "the",
+  "start": 464.072,
+  "end": 464.152
+ },
+ {
+  "w": "neighbor's",
+  "start": 464.212,
+  "end": 464.592
+ },
+ {
+  "w": "garden?",
+  "start": 464.632,
+  "end": 464.932
+ },
+ {
+  "w": "It's",
+  "start": 465.472,
+  "end": 465.632
+ },
+ {
+  "w": "now",
+  "start": 465.692,
+  "end": 466.012
+ },
+ {
+  "w": "one",
+  "start": 466.132,
+  "end": 466.412
+ },
+ {
+  "w": "big",
+  "start": 466.472,
+  "end": 466.692
+ },
+ {
+  "w": "neighborhood,",
+  "start": 466.752,
+  "end": 467.232
+ },
+ {
+  "w": "and",
+  "start": 467.612,
+  "end": 467.712
+ },
+ {
+  "w": "Russia",
+  "start": 467.812,
+  "end": 468.332
+ },
+ {
+  "w": "isn't",
+  "start": 468.412,
+  "end": 468.652
+ },
+ {
+  "w": "part",
+  "start": 468.712,
+  "end": 468.852
+ },
+ {
+  "w": "of",
+  "start": 468.892,
+  "end": 468.972
+ },
+ {
+  "w": "it.",
+  "start": 469.012,
+  "end": 469.112
+ },
+ {
+  "w": "Yet",
+  "start": 470.712,
+  "end": 470.912
+ },
+ {
+  "w": "that",
+  "start": 470.992,
+  "end": 471.232
+ },
+ {
+  "w": "narrow",
+  "start": 471.312,
+  "end": 471.692
+ },
+ {
+  "w": "sea",
+  "start": 471.772,
+  "end": 472.092
+ },
+ {
+  "w": "is",
+  "start": 472.152,
+  "end": 472.272
+ },
+ {
+  "w": "still",
+  "start": 472.372,
+  "end": 472.632
+ },
+ {
+  "w": "vital",
+  "start": 472.792,
+  "end": 473.132
+ },
+ {
+  "w": "for",
+  "start": 473.172,
+  "end": 473.292
+ },
+ {
+  "w": "Russia.",
+  "start": 473.332,
+  "end": 473.672
+ },
+ {
+  "w": "Through",
+  "start": 474.252,
+  "end": 474.452
+ },
+ {
+  "w": "it",
+  "start": 474.512,
+  "end": 474.732
+ },
+ {
+  "w": "sails",
+  "start": 474.812,
+  "end": 475.112
+ },
+ {
+  "w": "a",
+  "start": 475.172,
+  "end": 475.232
+ },
+ {
+  "w": "so-called",
+  "start": 475.292,
+  "end": 475.752
+ },
+ {
+  "w": "shadow",
+  "start": 475.992,
+  "end": 476.332
+ },
+ {
+  "w": "fleet,",
+  "start": 476.412,
+  "end": 476.652
+ },
+ {
+  "w": "old",
+  "start": 477.212,
+  "end": 477.432
+ },
+ {
+  "w": "tankers",
+  "start": 477.512,
+  "end": 477.972
+ },
+ {
+  "w": "with",
+  "start": 478.012,
+  "end": 478.212
+ },
+ {
+  "w": "unclear",
+  "start": 478.292,
+  "end": 478.752
+ },
+ {
+  "w": "owners",
+  "start": 478.832,
+  "end": 479.172
+ },
+ {
+  "w": "carrying",
+  "start": 479.492,
+  "end": 479.932
+ },
+ {
+  "w": "Russian",
+  "start": 479.992,
+  "end": 480.312
+ },
+ {
+  "w": "oil",
+  "start": 480.392,
+  "end": 480.692
+ },
+ {
+  "w": "past",
+  "start": 480.792,
+  "end": 481.132
+ },
+ {
+  "w": "sanctions",
+  "start": 481.192,
+  "end": 481.692
+ },
+ {
+  "w": "right",
+  "start": 482.092,
+  "end": 482.312
+ },
+ {
+  "w": "through",
+  "start": 482.372,
+  "end": 482.652
+ },
+ {
+  "w": "the",
+  "start": 482.692,
+  "end": 482.792
+ },
+ {
+  "w": "Danish",
+  "start": 482.832,
+  "end": 483.132
+ },
+ {
+  "w": "Straits,",
+  "start": 483.232,
+  "end": 483.632
+ },
+ {
+  "w": "and",
+  "start": 484.252,
+  "end": 484.372
+ },
+ {
+  "w": "European",
+  "start": 484.432,
+  "end": 484.892
+ },
+ {
+  "w": "countries",
+  "start": 484.972,
+  "end": 485.412
+ },
+ {
+  "w": "have",
+  "start": 485.452,
+  "end": 485.592
+ },
+ {
+  "w": "started",
+  "start": 485.672,
+  "end": 485.992
+ },
+ {
+  "w": "stopping",
+  "start": 486.152,
+  "end": 486.512
+ },
+ {
+  "w": "them.",
+  "start": 486.552,
+  "end": 486.712
+ },
+ {
+  "w": "In",
+  "start": 487.352,
+  "end": 487.452
+ },
+ {
+  "w": "February",
+  "start": 487.532,
+  "end": 488.032
+ },
+ {
+  "w": "twenty",
+  "start": 488.092,
+  "end": 488.272
+ },
+ {
+  "w": "twenty-six,",
+  "start": 488.372,
+  "end": 489.012
+ },
+ {
+  "w": "Belgian",
+  "start": 489.312,
+  "end": 489.672
+ },
+ {
+  "w": "special",
+  "start": 489.812,
+  "end": 490.132
+ },
+ {
+  "w": "forces",
+  "start": 490.192,
+  "end": 490.592
+ },
+ {
+  "w": "boarded",
+  "start": 490.732,
+  "end": 491.052
+ },
+ {
+  "w": "one",
+  "start": 491.112,
+  "end": 491.192
+ },
+ {
+  "w": "of",
+  "start": 491.232,
+  "end": 491.312
+ },
+ {
+  "w": "those",
+  "start": 491.352,
+  "end": 491.532
+ },
+ {
+  "w": "tankers",
+  "start": 491.592,
+  "end": 491.972
+ },
+ {
+  "w": "in",
+  "start": 492.012,
+  "end": 492.072
+ },
+ {
+  "w": "the",
+  "start": 492.092,
+  "end": 492.172
+ },
+ {
+  "w": "North",
+  "start": 492.212,
+  "end": 492.432
+ },
+ {
+  "w": "Sea",
+  "start": 492.551,
+  "end": 492.991
+ },
+ {
+  "w": "and",
+  "start": 493.051,
+  "end": 493.132
+ },
+ {
+  "w": "escorted",
+  "start": 493.172,
+  "end": 493.632
+ },
+ {
+  "w": "it",
+  "start": 493.672,
+  "end": 493.831
+ },
+ {
+  "w": "into",
+  "start": 493.912,
+  "end": 494.132
+ },
+ {
+  "w": "port.",
+  "start": 494.192,
+  "end": 494.472
+ },
+ {
+  "w": "So",
+  "start": 496.212,
+  "end": 496.452
+ },
+ {
+  "w": "if",
+  "start": 496.532,
+  "end": 496.612
+ },
+ {
+  "w": "the",
+  "start": 496.652,
+  "end": 496.752
+ },
+ {
+  "w": "old",
+  "start": 496.852,
+  "end": 497.032
+ },
+ {
+  "w": "doors",
+  "start": 497.092,
+  "end": 497.332
+ },
+ {
+  "w": "are",
+  "start": 497.372,
+  "end": 497.472
+ },
+ {
+  "w": "closing,",
+  "start": 497.532,
+  "end": 497.992
+ },
+ {
+  "w": "where",
+  "start": 498.532,
+  "end": 498.712
+ },
+ {
+  "w": "else",
+  "start": 498.792,
+  "end": 499.032
+ },
+ {
+  "w": "can",
+  "start": 499.072,
+  "end": 499.212
+ },
+ {
+  "w": "Russia",
+  "start": 499.252,
+  "end": 499.532
+ },
+ {
+  "w": "go?",
+  "start": 499.592,
+  "end": 499.872
+ },
+ {
+  "w": "Chapter",
+  "start": 502.912,
+  "end": 503.192
+ },
+ {
+  "w": "five:",
+  "start": 503.332,
+  "end": 503.712
+ },
+ {
+  "w": "Looking",
+  "start": 504.312,
+  "end": 504.672
+ },
+ {
+  "w": "for",
+  "start": 504.732,
+  "end": 504.892
+ },
+ {
+  "w": "new",
+  "start": 504.952,
+  "end": 505.152
+ },
+ {
+  "w": "doors.",
+  "start": 505.192,
+  "end": 505.592
+ },
+ {
+  "w": "Russia's",
+  "start": 508.812,
+  "end": 509.212
+ },
+ {
+  "w": "only",
+  "start": 509.312,
+  "end": 509.592
+ },
+ {
+  "w": "naval",
+  "start": 509.652,
+  "end": 509.932
+ },
+ {
+  "w": "base",
+  "start": 509.972,
+  "end": 510.172
+ },
+ {
+  "w": "in",
+  "start": 510.232,
+  "end": 510.272
+ },
+ {
+  "w": "the",
+  "start": 510.312,
+  "end": 510.372
+ },
+ {
+  "w": "Mediterranean",
+  "start": 510.412,
+  "end": 511.252
+ },
+ {
+  "w": "is",
+  "start": 511.312,
+  "end": 511.392
+ },
+ {
+  "w": "in",
+  "start": 511.432,
+  "end": 511.572
+ },
+ {
+  "w": "Tartus",
+  "start": 511.632,
+  "end": 512.232
+ },
+ {
+  "w": "in",
+  "start": 512.312,
+  "end": 512.432
+ },
+ {
+  "w": "Syria.",
+  "start": 512.512,
+  "end": 512.892
+ },
+ {
+  "w": "When",
+  "start": 513.412,
+  "end": 513.512
+ },
+ {
+  "w": "the",
+  "start": 513.552,
+  "end": 513.632
+ },
+ {
+  "w": "Syrian",
+  "start": 513.692,
+  "end": 514.012
+ },
+ {
+  "w": "president,",
+  "start": 514.092,
+  "end": 514.512
+ },
+ {
+  "w": "Bashar",
+  "start": 514.612,
+  "end": 515.012
+ },
+ {
+  "w": "al-Assad,",
+  "start": 515.072,
+  "end": 515.612
+ },
+ {
+  "w": "fell",
+  "start": 515.772,
+  "end": 516.052
+ },
+ {
+  "w": "in",
+  "start": 516.092,
+  "end": 516.172
+ },
+ {
+  "w": "December",
+  "start": 516.212,
+  "end": 516.672
+ },
+ {
+  "w": "twenty",
+  "start": 516.732,
+  "end": 516.912
+ },
+ {
+  "w": "twenty-four,",
+  "start": 517.012,
+  "end": 517.552
+ },
+ {
+  "w": "its",
+  "start": 517.972,
+  "end": 518.112
+ },
+ {
+  "w": "future",
+  "start": 518.192,
+  "end": 518.652
+ },
+ {
+  "w": "was",
+  "start": 518.692,
+  "end": 518.852
+ },
+ {
+  "w": "suddenly",
+  "start": 518.912,
+  "end": 519.332
+ },
+ {
+  "w": "in",
+  "start": 519.392,
+  "end": 519.512
+ },
+ {
+  "w": "doubt.",
+  "start": 519.572,
+  "end": 519.852
+ },
+ {
+  "w": "Russian",
+  "start": 520.432,
+  "end": 520.732
+ },
+ {
+  "w": "ships",
+  "start": 520.872,
+  "end": 521.272
+ },
+ {
+  "w": "left.",
+  "start": 521.352,
+  "end": 521.692
+ },
+ {
+  "w": "In",
+  "start": 522.352,
+  "end": 522.432
+ },
+ {
+  "w": "twenty",
+  "start": 522.492,
+  "end": 522.672
+ },
+ {
+  "w": "twenty-six,",
+  "start": 522.752,
+  "end": 523.392
+ },
+ {
+  "w": "Russia",
+  "start": 523.692,
+  "end": 524.012
+ },
+ {
+  "w": "and",
+  "start": 524.052,
+  "end": 524.132
+ },
+ {
+  "w": "Syria",
+  "start": 524.252,
+  "end": 524.652
+ },
+ {
+  "w": "signed",
+  "start": 524.732,
+  "end": 525.032
+ },
+ {
+  "w": "a",
+  "start": 525.092,
+  "end": 525.172
+ },
+ {
+  "w": "new",
+  "start": 525.232,
+  "end": 525.392
+ },
+ {
+  "w": "deal.",
+  "start": 525.452,
+  "end": 525.692
+ },
+ {
+  "w": "The",
+  "start": 526.192,
+  "end": 526.292
+ },
+ {
+  "w": "base",
+  "start": 526.332,
+  "end": 526.612
+ },
+ {
+  "w": "becomes",
+  "start": 526.672,
+  "end": 527.092
+ },
+ {
+  "w": "a",
+  "start": 527.172,
+  "end": 527.272
+ },
+ {
+  "w": "joint",
+  "start": 527.352,
+  "end": 527.592
+ },
+ {
+  "w": "training",
+  "start": 527.672,
+  "end": 528.012
+ },
+ {
+  "w": "center,",
+  "start": 528.052,
+  "end": 528.332
+ },
+ {
+  "w": "and",
+  "start": 528.652,
+  "end": 528.792
+ },
+ {
+  "w": "Syria",
+  "start": 528.872,
+  "end": 529.272
+ },
+ {
+  "w": "takes",
+  "start": 529.352,
+  "end": 529.572
+ },
+ {
+  "w": "over",
+  "start": 529.652,
+  "end": 529.872
+ },
+ {
+  "w": "part",
+  "start": 529.912,
+  "end": 530.052
+ },
+ {
+  "w": "of",
+  "start": 530.092,
+  "end": 530.172
+ },
+ {
+  "w": "the",
+  "start": 530.212,
+  "end": 530.292
+ },
+ {
+  "w": "port.",
+  "start": 530.332,
+  "end": 530.612
+ },
+ {
+  "w": "A",
+  "start": 531.872,
+  "end": 531.932
+ },
+ {
+  "w": "door",
+  "start": 531.992,
+  "end": 532.292
+ },
+ {
+  "w": "that's",
+  "start": 532.352,
+  "end": 532.552
+ },
+ {
+  "w": "still",
+  "start": 532.672,
+  "end": 532.912
+ },
+ {
+  "w": "there,",
+  "start": 532.972,
+  "end": 533.232
+ },
+ {
+  "w": "just",
+  "start": 533.732,
+  "end": 534.132
+ },
+ {
+  "w": "no",
+  "start": 534.212,
+  "end": 534.352
+ },
+ {
+  "w": "longer",
+  "start": 534.412,
+  "end": 534.692
+ },
+ {
+  "w": "fully",
+  "start": 534.892,
+  "end": 535.192
+ },
+ {
+  "w": "Russia's.",
+  "start": 535.252,
+  "end": 535.692
+ },
+ {
+  "w": "And",
+  "start": 537.452,
+  "end": 537.552
+ },
+ {
+  "w": "then",
+  "start": 537.632,
+  "end": 538.072
+ },
+ {
+  "w": "there's",
+  "start": 538.132,
+  "end": 538.332
+ },
+ {
+  "w": "the",
+  "start": 538.372,
+  "end": 538.472
+ },
+ {
+  "w": "north.",
+  "start": 538.532,
+  "end": 538.912
+ },
+ {
+  "w": "As",
+  "start": 539.572,
+  "end": 539.652
+ },
+ {
+  "w": "the",
+  "start": 539.692,
+  "end": 539.792
+ },
+ {
+  "w": "Arctic",
+  "start": 539.852,
+  "end": 540.172
+ },
+ {
+  "w": "warms,",
+  "start": 540.292,
+  "end": 540.692
+ },
+ {
+  "w": "the",
+  "start": 540.912,
+  "end": 541.012
+ },
+ {
+  "w": "ice",
+  "start": 541.112,
+  "end": 541.292
+ },
+ {
+  "w": "along",
+  "start": 541.372,
+  "end": 541.632
+ },
+ {
+  "w": "Russia's",
+  "start": 541.672,
+  "end": 542.032
+ },
+ {
+  "w": "northern",
+  "start": 542.092,
+  "end": 542.452
+ },
+ {
+  "w": "coast",
+  "start": 542.532,
+  "end": 542.932
+ },
+ {
+  "w": "is",
+  "start": 542.992,
+  "end": 543.112
+ },
+ {
+  "w": "melting.",
+  "start": 543.172,
+  "end": 543.592
+ },
+ {
+  "w": "Russia",
+  "start": 544.132,
+  "end": 544.412
+ },
+ {
+  "w": "calls",
+  "start": 544.472,
+  "end": 544.712
+ },
+ {
+  "w": "the",
+  "start": 544.752,
+  "end": 544.832
+ },
+ {
+  "w": "route",
+  "start": 544.872,
+  "end": 545.232
+ },
+ {
+  "w": "the",
+  "start": 545.272,
+  "end": 545.392
+ },
+ {
+  "w": "Northern",
+  "start": 545.472,
+  "end": 545.832
+ },
+ {
+  "w": "Sea",
+  "start": 546.012,
+  "end": 546.152
+ },
+ {
+  "w": "Route,",
+  "start": 546.252,
+  "end": 546.452
+ },
+ {
+  "w": "and",
+  "start": 546.812,
+  "end": 546.892
+ },
+ {
+  "w": "it's",
+  "start": 546.952,
+  "end": 547.112
+ },
+ {
+  "w": "betting",
+  "start": 547.152,
+  "end": 547.552
+ },
+ {
+  "w": "big",
+  "start": 547.592,
+  "end": 547.772
+ },
+ {
+  "w": "on",
+  "start": 547.852,
+  "end": 547.952
+ },
+ {
+  "w": "it",
+  "start": 547.992,
+  "end": 548.312
+ },
+ {
+  "w": "with",
+  "start": 548.372,
+  "end": 548.472
+ },
+ {
+  "w": "a",
+  "start": 548.512,
+  "end": 548.592
+ },
+ {
+  "w": "fleet",
+  "start": 548.672,
+  "end": 548.952
+ },
+ {
+  "w": "of",
+  "start": 549.012,
+  "end": 549.132
+ },
+ {
+  "w": "nuclear-powered",
+  "start": 549.232,
+  "end": 549.992
+ },
+ {
+  "w": "icebreakers.",
+  "start": 550.172,
+  "end": 550.852
+ },
+ {
+  "w": "In",
+  "start": 551.852,
+  "end": 551.952
+ },
+ {
+  "w": "twenty",
+  "start": 552.012,
+  "end": 552.192
+ },
+ {
+  "w": "twenty-five,",
+  "start": 552.292,
+  "end": 552.972
+ },
+ {
+  "w": "a",
+  "start": 553.272,
+  "end": 553.312
+ },
+ {
+  "w": "record",
+  "start": 553.372,
+  "end": 553.732
+ },
+ {
+  "w": "one",
+  "start": 553.852,
+  "end": 554.012
+ },
+ {
+  "w": "hundred",
+  "start": 554.092,
+  "end": 554.352
+ },
+ {
+  "w": "and",
+  "start": 554.392,
+  "end": 554.552
+ },
+ {
+  "w": "three",
+  "start": 554.632,
+  "end": 554.872
+ },
+ {
+  "w": "ships",
+  "start": 555.012,
+  "end": 555.332
+ },
+ {
+  "w": "sailed",
+  "start": 555.512,
+  "end": 555.772
+ },
+ {
+  "w": "the",
+  "start": 555.812,
+  "end": 555.932
+ },
+ {
+  "w": "full",
+  "start": 556.012,
+  "end": 556.212
+ },
+ {
+  "w": "route.",
+  "start": 556.272,
+  "end": 556.532
+ },
+ {
+  "w": "That",
+  "start": 557.072,
+  "end": 557.232
+ },
+ {
+  "w": "sounds",
+  "start": 557.292,
+  "end": 557.532
  },
  {
   "w": "like",
-  "start": 589.9,
-  "end": 590.06
+  "start": 557.572,
+  "end": 557.692
+ },
+ {
+  "w": "a",
+  "start": 557.752,
+  "end": 557.792
+ },
+ {
+  "w": "lot,",
+  "start": 557.852,
+  "end": 558.132
+ },
+ {
+  "w": "but",
+  "start": 558.612,
+  "end": 558.832
+ },
+ {
+  "w": "it's",
+  "start": 558.912,
+  "end": 559.032
+ },
+ {
+  "w": "about",
+  "start": 559.092,
+  "end": 559.392
+ },
+ {
+  "w": "as",
+  "start": 559.432,
+  "end": 559.532
+ },
+ {
+  "w": "many",
+  "start": 559.592,
+  "end": 559.772
+ },
+ {
+  "w": "as",
+  "start": 559.832,
+  "end": 559.952
+ },
+ {
+  "w": "passed",
+  "start": 560.012,
+  "end": 560.252
+ },
+ {
+  "w": "the",
+  "start": 560.312,
+  "end": 560.412
+ },
+ {
+  "w": "southern",
+  "start": 560.492,
+  "end": 560.792
+ },
+ {
+  "w": "tip",
+  "start": 560.832,
+  "end": 560.952
+ },
+ {
+  "w": "of",
+  "start": 560.992,
+  "end": 561.112
+ },
+ {
+  "w": "Africa",
+  "start": 561.232,
+  "end": 561.732
+ },
+ {
+  "w": "in",
+  "start": 561.792,
+  "end": 561.852
+ },
+ {
+  "w": "a",
+  "start": 561.912,
+  "end": 562.012
+ },
+ {
+  "w": "day",
+  "start": 562.072,
+  "end": 562.192
+ },
+ {
+  "w": "and",
+  "start": 562.232,
+  "end": 562.312
+ },
+ {
+  "w": "a",
+  "start": 562.372,
+  "end": 562.432
+ },
+ {
+  "w": "half.",
+  "start": 562.492,
+  "end": 562.872
+ },
+ {
+  "w": "The",
+  "start": 564.292,
+  "end": 564.392
+ },
+ {
+  "w": "frozen",
+  "start": 564.452,
+  "end": 564.832
+ },
+ {
+  "w": "door",
+  "start": 564.932,
+  "end": 565.292
+ },
+ {
+  "w": "is",
+  "start": 565.372,
+  "end": 565.492
+ },
+ {
+  "w": "opening,",
+  "start": 565.592,
+  "end": 565.952
+ },
+ {
+  "w": "slowly.",
+  "start": 566.652,
+  "end": 567.112
+ },
+ {
+  "w": "So",
+  "start": 568.452,
+  "end": 568.652
+ },
+ {
+  "w": "the",
+  "start": 568.712,
+  "end": 568.872
+ },
+ {
+  "w": "biggest",
+  "start": 568.912,
+  "end": 569.232
+ },
+ {
+  "w": "house",
+  "start": 569.272,
+  "end": 569.492
+ },
+ {
+  "w": "on",
+  "start": 569.532,
+  "end": 569.612
+ },
+ {
+  "w": "the",
+  "start": 569.652,
+  "end": 569.732
+ },
+ {
+  "w": "street",
+  "start": 569.812,
+  "end": 570.112
+ },
+ {
+  "w": "is",
+  "start": 570.292,
+  "end": 570.412
+ },
+ {
+  "w": "still",
+  "start": 570.512,
+  "end": 570.732
+ },
+ {
+  "w": "looking",
+  "start": 570.772,
+  "end": 571.072
+ },
+ {
+  "w": "for",
+  "start": 571.132,
+  "end": 571.232
+ },
+ {
+  "w": "a",
+  "start": 571.292,
+  "end": 571.372
+ },
+ {
+  "w": "door",
+  "start": 571.432,
+  "end": 571.792
+ },
+ {
+  "w": "it",
+  "start": 571.872,
+  "end": 572.012
+ },
+ {
+  "w": "alone",
+  "start": 572.092,
+  "end": 572.572
+ },
+ {
+  "w": "controls.",
+  "start": 572.612,
+  "end": 573.232
+ },
+ {
+  "w": "Three",
+  "start": 574.492,
+  "end": 574.792
+ },
+ {
+  "w": "hundred",
+  "start": 574.852,
+  "end": 575.192
+ },
+ {
+  "w": "years",
+  "start": 575.252,
+  "end": 575.652
+ },
+ {
+  "w": "after",
+  "start": 575.732,
+  "end": 575.992
+ },
+ {
+  "w": "Peter",
+  "start": 576.032,
+  "end": 576.272
+ },
+ {
+  "w": "the",
+  "start": 576.312,
+  "end": 576.352
+ },
+ {
+  "w": "Great",
+  "start": 576.432,
+  "end": 576.672
+ },
+ {
+  "w": "captured",
+  "start": 576.812,
+  "end": 577.152
+ },
+ {
+  "w": "his",
+  "start": 577.192,
+  "end": 577.392
+ },
+ {
+  "w": "first",
+  "start": 577.452,
+  "end": 577.712
+ },
+ {
+  "w": "little",
+  "start": 577.772,
+  "end": 577.992
+ },
+ {
+  "w": "fortress",
+  "start": 578.032,
+  "end": 578.492
+ },
+ {
+  "w": "on",
+  "start": 578.552,
+  "end": 578.632
+ },
+ {
+  "w": "the",
+  "start": 578.672,
+  "end": 578.752
+ },
+ {
+  "w": "way",
+  "start": 578.792,
+  "end": 578.932
+ },
+ {
+  "w": "to",
+  "start": 578.972,
+  "end": 579.052
+ },
+ {
+  "w": "the",
+  "start": 579.092,
+  "end": 579.192
+ },
+ {
+  "w": "sea,",
+  "start": 579.252,
+  "end": 579.492
+ },
+ {
+  "w": "the",
+  "start": 579.932,
+  "end": 580.032
+ },
+ {
+  "w": "map",
+  "start": 580.092,
+  "end": 580.412
+ },
+ {
+  "w": "is",
+  "start": 580.472,
+  "end": 580.612
+ },
+ {
+  "w": "still",
+  "start": 580.732,
+  "end": 581.092
+ },
+ {
+  "w": "shaping",
+  "start": 581.152,
+  "end": 581.512
+ },
+ {
+  "w": "Russia's",
+  "start": 581.572,
+  "end": 581.912
+ },
+ {
+  "w": "choices.",
+  "start": 581.972,
+  "end": 582.432
+ },
+ {
+  "w": "If",
+  "start": 583.932,
+  "end": 583.992
+ },
+ {
+  "w": "you",
+  "start": 584.052,
+  "end": 584.112
+ },
+ {
+  "w": "enjoyed",
+  "start": 584.172,
+  "end": 584.532
+ },
+ {
+  "w": "this,",
+  "start": 584.592,
+  "end": 584.812
+ },
+ {
+  "w": "like",
+  "start": 585.152,
+  "end": 585.412
+ },
+ {
+  "w": "and",
+  "start": 585.452,
+  "end": 585.512
+ },
+ {
+  "w": "subscribe",
+  "start": 585.592,
+  "end": 586.192
+ },
+ {
+  "w": "to",
+  "start": 586.232,
+  "end": 586.332
+ },
+ {
+  "w": "Nexus",
+  "start": 586.372,
+  "end": 586.712
+ },
+ {
+  "w": "Docs,",
+  "start": 586.792,
+  "end": 587.132
+ },
+ {
+  "w": "and",
+  "start": 587.512,
+  "end": 587.612
+ },
+ {
+  "w": "check",
+  "start": 587.672,
+  "end": 587.832
+ },
+ {
+  "w": "out",
+  "start": 587.892,
+  "end": 587.992
+ },
+ {
+  "w": "our",
+  "start": 588.032,
+  "end": 588.132
+ },
+ {
+  "w": "other",
+  "start": 588.212,
+  "end": 588.372
+ },
+ {
+  "w": "videos",
+  "start": 588.412,
+  "end": 588.832
+ },
+ {
+  "w": "for",
+  "start": 588.892,
+  "end": 589.012
+ },
+ {
+  "w": "more",
+  "start": 589.072,
+  "end": 589.252
+ },
+ {
+  "w": "stories",
+  "start": 589.312,
+  "end": 589.632
+ },
+ {
+  "w": "like",
+  "start": 589.672,
+  "end": 589.852
  },
  {
   "w": "this.",
-  "start": 590.14,
-  "end": 590.7
+  "start": 589.912,
+  "end": 590.152
  }
 ]
