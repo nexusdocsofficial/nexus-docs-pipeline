@@ -102,7 +102,7 @@
    "n": "13",
    "anchor": "Let's look at the",
    "type": "concept",
-   "beeld": "a friendly modern stickman narrator in a blue hoodie and jeans unrolling a large parchment map of Russia on a wooden table and pointing at it",
+   "beeld": "a friendly modern stickman narrator in a blue hoodie and jeans standing beside a large parchment map of Russia pinned upright on a wooden easel, turned toward the map and pointing at it (the map text is upright and readable for him and for the viewer)",
    "era": "now",
    "ref": [
     "NARR"
@@ -120,7 +120,7 @@
    "n": "14",
    "anchor": "Look at where Russia's",
    "type": "kaart",
-   "beeld": "a map of Russia with its whole coastline traced in a thick bright blue line, from the far north to the far east",
+   "beeld": "a map of Russia where ONLY the sea coast is traced with a thick bright blue line: the long Arctic Ocean coast along the top and the Pacific coast on the right, plus the short Baltic and Black Sea coasts; the land borders with other countries in the south and west are thin plain black lines, NOT blue, and no blue line runs over land",
    "era": "none",
    "ref": []
   },
@@ -226,9 +226,11 @@
    "n": "26",
    "anchor": "The first ruler who",
    "type": "scene",
-   "beeld": "Peter the Great as a very tall thin stickman with a small dark mustache, a dark green 1700s Russian army coat with red cuffs, a black tricorn hat and tall boots standing in front of a map on a wooden table, looking determined, a parchment banner 'PETER THE GREAT'",
+   "beeld": "Peter the Great as a very tall thin stickman with a small dark mustache, a dark green 1700s Russian army coat with red cuffs, a black tricorn hat and tall boots standing in front of a large map hanging upright on the wall, turned toward it and pointing at the sea on it, looking determined (the map is upright and readable for him and for the viewer), a parchment banner 'PETER THE GREAT'",
    "era": "the late 1600s",
-   "ref": []
+   "ref": [
+    "26"
+   ]
   },
   {
    "n": "27",
@@ -278,7 +280,7 @@
    "n": "32",
    "anchor": "But that window froze",
    "type": "scene",
-   "beeld": "the same giant wooden window frame, but now the window is CLOSED: frost flowers on every glass pane and icicles hanging from the frame; through the frosted glass the river and harbor are frozen white with sailing ships stuck in the ice; two stickmen in 1700s coats stand inside, shivering, looking out through the closed glass",
+   "beeld": "the same giant wooden window frame, but now the window is CLOSED: frost flowers on every glass pane and icicles hanging from the frame; through the frosted glass the river and harbor are frozen white with sailing ships stuck in the ice; two stickmen in 1700s coats stand inside with their backs half to the viewer, BOTH facing the window and looking out through the closed glass, both shivering with their arms wrapped around themselves",
    "era": "the 1700s",
    "ref": [
     "31"
@@ -326,7 +328,7 @@
    "n": "36",
    "anchor": "In seventeen eighty-three",
    "type": "scene",
-   "beeld": "Catherine the Great as a stickman woman with a small golden crown, powdered grey hair and a wide blue-and-gold 1780s court gown pointing at a map of the Crimean peninsula, a parchment banner 'CATHERINE THE GREAT'",
+   "beeld": "Catherine the Great as a stickman woman with a small golden crown, powdered grey hair and a wide blue-and-gold 1780s court gown standing beside a large map of the Crimean peninsula hanging upright on an easel, turned toward it and pointing at Crimea (the map is upright and readable for her and for the viewer), a parchment banner 'CATHERINE THE GREAT'",
    "era": "1783",
    "ref": []
   },
@@ -490,7 +492,7 @@
    "n": "56",
    "anchor": "Japan didn't like that",
    "type": "scene",
-   "beeld": "a Japanese stickman admiral in a dark blue 1900s navy uniform frowning at a map, the Japanese naval flag (white with a red sun and sixteen red rays) behind him",
+   "beeld": "a Japanese stickman admiral in a dark blue 1900s navy uniform standing in front of a large map of Korea and Manchuria hanging upright on the wall, turned toward it and frowning at it (the map is upright and readable for him and for the viewer), the Japanese naval flag (white with a red sun and sixteen red rays) on the other wall",
    "era": "1904",
    "ref": []
   },
@@ -506,7 +508,7 @@
    "n": "58",
    "anchor": "The Tsar made a",
    "type": "scene",
-   "beeld": "Tsar Nicholas II as a stickman with a short brown beard and mustache in a dark green Russian military tunic pointing decisively at a world map, a parchment banner 'THE TSAR'",
+   "beeld": "Tsar Nicholas II as a stickman with a short brown beard and mustache in a dark green Russian military tunic standing beside a large world map hanging upright on the wall, turned toward it and pointing decisively at it (the map is upright and readable for him and for the viewer), two worried advisers watching, a parchment banner 'THE TSAR'",
    "era": "1904",
    "ref": []
   },

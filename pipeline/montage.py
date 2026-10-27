@@ -13,7 +13,8 @@ montage.json
   music       [[row, track, offset_s, gain_db_vs_voice]]   one cue per story beat. On a chapter card the old music has
               faded out before the card and the new piece starts with it; within a chapter a soft cross-fade of
               music_crossfade s (default 8) ends exactly on the new beat
-  zoom        {row: [z0, z1, anchor_x, anchor_y]}           special camera move (anchor in 1920x1080 pixels)
+  zoom        {row: [z0, z1]}                              special camera move, centred (an anchored move can show black edges)
+  vo_fix      [[t0, t1, gain]]                             soften a click/glitch in the voice-over
   Rows that map to the same image file as the row before become one longer shot.
   ambience    [[row, file_in_lib_sfeer, seconds]]          short scene-setting beds, then fade
   whoosh      {src, rows: [...]}                           a few big moments only
@@ -137,7 +138,23 @@ class M:
         c, tmp = self.cfg, os.path.join(self.out, 'tmp'); os.makedirs(tmp, exist_ok=True)
         # voice-over at a fixed loudness
         g = VO_LUFS - lufs(c['vo'])
-        sh('ffmpeg', '-loglevel', 'error', '-y', '-i', c['vo'], '-af', f'volume={g:.2f}dB,aresample=48000,apad',
+        vo_src = c['vo']
+        if c.get('vo_fix'):                       # [[t0, t1, gain]]: soften a glitch/click in the VO (8 ms ramps)
+            import numpy as np, wave
+            raw = subprocess.run(['ffmpeg', '-loglevel', 'error', '-i', c['vo'], '-ac', '1', '-ar', '48000', '-f', 's16le', '-'],
+                                 capture_output=True, check=True).stdout
+            x = np.frombuffer(raw, np.int16).astype(np.float32)
+            env = np.ones_like(x); r = int(0.008 * 48000)
+            for t0, t1, gn in c['vo_fix']:
+                i0, i1 = int(t0 * 48000), int(t1 * 48000)
+                env[i0:i1] = np.minimum(env[i0:i1], gn)
+                env[i0 - r:i0] = np.minimum(env[i0 - r:i0], np.linspace(1, gn, r))
+                env[i1:i1 + r] = np.minimum(env[i1:i1 + r], np.linspace(gn, 1, r))
+            vo_src = os.path.join(tmp, 'vo-fixed.wav')
+            with wave.open(vo_src, 'wb') as w:
+                w.setnchannels(1); w.setsampwidth(2); w.setframerate(48000)
+                w.writeframes((x * env).clip(-32768, 32767).astype(np.int16).tobytes())
+        sh('ffmpeg', '-loglevel', 'error', '-y', '-i', vo_src, '-af', f'volume={g:.2f}dB,aresample=48000,apad',
            '-t', f'{self.total:.3f}', '-ac', '2', '-c:a', 'aac', '-b:a', '192k', os.path.join(self.out, 'vo.m4a'))
 
         cards = {ch['row'] for ch in c['chapters']}
@@ -194,9 +211,9 @@ class M:
             elif s['kind'] == 'card':
                 shots.append({'path': f"{md}/{s['src']}", 'w': 1920, 'h': 1080, 'start': s['start'], 'dur': dur, 'zoom': (1.0, 1.04)})
             elif s['n'] in c.get('zoom', {}):          # special move, e.g. a long zoom-out over a whole route
-                z0, z1, ax, ay = c['zoom'][s['n']]
+                zz = c['zoom'][s['n']]            # [z0, z1] centred, or [z0, z1, ax, ay] anchored (risk of black edges)
                 shots.append({'path': f"{md}/{s['src']}", 'w': 1920, 'h': 1080, 'start': s['start'], 'dur': dur,
-                              'zoom': (z0, z1), 'anchor': (ax, ay)})
+                              'zoom': (zz[0], zz[1]), 'anchor': (zz[2], zz[3]) if len(zz) == 4 else None})
             else:
                 z = (1.02, 1.05) if dur >= 3 else (1.02, 1.035)
                 shots.append({'path': f"{md}/{s['src']}", 'w': 1920, 'h': 1080, 'start': s['start'], 'dur': dur,
