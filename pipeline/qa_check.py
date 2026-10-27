@@ -76,7 +76,8 @@ def shots_from_capcut(draft_path, beeldenlijst_md):
         else:
             kind, n, anchor = "still", name, None
         shots.append({"n": n, "start": st, "end": st + du, "kind": kind, "src": m["path"], "anchor": anchor,
-                      "w": m.get("width"), "h": m.get("height"), "min_scale": min(scales), "type": m.get("type")})
+                      "w": m.get("width"), "h": m.get("height"), "min_scale": min(scales), "type": m.get("type"),
+                      "zoom_range": max(scales) - min(scales)})
     shots.sort(key=lambda x: x["start"])
     return shots, d
 
@@ -108,7 +109,10 @@ def check_durations(R, shots):
     for s in shots:
         d = s["end"] - s["start"]
         if s["kind"] == "still":
-            if d < STILL_MIN or d > STILL_MAX:
+            moving = s.get("zoom_range", 0) >= 0.15     # a long camera move (e.g. zoom out over a route) may run longer
+            if d > STILL_MAX and moving and d <= 12:
+                R.add("WARN", "Beeldduur", f"beeld {s['n']} staat {d:.1f} s in beeld (lange camerabeweging)", s["start"])
+            elif d < STILL_MIN or d > STILL_MAX:
                 bad += 1; R.add("FAIL", "Beeldduur", f"beeld {s['n']} staat {d:.1f} s in beeld (toegestaan {STILL_MIN}–{STILL_MAX} s)", s["start"])
             elif d < STILL_WARN_MIN or d > STILL_WARN_MAX:
                 R.add("WARN", "Beeldduur", f"beeld {s['n']} staat {d:.1f} s in beeld", s["start"])

@@ -10,7 +10,11 @@ montage.json
   prompts     prompts.json (start/end per row), words  words.json
   vo, lib, outro, outro_len, out (local build folder), mac_dir (where the media will live on the Mac)
   chapters    [{n, row, title}]
-  music       [[row, track, offset_s, gain_db_vs_voice]]   one cue per story beat; cross-fades in the pauses / on cards
+  music       [[row, track, offset_s, gain_db_vs_voice]]   one cue per story beat. On a chapter card the old music has
+              faded out before the card and the new piece starts with it; within a chapter a soft cross-fade of
+              music_crossfade s (default 8) ends exactly on the new beat
+  zoom        {row: [z0, z1, anchor_x, anchor_y]}           special camera move (anchor in 1920x1080 pixels)
+  Rows that map to the same image file as the row before become one longer shot.
   ambience    [[row, file_in_lib_sfeer, seconds]]          short scene-setting beds, then fade
   whoosh      {src, rows: [...]}                           a few big moments only
 Writes: out/img-NNN.jpg, out/card-N.jpg, out/{vo,music,ambience,sfx,jingle}.m4a, out/outro.mp4, out/draft/,
@@ -55,15 +59,30 @@ class M:
         self.outro_t = rows[-1]['end']           # VO line of the outro starts here
         self.total = self.outro_t + c['outro_len']
         self.shots, si = [], 0
+        self.row_start = {}
         for k, n in enumerate(self.order):
-            s = 0.0 if k == 0 else self.prompts[n]['start']
+            st = 0.0 if k == 0 else self.prompts[n]['start']
             e = self.prompts[self.order[k + 1]]['start'] if k + 1 < len(self.order) else self.outro_t
+            self.row_start[n] = st
             kind = 'card' if n in self.cards else 'still'
-            # img-NNN = 0-based index among the numbered stills (qa_check maps it back to the beeldenlijst)
-            src = f'card-{self.cards[n]["n"]}.jpg' if kind == 'card' else f'img-{si:03d}.jpg'
-            si += kind == 'still'
-            self.shots.append({'n': n, 'start': round(s, 3), 'end': round(e, 3), 'kind': kind, 'src': src})
-        self.shots.append({'n': 'O', 'start': round(self.outro_t, 3), 'end': round(self.total, 3), 'kind': 'outro', 'src': 'outro.mp4'})
+            prev = self.shots[-1] if self.shots else None
+            if kind == 'still' and prev and prev['kind'] == 'still' and self.files[n] == self.files[prev['n']]:
+                prev['end'] = round(e, 3); prev['rows'].append(n)      # same image as the row before: one longer shot
+                if n.isdigit():
+                    si += 1
+                continue
+            # img-NNN = 0-based index among the numbered stills (qa_check maps it back to the beeldenlijst);
+            # extra rows inserted later (e.g. "23m") get extra-<n>.jpg
+            if kind == 'card':
+                src = f'card-{self.cards[n]["n"]}.jpg'
+            elif n.isdigit():
+                src = f'img-{si:03d}.jpg'; si += 1
+            else:
+                src = f'extra-{n}.jpg'
+            self.shots.append({'n': n, 'rows': [n], 'start': round(st, 3), 'end': round(e, 3), 'kind': kind, 'src': src})
+        self.shots.append({'n': 'O', 'rows': ['O'], 'start': round(self.outro_t, 3), 'end': round(self.total, 3), 'kind': 'outro',
+                           'src': 'outro.mp4'})
+        self.row_start['O'] = self.outro_t
         self.by_n = {s['n']: s for s in self.shots}
 
     # ---------------- images ----------------
@@ -121,17 +140,26 @@ class M:
         sh('ffmpeg', '-loglevel', 'error', '-y', '-i', c['vo'], '-af', f'volume={g:.2f}dB,aresample=48000,apad',
            '-t', f'{self.total:.3f}', '-ac', '2', '-c:a', 'aac', '-b:a', '192k', os.path.join(self.out, 'vo.m4a'))
 
-        def edge(n):
-            card = self.by_n[n]['kind'] == 'card'
-            return self.by_n[n]['start'] - (1.5 if card else 3.0), (5.0 if card else 6.0)
+        cards = {ch['row'] for ch in c['chapters']}
+        XF = c.get('music_crossfade', 8.0)
         parts, cues = [], c['music']
         for k, (n, trk, off, gdb) in enumerate(cues):
-            a, fin = edge(n) if k else (0.0, 0.5)
-            a = max(0.0, a)
+            t = self.row_start[n]
+            if k == 0:
+                a, fin = 0.0, 0.5
+            elif n in cards:             # new chapter: the old music is gone before the card, the new one starts with it
+                a, fin = t - 0.2, 1.5
+            else:                        # within a chapter: long, soft cross-fade that ends on the new beat
+                a, fin = t - XF, XF
             if k + 1 < len(cues):
-                b0, fout = edge(cues[k + 1][0]); b = b0 + fout
+                n2 = cues[k + 1][0]; t2 = self.row_start[n2]
+                if n2 in cards:
+                    b, fout = t2 + 0.2, 3.5
+                else:
+                    b, fout = t2, XF
             else:
                 b, fout = self.outro_t + 0.4, 3.5
+            a = max(0.0, a)
             p = os.path.join(tmp, f'mu{k:02d}.wav')
             self._piece(os.path.join(c['lib'], 'muziek', trk + '.mp3'), off, b - a, VO_LUFS + gdb, fin, fout, p)
             parts.append((a, p))
@@ -139,13 +167,13 @@ class M:
 
         parts = []
         for k, (n, nm, d) in enumerate(c.get('ambience', [])):
-            a = max(0, self.by_n[n]['start'] - 0.3); p = os.path.join(tmp, f'am{k:02d}.wav')
+            a = max(0, self.row_start[n] - 0.3); p = os.path.join(tmp, f'am{k:02d}.wav')
             self._piece(os.path.join(c['lib'], 'sfeer', nm + '.mp3'), 0, d, VO_LUFS - 26, 1.0, 3.5, p)
             parts.append((a, p))
         self._place(parts, os.path.join(self.out, 'ambience.m4a'))
 
         w = c.get('whoosh') or {}
-        self._place([(max(0, self.by_n[n]['start'] - 0.15), w['src']) for n in w.get('rows', [])],
+        self._place([(max(0, self.row_start[n] - 0.15), w['src']) for n in w.get('rows', [])],
                     os.path.join(self.out, 'sfx.m4a'))
 
         p = os.path.join(tmp, 'jingle.wav')
@@ -165,6 +193,10 @@ class M:
                               'zoom': (1.0, 1.0), 'src_dur': dur_of(os.path.join(self.out, s['src']))})
             elif s['kind'] == 'card':
                 shots.append({'path': f"{md}/{s['src']}", 'w': 1920, 'h': 1080, 'start': s['start'], 'dur': dur, 'zoom': (1.0, 1.04)})
+            elif s['n'] in c.get('zoom', {}):          # special move, e.g. a long zoom-out over a whole route
+                z0, z1, ax, ay = c['zoom'][s['n']]
+                shots.append({'path': f"{md}/{s['src']}", 'w': 1920, 'h': 1080, 'start': s['start'], 'dur': dur,
+                              'zoom': (z0, z1), 'anchor': (ax, ay)})
             else:
                 z = (1.02, 1.05) if dur >= 3 else (1.02, 1.035)
                 shots.append({'path': f"{md}/{s['src']}", 'w': 1920, 'h': 1080, 'start': s['start'], 'dur': dur,

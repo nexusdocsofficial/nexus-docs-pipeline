@@ -85,7 +85,7 @@
   "end": 35.2,
   "dur": 5.020000000000003,
   "refs": [],
-  "prompt": "Hand-drawn cartoon illustration, 16:9, full frame, no borders. Simple stickman characters with round white heads, thick black outlines, simple facial expressions. Clean bold lines, flat vibrant colors, soft shading. Simple flat cartoon backgrounds, not realistic; every stickman has a visible simple face. Only show flags that are explicitly described. Plain pure white background, no scenery. Minimal composition: two giant old wooden doors standing in the sea are slamming shut in front of a small modern grey warship, motion lines, a worried face on the ship. Only the essential elements, lots of white space. No people or stickmen in the image."
+  "prompt": "Hand-drawn cartoon illustration, 16:9, full frame, no borders. Simple stickman characters with round white heads, thick black outlines, simple facial expressions. Clean bold lines, flat vibrant colors, soft shading. Simple flat cartoon backgrounds, not realistic; every stickman has a visible simple face. Only show flags that are explicitly described. Illustrated map on a beige parchment background with soft blue seas, hand-drawn style with clear colored regions: a dark dramatic parchment map of Russia at dusk under storm clouds: its three narrow sea exits (the Danish straits, the Bosporus and the frozen Arctic) each shut by a heavy iron padlock glowing red, tiny modern grey warship icons stuck behind them, ominous mood. Readable, simple, no small text. No people or stickmen in the image. Present day: any ships, buildings and icons are modern."
  },
  {
   "n": "12",
@@ -188,10 +188,18 @@
   "prompt": "Hand-drawn cartoon illustration, 16:9, full frame, no borders. Simple stickman characters with round white heads, thick black outlines, simple facial expressions. Clean bold lines, flat vibrant colors, soft shading. Simple flat cartoon backgrounds, not realistic; every stickman has a visible simple face. Only show flags that are explicitly described. Illustrated map on a beige parchment background with soft blue seas, hand-drawn style with clear colored regions: a map of the narrow Danish straits with one small ship squeezing through the tight gap between Denmark and Sweden, label 'DENMARK'. Readable, simple, no small text. No people or stickmen in the image."
  },
  {
-  "n": "23",
+  "n": "23m",
   "start": 81.14,
+  "end": 83.06,
+  "dur": 1.9200000000000017,
+  "refs": [],
+  "prompt": "Hand-drawn cartoon illustration, 16:9, full frame, no borders. Simple stickman characters with round white heads, thick black outlines, simple facial expressions. Clean bold lines, flat vibrant colors, soft shading. Simple flat cartoon backgrounds, not realistic; every stickman has a visible simple face. Only show flags that are explicitly described. Illustrated map on a beige parchment background with soft blue seas, hand-drawn style with clear colored regions: a map of the Black Sea and the eastern Mediterranean with the very narrow Bosporus strait between them circled in red, a big red pin labelled 'ISTANBUL' right on the strait, a dotted ship route from the Black Sea through the strait into the Mediterranean. Readable, simple, no small text. No people or stickmen in the image. Present day: any ships, buildings and icons are modern."
+ },
+ {
+  "n": "23",
+  "start": 83.06,
   "end": 86.58,
-  "dur": 5.439999999999998,
+  "dur": 3.519999999999996,
   "refs": [],
   "prompt": "Hand-drawn cartoon illustration, 16:9, full frame, no borders. Simple stickman characters with round white heads, thick black outlines, simple facial expressions. Clean bold lines, flat vibrant colors, soft shading. Simple flat cartoon backgrounds, not realistic; every stickman has a visible simple face. Only show flags that are explicitly described. Fully colored background scene drawn in simple flat cartoon shapes: a ship sailing through the narrow Bosporus strait right through the middle of Istanbul, mosques with domes and minarets and houses on both banks, a long bridge overhead. Warm, rich colors, storybook documentary feel. Present day: modern clothing, modern ships and objects."
  },
@@ -270,8 +278,10 @@
   "start": 121.04,
   "end": 123.94,
   "dur": 2.8999999999999915,
-  "refs": [],
-  "prompt": "Hand-drawn cartoon illustration, 16:9, full frame, no borders. Simple stickman characters with round white heads, thick black outlines, simple facial expressions. Clean bold lines, flat vibrant colors, soft shading. Simple flat cartoon backgrounds, not realistic; every stickman has a visible simple face. Only show flags that are explicitly described. Fully colored background scene drawn in simple flat cartoon shapes: the same giant wooden window frame now covered in frost and icicles, the river and harbor behind it frozen white, sailing ships stuck in the ice. Warm, rich colors, storybook documentary feel. HISTORICAL ACCURACY, this scene takes place in the 1700s: all clothing, ships, weapons and buildings are authentic for that time. No modern clothes, no modern long neckties, no modern objects."
+  "refs": [
+   "31"
+  ],
+  "prompt": "Hand-drawn cartoon illustration, 16:9, full frame, no borders. Simple stickman characters with round white heads, thick black outlines, simple facial expressions. Clean bold lines, flat vibrant colors, soft shading. Simple flat cartoon backgrounds, not realistic; every stickman has a visible simple face. Only show flags that are explicitly described. Fully colored background scene drawn in simple flat cartoon shapes: the same giant wooden window frame, but now the window is CLOSED: frost flowers on every glass pane and icicles hanging from the frame; through the frosted glass the river and harbor are frozen white with sailing ships stuck in the ice; two stickmen in 1700s coats stand inside, shivering, looking out through the closed glass. Warm, rich colors, storybook documentary feel. HISTORICAL ACCURACY, this scene takes place in the 1700s: all clothing, ships, weapons and buildings are authentic for that time. No modern clothes, no modern long neckties, no modern objects."
  },
  {
   "n": "33",
@@ -441,7 +451,7 @@
   "refs": [
    "50"
   ],
-  "prompt": "Hand-drawn cartoon illustration, 16:9, full frame, no borders. Simple stickman characters with round white heads, thick black outlines, simple facial expressions. Clean bold lines, flat vibrant colors, soft shading. Simple flat cartoon backgrounds, not realistic; every stickman has a visible simple face. Only show flags that are explicitly described. Fully colored background scene drawn in simple flat cartoon shapes: Russian foreign minister Gorchakov as a stickman with round spectacles, grey side-whiskers and a black 1870s frock coat pressing a red wax seal onto a letter with a confident smile. Warm, rich colors, storybook documentary feel. HISTORICAL ACCURACY, this scene takes place in 1870: all clothing, ships, weapons and buildings are authentic for that time. No modern clothes, no modern long neckties, no modern objects."
+  "prompt": "Hand-drawn cartoon illustration, 16:9, full frame, no borders. Simple stickman characters with round white heads, thick black outlines, simple facial expressions. Clean bold lines, flat vibrant colors, soft shading. Simple flat cartoon backgrounds, not realistic; every stickman has a visible simple face. Only show flags that are explicitly described. Fully colored background scene drawn in simple flat cartoon shapes: Russian foreign minister Gorchakov as a stickman with round spectacles, grey side-whiskers and a black 1870s frock coat in the same study, holding up a letter full of neat handwritten lines (unreadable scribbles, clearly written) with a red wax seal at the bottom, a confident smile. Warm, rich colors, storybook documentary feel. HISTORICAL ACCURACY, this scene takes place in 1870: all clothing, ships, weapons and buildings are authentic for that time. No modern clothes, no modern long neckties, no modern objects."
  },
  {
   "n": "52",
@@ -593,7 +603,7 @@
   "end": 277.52,
   "dur": 6.240000000000009,
   "refs": [],
-  "prompt": "Hand-drawn cartoon illustration, 16:9, full frame, no borders. Simple stickman characters with round white heads, thick black outlines, simple facial expressions. Clean bold lines, flat vibrant colors, soft shading. Simple flat cartoon backgrounds, not realistic; every stickman has a visible simple face. Only show flags that are explicitly described. Dark charcoal background with red glowing cracks. A torn parchment strip across the center with bold text 'TSUSHIMA 1905', a faint silhouette of a sinking battleship. No people or stickmen in the image. HISTORICAL ACCURACY, this is 1905: all ships, weapons and buildings (also small icons) are authentic for that time, no modern ships or objects."
+  "prompt": "Hand-drawn cartoon illustration, 16:9, full frame, no borders. Simple stickman characters with round white heads, thick black outlines, simple facial expressions. Clean bold lines, flat vibrant colors, soft shading. Simple flat cartoon backgrounds, not realistic; every stickman has a visible simple face. Only show flags that are explicitly described. Fully colored background scene drawn in simple flat cartoon shapes: the aftermath of a sea battle at dusk: many black Russian 1905 steam battleships with tall funnels sinking and burning, broken masts, wreckage and lifeboats with stickman sailors on a dark smoky sea, orange fires reflecting in the water, a torn parchment banner 'TSUSHIMA 1905' at the top; no flags. Warm, rich colors, storybook documentary feel. HISTORICAL ACCURACY, this scene takes place in 1905: all clothing, ships, weapons and buildings are authentic for that time. No modern clothes, no modern long neckties, no modern objects."
  },
  {
   "n": "K3",
@@ -741,7 +751,7 @@
   "end": 345.68,
   "dur": 2.9599999999999795,
   "refs": [],
-  "prompt": "Hand-drawn cartoon illustration, 16:9, full frame, no borders. Simple stickman characters with round white heads, thick black outlines, simple facial expressions. Clean bold lines, flat vibrant colors, soft shading. Simple flat cartoon backgrounds, not realistic; every stickman has a visible simple face. Only show flags that are explicitly described. Fully colored background scene drawn in simple flat cartoon shapes: stickman historians with glasses in a library shaking their heads at the same book titled 'WARM WATER', one holding a magnifying glass. Warm, rich colors, storybook documentary feel. Present day: modern clothing, modern ships and objects."
+  "prompt": "Hand-drawn cartoon illustration, 16:9, full frame, no borders. Simple stickman characters with round white heads, thick black outlines, simple facial expressions. Clean bold lines, flat vibrant colors, soft shading. Simple flat cartoon backgrounds, not realistic; every stickman has a visible simple face. Only show flags that are explicitly described. Fully colored background scene drawn in simple flat cartoon shapes: stickman historians with glasses in a library leaning over a huge thick old encyclopedia that lies open on a desk FACING THEM (the viewer sees the pages upside down and from a distance): dense tiny unreadable text and small faded illustrations, no title and no readable words; they are frowning and shaking their heads, one holds a magnifying glass over the page. Warm, rich colors, storybook documentary feel. Present day: modern clothing, modern ships and objects."
  },
  {
   "n": "88",
@@ -879,7 +889,7 @@
   "end": 410.072,
   "dur": 2.240000000000009,
   "refs": [],
-  "prompt": "Hand-drawn cartoon illustration, 16:9, full frame, no borders. Simple stickman characters with round white heads, thick black outlines, simple facial expressions. Clean bold lines, flat vibrant colors, soft shading. Simple flat cartoon backgrounds, not realistic; every stickman has a visible simple face. Only show flags that are explicitly described. Fully colored background scene drawn in simple flat cartoon shapes: a big barrier gate across the Bosporus strait with a sign 'CLOSED TO WARSHIPS', modern grey warships waiting in front of it, Istanbul skyline; no people. Warm, rich colors, storybook documentary feel. Present day: modern clothing, modern ships and objects."
+  "prompt": "Hand-drawn cartoon illustration, 16:9, full frame, no borders. Simple stickman characters with round white heads, thick black outlines, simple facial expressions. Clean bold lines, flat vibrant colors, soft shading. Simple flat cartoon backgrounds, not realistic; every stickman has a visible simple face. Only show flags that are explicitly described. Fully colored background scene drawn in simple flat cartoon shapes: a huge closed steel lock gate (two massive riveted metal doors like a canal lock) spanning the whole Bosporus strait between the two shores, a sign 'CLOSED TO WARSHIPS' on it, modern grey warships waiting in front of it, Istanbul skyline with domes behind; no people. Warm, rich colors, storybook documentary feel. Present day: modern clothing, modern ships and objects."
  },
  {
   "n": "104",
@@ -959,7 +969,7 @@
   "end": 454.032,
   "dur": 4.4599999999999795,
   "refs": [],
-  "prompt": "Hand-drawn cartoon illustration, 16:9, full frame, no borders. Simple stickman characters with round white heads, thick black outlines, simple facial expressions. Clean bold lines, flat vibrant colors, soft shading. Simple flat cartoon backgrounds, not realistic; every stickman has a visible simple face. Only show flags that are explicitly described. Illustrated map on a beige parchment background with soft blue seas, hand-drawn style with clear colored regions: a map of the Baltic Sea region with Finland highlighted in NATO blue and a small banner '2023'. Readable, simple, no small text. No people or stickmen in the image."
+  "prompt": "Hand-drawn cartoon illustration, 16:9, full frame, no borders. Simple stickman characters with round white heads, thick black outlines, simple facial expressions. Clean bold lines, flat vibrant colors, soft shading. Simple flat cartoon backgrounds, not realistic; every stickman has a visible simple face. Only show flags that are explicitly described. Illustrated map on a beige parchment background with soft blue seas, hand-drawn style with clear colored regions: a map of the Baltic Sea region: Norway, Denmark, Germany, Poland, Estonia, Latvia and Lithuania already NATO blue, Finland now also turning NATO blue and glowing (newly joined), Sweden still plain beige, Russia plain grey, a small banner '2023'. Readable, simple, no small text. No people or stickmen in the image."
  },
  {
   "n": "114",
@@ -967,7 +977,7 @@
   "end": 456.672,
   "dur": 2.640000000000043,
   "refs": [],
-  "prompt": "Hand-drawn cartoon illustration, 16:9, full frame, no borders. Simple stickman characters with round white heads, thick black outlines, simple facial expressions. Clean bold lines, flat vibrant colors, soft shading. Simple flat cartoon backgrounds, not realistic; every stickman has a visible simple face. Only show flags that are explicitly described. Illustrated map on a beige parchment background with soft blue seas, hand-drawn style with clear colored regions: the same map of the Baltic Sea region with Sweden now also highlighted in NATO blue and a small banner '2024'. Readable, simple, no small text. No people or stickmen in the image."
+  "prompt": "Hand-drawn cartoon illustration, 16:9, full frame, no borders. Simple stickman characters with round white heads, thick black outlines, simple facial expressions. Clean bold lines, flat vibrant colors, soft shading. Simple flat cartoon backgrounds, not realistic; every stickman has a visible simple face. Only show flags that are explicitly described. Illustrated map on a beige parchment background with soft blue seas, hand-drawn style with clear colored regions: the same map of the Baltic Sea region: Norway, Denmark, Germany, Poland, Estonia, Latvia, Lithuania and Finland NATO blue, Sweden now also turning NATO blue and glowing (newly joined), Russia plain grey, a small banner '2024'. Readable, simple, no small text. No people or stickmen in the image."
  },
  {
   "n": "115",

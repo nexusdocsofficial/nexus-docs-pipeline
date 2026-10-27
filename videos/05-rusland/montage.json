@@ -13,7 +13,7 @@
  "lib": "/mnt/user-data/uploads/flow-mcp-out/NexusDocs-bibliotheek",
  "outro": "/mnt/user-data/uploads/flow-mcp-out/04-Zeldzaam/capcut/outro.mp4",
  "outro_len": 8.0,
- "out": "/tmp/build05",
+ "out": "/tmp/claude-0/-home-claude/ea9af7bd-9d70-57f4-9339-323ceee2e9f6/scratchpad/build05",
  "mac_dir": "/Users/thijsduiker/flow-mcp-out/05-Rusland/capcut",
  "chapters": [
   {
@@ -47,103 +47,97 @@
    "1",
    "06-intrigue",
    6,
-   -18
+   -22
   ],
   [
    "K1",
    "09-dark-waters",
    0,
-   -20
+   -24
   ],
   [
    "26",
    "07-expedition",
    0,
-   -20
+   -24
   ],
   [
    "K2",
    "02-open-seas",
    0,
-   -21
+   -25
   ],
   [
    "44",
    "08-conflict",
    0,
-   -20
+   -24
   ],
   [
    "48",
    "06-intrigue",
    30,
-   -21
+   -25
   ],
   [
    "54",
    "04-rising-tension",
    0,
-   -20
+   -24
   ],
   [
    "63",
    "08-conflict",
    40,
-   -20
+   -24
   ],
   [
    "K3",
    "10-turning-tide",
    0,
-   -21
+   -25
   ],
   [
    "81",
    "07-expedition",
    40,
-   -20
+   -24
   ],
   [
    "85",
    "05-looking-back",
    0,
-   -21
+   -25
   ],
   [
    "K4",
    "04-rising-tension",
    30,
-   -20
+   -24
   ],
   [
    "106",
    "08-conflict",
    70,
-   -20
+   -24
   ],
   [
    "113",
    "09-dark-waters",
    40,
-   -21
-  ],
-  [
-   "119",
-   "06-intrigue",
-   60,
-   -20
+   -25
   ],
   [
    "K5",
-   "02-open-seas",
-   40,
-   -21
+   "03-hidden-story",
+   0,
+   -25
   ],
   [
    "141",
-   "01-curious-beginnings",
-   5,
-   -22
+   "05-looking-back",
+   20,
+   -26
   ]
  ],
  "ambience": [
@@ -161,11 +155,6 @@
    "38",
    "haven-1600",
    6
-  ],
-  [
-   "76",
-   "stad-modern",
-   6
   ]
  ],
  "whoosh": {
@@ -176,5 +165,14 @@
    "107",
    "124"
   ]
- }
+ },
+ "zoom": {
+  "60": [
+   1.6,
+   1.02,
+   760,
+   200
+  ]
+ },
+ "music_crossfade": 8.0
 }

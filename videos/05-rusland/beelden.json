@@ -83,9 +83,9 @@
   {
    "n": "11",
    "anchor": "And today, those same",
-   "type": "concept",
-   "beeld": "two giant old wooden doors standing in the sea are slamming shut in front of a small modern grey warship, motion lines, a worried face on the ship",
-   "era": "none",
+   "type": "kaart",
+   "beeld": "a dark dramatic parchment map of Russia at dusk under storm clouds: its three narrow sea exits (the Danish straits, the Bosporus and the frozen Arctic) each shut by a heavy iron padlock glowing red, tiny modern grey warship icons stuck behind them, ominous mood",
+   "era": "none@now",
    "ref": []
   },
   {
@@ -189,8 +189,16 @@
    "ref": []
   },
   {
-   "n": "23",
+   "n": "23m",
    "anchor": "To get out of the Black",
+   "type": "kaart",
+   "beeld": "a map of the Black Sea and the eastern Mediterranean with the very narrow Bosporus strait between them circled in red, a big red pin labelled 'ISTANBUL' right on the strait, a dotted ship route from the Black Sea through the strait into the Mediterranean",
+   "era": "none@now",
+   "ref": []
+  },
+  {
+   "n": "23",
+   "anchor": "sail right through the",
    "type": "scene",
    "beeld": "a ship sailing through the narrow Bosporus strait right through the middle of Istanbul, mosques with domes and minarets and houses on both banks, a long bridge overhead",
    "era": "now",
@@ -270,9 +278,11 @@
    "n": "32",
    "anchor": "But that window froze",
    "type": "scene",
-   "beeld": "the same giant wooden window frame now covered in frost and icicles, the river and harbor behind it frozen white, sailing ships stuck in the ice",
+   "beeld": "the same giant wooden window frame, but now the window is CLOSED: frost flowers on every glass pane and icicles hanging from the frame; through the frosted glass the river and harbor are frozen white with sailing ships stuck in the ice; two stickmen in 1700s coats stand inside, shivering, looking out through the closed glass",
    "era": "the 1700s",
-   "ref": []
+   "ref": [
+    "31"
+   ]
   },
   {
    "n": "33",
@@ -438,7 +448,7 @@
    "n": "51",
    "anchor": "Russia would no longer",
    "type": "scene",
-   "beeld": "Russian foreign minister Gorchakov as a stickman with round spectacles, grey side-whiskers and a black 1870s frock coat pressing a red wax seal onto a letter with a confident smile",
+   "beeld": "Russian foreign minister Gorchakov as a stickman with round spectacles, grey side-whiskers and a black 1870s frock coat in the same study, holding up a letter full of neat handwritten lines (unreadable scribbles, clearly written) with a red wax seal at the bottom, a confident smile",
    "era": "1870",
    "ref": [
     "50"
@@ -591,9 +601,9 @@
   {
    "n": "70",
    "anchor": "Seven months at sea",
-   "type": "drama",
-   "beeld": "A torn parchment strip across the center with bold text 'TSUSHIMA 1905', a faint silhouette of a sinking battleship",
-   "era": "none@1905",
+   "type": "scene",
+   "beeld": "the aftermath of a sea battle at dusk: many black Russian 1905 steam battleships with tall funnels sinking and burning, broken masts, wreckage and lifeboats with stickman sailors on a dark smoky sea, orange fires reflecting in the water, a torn parchment banner 'TSUSHIMA 1905' at the top; no flags",
+   "era": "1905",
    "ref": []
   },
   {
@@ -740,7 +750,7 @@
    "n": "87",
    "anchor": "but many historians think",
    "type": "scene",
-   "beeld": "stickman historians with glasses in a library shaking their heads at the same book titled 'WARM WATER', one holding a magnifying glass",
+   "beeld": "stickman historians with glasses in a library leaning over a huge thick old encyclopedia that lies open on a desk FACING THEM (the viewer sees the pages upside down and from a distance): dense tiny unreadable text and small faded illustrations, no title and no readable words; they are frowning and shaking their heads, one holds a magnifying glass over the page",
    "era": "now",
    "ref": []
   },
@@ -878,7 +888,7 @@
    "n": "103",
    "anchor": "to warships of countries",
    "type": "scene",
-   "beeld": "a big barrier gate across the Bosporus strait with a sign 'CLOSED TO WARSHIPS', modern grey warships waiting in front of it, Istanbul skyline; no people",
+   "beeld": "a huge closed steel lock gate (two massive riveted metal doors like a canal lock) spanning the whole Bosporus strait between the two shores, a sign 'CLOSED TO WARSHIPS' on it, modern grey warships waiting in front of it, Istanbul skyline with domes behind; no people",
    "era": "now",
    "ref": []
   },
@@ -958,7 +968,7 @@
    "n": "113",
    "anchor": "Now look north. In",
    "type": "kaart",
-   "beeld": "a map of the Baltic Sea region with Finland highlighted in NATO blue and a small banner '2023'",
+   "beeld": "a map of the Baltic Sea region: Norway, Denmark, Germany, Poland, Estonia, Latvia and Lithuania already NATO blue, Finland now also turning NATO blue and glowing (newly joined), Sweden still plain beige, Russia plain grey, a small banner '2023'",
    "era": "none",
    "ref": []
   },
@@ -966,7 +976,7 @@
    "n": "114",
    "anchor": "In twenty twenty-four, Sweden",
    "type": "kaart",
-   "beeld": "the same map of the Baltic Sea region with Sweden now also highlighted in NATO blue and a small banner '2024'",
+   "beeld": "the same map of the Baltic Sea region: Norway, Denmark, Germany, Poland, Estonia, Latvia, Lithuania and Finland NATO blue, Sweden now also turning NATO blue and glowing (newly joined), Russia plain grey, a small banner '2024'",
    "era": "none",
    "ref": []
   },

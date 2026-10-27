@@ -10,7 +10,7 @@
 | 8 | 0:20.3 | and once it sent | kaart | a world map with a long red dotted route of small black warship icons going from the Baltic Sea around Europe and Africa all the way to East Asia |
 | 9 | 0:24.2 | eighteen thousand miles | kaart | the same world map with the long red dotted route around Africa to East Asia, and a very large bold label '18,000 MILES' in the middle |
 | 10 | 0:26.1 | only to lose almost | scene | a dark stormy sea at dusk with several old grey steam battleships with tall funnels sinking, thick black smoke, orange fire glow; no people visible |
-| 11 | 0:30.2 | And today, those same | concept | two giant old wooden doors standing in the sea are slamming shut in front of a small modern grey warship, motion lines, a worried face on the ship |
+| 11 | 0:30.2 | And today, those same | kaart | a dark dramatic parchment map of Russia at dusk under storm clouds: its three narrow sea exits (the Danish straits, the Bosporus and the frozen Arctic) each shut by a heavy iron padlock glowing red, tiny modern grey warship icons stuck behind them, ominous mood |
 | 12 | 0:35.2 | So why is the | concept | a friendly modern stickman narrator in a blue hoodie and jeans standing next to a huge red silhouette of Russia and holding a tiny glass of blue water labelled 'WARM WATER', with a big question mark above his head |
 | 13 | 0:40.5 | Let's look at the | concept | a friendly modern stickman narrator in a blue hoodie and jeans unrolling a large parchment map of Russia on a wooden table and pointing at it |
 | K1 | 0:44.0 | *Chapter One: The Frozen* | card | a frozen Arctic coastline at polar night with a giant old wooden door standing on the ice, covered in snow and icicles, northern lights in the sky |
@@ -23,7 +23,8 @@
 | 20 | 1:11.3 | the Baltic in the | kaart | the same map of western Russia, the north-west sea labelled 'BALTIC SEA' and the southern sea labelled 'BLACK SEA', both glowing blue |
 | 21 | 1:15.8 | But look closer. | kaart | a big magnifying glass over a map of the Baltic Sea, zooming in on the narrow passage between Denmark and Sweden |
 | 22 | 1:18.5 | a ship has to | kaart | a map of the narrow Danish straits with one small ship squeezing through the tight gap between Denmark and Sweden, label 'DENMARK' |
-| 23 | 1:21.1 | To get out of the Black | scene | a ship sailing through the narrow Bosporus strait right through the middle of Istanbul, mosques with domes and minarets and houses on both banks, a long bridge overhead |
+| 23m | 1:21.1 | To get out of the Black | kaart | a map of the Black Sea and the eastern Mediterranean with the very narrow Bosporus strait between them circled in red, a big red pin labelled 'ISTANBUL' right on the strait, a dotted ship route from the Black Sea through the strait into the Mediterranean |
+| 23 | 1:23.1 | sail right through the | scene | a ship sailing through the narrow Bosporus strait right through the middle of Istanbul, mosques with domes and minarets and houses on both banks, a long bridge overhead |
 | 24 | 1:26.6 | Think of Russia as | concept | one very big wide old house labelled with a small sign 'RUSSIA' on a street of small houses; it has several doors: the doors on the top and right side are covered in thick ice and icicles |
 | 25 | 1:29.3 | but every door is | concept | close-up of the big old house labelled 'RUSSIA': one door is frozen shut with thick ice and icicles, another door opens straight into the neighbor's garden where a stickman neighbor stands with crossed arms |
 | 26 | 1:35.1 | The first ruler who | scene | Peter the Great as a very tall thin stickman with a small dark mustache, a dark green 1700s Russian army coat with red cuffs, a black tricorn hat and tall boots standing in front of a map on a wooden table, looking determined, a parchment banner 'PETER THE GREAT' |
@@ -32,7 +33,7 @@
 | 29 | 1:49.2 | A few years later | scene | a battle on a snowy shore: Russian stickman soldiers in dark green coats against Swedish stickman soldiers in blue coats with yellow cuffs, muskets and smoke |
 | 30 | 1:52.5 | and in seventeen oh | scene | stickman workers building a new city of wooden and stone houses on a marshy river bank, Peter the Great as a very tall thin stickman with a small dark mustache, a dark green 1700s Russian army coat with red cuffs, a black tricorn hat and tall boots pointing at the river, a parchment banner '1703' |
 | 31 | 1:57.1 | Saint Petersburg, his window | scene | an elegant 1700s city on a wide river seen through a giant open wooden window frame, a sailing ship heading west toward Europe, a parchment banner 'SAINT PETERSBURG' |
-| 32 | 2:01.0 | But that window froze | scene | the same giant wooden window frame now covered in frost and icicles, the river and harbor behind it frozen white, sailing ships stuck in the ice |
+| 32 | 2:01.0 | But that window froze | scene | the same giant wooden window frame, but now the window is CLOSED: frost flowers on every glass pane and icicles hanging from the frame; through the frosted glass the river and harbor are frozen white with sailing ships stuck in the ice; two stickmen in 1700s coats stand inside, shivering, looking out through the closed glass |
 | 33 | 2:03.9 | and in seventeen eleven | scene | Peter the Great as a very tall thin stickman with a small dark mustache, a dark green 1700s Russian army coat with red cuffs, a black tricorn hat and tall boots looking worried, surrounded on a hill by many Ottoman stickman soldiers with red flags and curved swords, a parchment banner '1711' |
 | 34 | 2:07.3 | Peter had to give | scene | Peter the Great as a very tall thin stickman with a small dark mustache, a dark green 1700s Russian army coat with red cuffs, a black tricorn hat and tall boots reluctantly handing a big old iron key labelled 'AZOV' to an Ottoman stickman official in a turban and robe |
 | 35 | 2:10.4 | One door half open | concept | the big old house labelled 'RUSSIA': one door half open with snow blowing in, and the door on the south side locked with a big padlock |
@@ -52,7 +53,7 @@
 | 48 | 3:10.3 | Russia waited fourteen years | concept | a large hourglass with sand running, calendar pages flying around it, bold text '14 YEARS' |
 | 49 | 3:12.8 | Then in eighteen seventy | scene | French stickman soldiers in blue coats and red kepis retreating in defeat, Prussian stickman soldiers in dark blue with spiked helmets advancing, a parchment banner '1870' |
 | 50 | 3:17.5 | Russia's foreign minister, Alexander | scene | Russian foreign minister Gorchakov as a stickman with round spectacles, grey side-whiskers and a black 1870s frock coat sitting at a large desk writing a letter with a quill, a parchment banner 'GORCHAKOV' |
-| 51 | 3:21.8 | Russia would no longer | scene | Russian foreign minister Gorchakov as a stickman with round spectacles, grey side-whiskers and a black 1870s frock coat pressing a red wax seal onto a letter with a confident smile |
+| 51 | 3:21.8 | Russia would no longer | scene | Russian foreign minister Gorchakov as a stickman with round spectacles, grey side-whiskers and a black 1870s frock coat in the same study, holding up a letter full of neat handwritten lines (unreadable scribbles, clearly written) with a red wax seal at the bottom, a confident smile |
 | 52 | 3:25.4 | Nobody stopped him. | scene | Russian steam-and-sail warships with the Russian naval ensign (white flag with a blue diagonal cross) sailing back onto the Black Sea, nobody around to stop them; no people visible |
 | 53 | 3:27.6 | So Russia tried the | kaart | a map of Russia with a big arrow sweeping all the way from the west to the Pacific coast in the far east |
 | 54 | 3:30.3 | Its Pacific port, Vladivostok | scene | a snowy harbor town on hills in winter with wooden houses and steamships frozen in the white ice of the bay, a parchment banner 'VLADIVOSTOK'; no people |
@@ -71,7 +72,7 @@
 | 67 | 4:19.5 | and in May nineteen | kaart | a map of the strait between Korea and Japan with a red pin 'TSUSHIMA' on the island and a small banner '1905' |
 | 68 | 4:23.0 | the Japanese Navy was | scene | a line of grey Japanese battleships waiting in the morning mist with the Japanese naval flag (white with a red sun and sixteen red rays); no people visible |
 | 69 | 4:26.0 | Out of thirty-eight Russian | concept | 38 small black warship icons in neat rows, 35 of them crossed out in red and only 3 left, bold text '3 OF 38' |
-| 70 | 4:31.3 | Seven months at sea | drama | A torn parchment strip across the center with bold text 'TSUSHIMA 1905', a faint silhouette of a sinking battleship |
+| 70 | 4:31.3 | Seven months at sea | scene | the aftermath of a sea battle at dusk: many black Russian 1905 steam battleships with tall funnels sinking and burning, broken masts, wreckage and lifeboats with stickman sailors on a dark smoky sea, orange fires reflecting in the water, a torn parchment banner 'TSUSHIMA 1905' at the top; no flags |
 | K3 | 4:37.5 | *Chapter Three: The Warm* | card | a dark Arctic harbor at polar night with snowy mountains, but the water in the harbor is open and dark blue with steam rising, warm golden light from one big open door on the shore |
 | 71 | 4:43.3 | Ten years later, in | scene | Russian stickman soldiers in First World War khaki uniforms and caps in a muddy trench, a parchment banner '1914' |
 | 72 | 4:45.8 | Russia's Baltic and Black | kaart | a map of Europe in 1915 with the Baltic Sea blocked by German warship icons and the Bosporus blocked by an Ottoman barrier, both marked with big red X's |
@@ -89,7 +90,7 @@
 | 84 | 5:31.4 | The coldest corner of | concept | the big old house labelled 'RUSSIA': its snowiest back door at the top is wide open and warm golden light shines out of it |
 | 85 | 5:36.8 | But here's the part | concept | a friendly modern stickman narrator in a blue hoodie and jeans holding up one finger with a surprised face, a big red text 'BUT...' |
 | 86 | 5:40.1 | That warm water story | concept | a big old book titled 'WARM WATER' on a stand with a spotlight, stickmen applauding it |
-| 87 | 5:42.7 | but many historians think | scene | stickman historians with glasses in a library shaking their heads at the same book titled 'WARM WATER', one holding a magnifying glass |
+| 87 | 5:42.7 | but many historians think | scene | stickman historians with glasses in a library leaning over a huge thick old encyclopedia that lies open on a desk FACING THEM (the viewer sees the pages upside down and from a distance): dense tiny unreadable text and small faded illustrations, no title and no readable words; they are frowning and shaking their heads, one holds a magnifying glass over the page |
 | 88 | 5:45.7 | Russia didn't push south | kaart | a map of Russia and the lands to its south with several big arrows pushing southward from Russia |
 | 89 | 5:48.6 | It also wanted the | scene | wide golden wheat fields of the steppe under a big blue sky, a stickman farmer in a 1700s peasant tunic with a scythe |
 | 90 | 5:51.6 | and an end to | scene | Crimean Tatar stickman riders on horseback galloping across the steppe with bows, dust clouds |
@@ -106,7 +107,7 @@
 | 100 | 6:36.0 | Then in twenty twenty-two | tijdlijn | A glowing red arrow points at the far right end of the timeline with large bold text '2022' |
 | 101 | 6:39.8 | and the old geography | kaart | an old parchment map of the Black Sea and the Bosporus with the narrow strait glowing bright red |
 | 102 | 6:43.5 | Turkey used a treaty | scene | a Turkish stickman official in a modern suit at the Bosporus shore holding an old document labelled 'MONTREUX 1936', the Turkish flag (red with a white crescent and star) behind him |
-| 103 | 6:47.8 | to warships of countries | scene | a big barrier gate across the Bosporus strait with a sign 'CLOSED TO WARSHIPS', modern grey warships waiting in front of it, Istanbul skyline; no people |
+| 103 | 6:47.8 | to warships of countries | scene | a huge closed steel lock gate (two massive riveted metal doors like a canal lock) spanning the whole Bosporus strait between the two shores, a sign 'CLOSED TO WARSHIPS' on it, modern grey warships waiting in front of it, Istanbul skyline with domes behind; no people |
 | 104 | 6:50.1 | Russian warships that were | scene | a modern grey Russian warship with the Russian naval ensign (white flag with a blue diagonal cross) in the Mediterranean outside the closed Bosporus gate, with a sad face |
 | 105 | 6:52.8 | could no longer get | kaart | a map of the Bosporus with a warship icon outside it and a red 'X' over the passage |
 | 106 | 6:56.1 | Inside the Black Sea | scene | at night, small low black uncrewed sea drone boats racing across dark waves toward a big grey warship, white wakes, a small Ukrainian flag (blue over yellow) on the side of the scene; no people |
@@ -116,8 +117,8 @@
 | 110 | 7:15.2 | and Ukraine reopened its | scene | a cargo ship full of golden grain sailing along a coast with a Ukrainian flag (blue over yellow), sunflowers on the shore; no people |
 | 111 | 7:21.0 | The warm water port | scene | the modern harbor of Sevastopol under dark clouds with warning signs and a lonely warship hiding behind a barrier; no people |
 | 112 | 7:24.4 | had become one of | concept | a big red warning sign with an exclamation mark planted in front of a harbor drawing |
-| 113 | 7:29.6 | Now look north. In | kaart | a map of the Baltic Sea region with Finland highlighted in NATO blue and a small banner '2023' |
-| 114 | 7:34.0 | In twenty twenty-four, Sweden | kaart | the same map of the Baltic Sea region with Sweden now also highlighted in NATO blue and a small banner '2024' |
+| 113 | 7:29.6 | Now look north. In | kaart | a map of the Baltic Sea region: Norway, Denmark, Germany, Poland, Estonia, Latvia and Lithuania already NATO blue, Finland now also turning NATO blue and glowing (newly joined), Sweden still plain beige, Russia plain grey, a small banner '2023' |
+| 114 | 7:34.0 | In twenty twenty-four, Sweden | kaart | the same map of the Baltic Sea region: Norway, Denmark, Germany, Poland, Estonia, Latvia, Lithuania and Finland NATO blue, Sweden now also turning NATO blue and glowing (newly joined), Russia plain grey, a small banner '2024' |
 | 115 | 7:36.7 | Today, every country around | kaart | a map of the Baltic Sea where all the countries around it are blue, and only two small pieces of Russia (Saint Petersburg and Kaliningrad) are red |
 | 116 | 7:40.4 | except one, Russia | kaart | a close-up of the map of the Baltic Sea: only Russia's small coast at Saint Petersburg and the small Kaliningrad piece are red, all around them blue |
 | 117 | 7:43.7 | Remember the neighbor's garden | concept | the big old house labelled 'RUSSIA' next to its neighbors' gardens |

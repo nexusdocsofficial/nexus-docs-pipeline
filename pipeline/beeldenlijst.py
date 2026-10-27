@@ -36,6 +36,8 @@ ERAS = {
 def era_text(e):
     if "@" in e:   # e.g. "none@1905": no people, but ships/buildings must fit the period
         base, period = e.split("@", 1)
+        if period in ("now", "the present day"):
+            return era_text(base) + " Present day: any ships, buildings and icons are modern."
         return (era_text(base) + f" HISTORICAL ACCURACY, this is {period}: all ships, weapons and buildings "
                 f"(also small icons) are authentic for that time, no modern ships or objects.")
     if e in ERAS:
