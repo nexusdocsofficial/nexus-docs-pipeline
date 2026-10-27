@@ -4,8 +4,9 @@ Uses a real CapCut draft (template_draft_info.json) as the schema source, then f
   video track 1 : stills with zoom keyframes (and anchored zoom for chapter cards)
   audio tracks  : voice-over, music, ambience, sfx (each a separate stem, so volumes can be changed in CapCut)
 
-usage (from python): build(name, shots, stems, mac_media_dir, out_dir)
-  shots : list of dicts {path (Mac path), w, h, start, dur, zoom: (z0, z1), anchor: (px, py) or None}
+usage (from python): build(name, shots, stems, out_dir, ids=None)
+  shots : list of dicts {path (Mac path), w, h, start, dur, zoom: (z0, z1), anchor: (px, py) or None, src_dur (video)}
+  Normally driven by pipeline.montage (montage.json per video).
   stems : list of dicts {name, path (Mac path), dur, volume}
 """
 import json, copy, uuid, time, os
@@ -41,9 +42,12 @@ def kf(prop, pts):
                                'right_control': {'x': 0.0, 'y': 0.0}, 'values': [float(v)], 'string_value': '', 'graphID': ''}
                               for t, v in pts]}
 
-def build(name, shots, stems, out_dir):
+def build(name, shots, stems, out_dir, ids=None):
+    """ids: reuse an existing (empty) CapCut project: {'timeline': draft_info id, 'project': Timelines/project.json id,
+    'meta': draft_meta_info draft_id}. Then copy out_dir over that project folder (CapCut closed)."""
+    ids = ids or {}
     d = copy.deepcopy(TPL)
-    did = U()
+    did = ids.get('timeline') or U()
     d['id'] = did; d['name'] = name
     mats = d['materials']
     for k in mats:
@@ -58,7 +62,11 @@ def build(name, shots, stems, out_dir):
     for i, s in enumerate(shots):
         m = copy.deepcopy(T_VID); m['id'] = u(); m['unique_id'] = uuid.uuid4().hex
         m['path'] = s['path']; m['material_name'] = os.path.basename(s['path'])
-        m['width'], m['height'] = s['w'], s['h']; m['duration'] = 10_800_000_000; m['type'] = 'photo'
+        m['width'], m['height'] = s['w'], s['h']
+        if s['path'].lower().endswith(('.mp4', '.mov')):   # video clip (e.g. the animated outro)
+            m['type'] = 'video'; m['duration'] = us(s.get('src_dur', s['dur']))
+        else:
+            m['type'] = 'photo'; m['duration'] = 10_800_000_000
         mats['videos'].append(m)
         refs = [aux(mats, k) for k in ['speeds', 'placeholder_infos', 'canvases', 'material_animations',
                                        'sound_channel_mappings', 'material_colors', 'loudnesses', 'vocal_separations']]
@@ -86,7 +94,8 @@ def build(name, shots, stems, out_dir):
         seg['common_keyframes'] = kfs
         seg['render_index'] = 0; seg['track_render_index'] = 0
         vt['segments'].append(seg)
-        meta_items.append({'file_Path': s['path'], 'metetype': 'photo', 'width': s['w'], 'height': s['h'], 'duration': 5_000_000})
+        meta_items.append({'file_Path': s['path'], 'metetype': m['type'], 'width': s['w'], 'height': s['h'],
+                           'duration': 5_000_000 if m['type'] == 'photo' else m['duration']})
     tracks.append(vt)
 
     # ---- audio tracks, one per stem ----
@@ -116,7 +125,7 @@ def build(name, shots, stems, out_dir):
         open(p, 'w', encoding='utf-8').write(js)
     tnow = int(time.time() * 1e6)
     json.dump({'config': {'color_space': -1, 'hdr_vivid': False, 'mixed_track_mode_on': False, 'render_index_track_mode_on': True,
-                          'use_float_render': False}, 'create_time': tnow, 'id': did, 'main_timeline_id': did,
+                          'use_float_render': False}, 'create_time': tnow, 'id': ids.get('project', did), 'main_timeline_id': did,
                'timelines': [{'create_time': tnow, 'id': did, 'is_marked_delete': False, 'name': 'Timeline 01', 'update_time': tnow}],
                'update_time': tnow, 'version': 0}, open(f'{out_dir}/Timelines/project.json', 'w'))
     json.dump({'dockItems': [{'dockIndex': 0, 'ratio': 1, 'timelineIds': [did], 'timelineNames': ['Timeline 01']}], 'layoutOrientation': 1},
@@ -125,7 +134,7 @@ def build(name, shots, stems, out_dir):
     json.dump({'is_auto_agency_enabled': False, 'is_auto_agency_popup': False, 'is_single_agency_mode': False, 'marterials': None,
                'use_converter': False, 'video_resolution': 720}, open(f'{out_dir}/draft_agency_config.json', 'w'))
     meta = copy.deepcopy(TPL_META)
-    mid = U()
+    mid = ids.get('meta') or U()
     meta.update({'draft_id': mid, 'draft_name': name, 'draft_fold_path': fold, 'draft_cover': '', 'tm_draft_create': tnow,
                  'tm_draft_modified': tnow, 'tm_duration': d['duration'], 'draft_timeline_materials_size_': 0})
     items = []

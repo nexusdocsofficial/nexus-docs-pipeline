@@ -1,0 +1,180 @@
+{
+ "name": "05",
+ "ids": {
+  "timeline": "A01CDD3D-DAA6-4DFF-8C3E-8569BBB4EDBF",
+  "project": "F87EF784-B115-4085-9149-3AB3EE0EEDCD",
+  "meta": "7E8206E8-B2D9-4DCB-9251-C9368E480FA4"
+ },
+ "img_root": "/mnt/user-data/uploads/flow-mcp-out",
+ "files": "beeld-bestanden.json",
+ "prompts": "prompts.json",
+ "words": "words.json",
+ "vo": "/mnt/user-data/uploads/flow-mcp-out/05-Rusland/05-rusland-voiceover-v2.mp3",
+ "lib": "/mnt/user-data/uploads/flow-mcp-out/NexusDocs-bibliotheek",
+ "outro": "/mnt/user-data/uploads/flow-mcp-out/04-Zeldzaam/capcut/outro.mp4",
+ "outro_len": 8.0,
+ "out": "/tmp/build05",
+ "mac_dir": "/Users/thijsduiker/flow-mcp-out/05-Rusland/capcut",
+ "chapters": [
+  {
+   "n": 1,
+   "row": "K1",
+   "title": "The Frozen Doors"
+  },
+  {
+   "n": 2,
+   "row": "K2",
+   "title": "Three Hundred Years of Knocking"
+  },
+  {
+   "n": 3,
+   "row": "K3",
+   "title": "The Warm Door in the Arctic"
+  },
+  {
+   "n": 4,
+   "row": "K4",
+   "title": "The Doors Slam Shut"
+  },
+  {
+   "n": 5,
+   "row": "K5",
+   "title": "Looking for New Doors"
+  }
+ ],
+ "music": [
+  [
+   "1",
+   "06-intrigue",
+   6,
+   -18
+  ],
+  [
+   "K1",
+   "09-dark-waters",
+   0,
+   -20
+  ],
+  [
+   "26",
+   "07-expedition",
+   0,
+   -20
+  ],
+  [
+   "K2",
+   "02-open-seas",
+   0,
+   -21
+  ],
+  [
+   "44",
+   "08-conflict",
+   0,
+   -20
+  ],
+  [
+   "48",
+   "06-intrigue",
+   30,
+   -21
+  ],
+  [
+   "54",
+   "04-rising-tension",
+   0,
+   -20
+  ],
+  [
+   "63",
+   "08-conflict",
+   40,
+   -20
+  ],
+  [
+   "K3",
+   "10-turning-tide",
+   0,
+   -21
+  ],
+  [
+   "81",
+   "07-expedition",
+   40,
+   -20
+  ],
+  [
+   "85",
+   "05-looking-back",
+   0,
+   -21
+  ],
+  [
+   "K4",
+   "04-rising-tension",
+   30,
+   -20
+  ],
+  [
+   "106",
+   "08-conflict",
+   70,
+   -20
+  ],
+  [
+   "113",
+   "09-dark-waters",
+   40,
+   -21
+  ],
+  [
+   "119",
+   "06-intrigue",
+   60,
+   -20
+  ],
+  [
+   "K5",
+   "02-open-seas",
+   40,
+   -21
+  ],
+  [
+   "141",
+   "01-curious-beginnings",
+   5,
+   -22
+  ]
+ ],
+ "ambience": [
+  [
+   "4",
+   "haven-1600",
+   6
+  ],
+  [
+   "27",
+   "bos-rivier",
+   6
+  ],
+  [
+   "38",
+   "haven-1600",
+   6
+  ],
+  [
+   "76",
+   "stad-modern",
+   6
+  ]
+ ],
+ "whoosh": {
+  "src": "/mnt/user-data/uploads/flow-mcp-out/NexusDocs-bibliotheek/sfx/whoosh-low.wav",
+  "rows": [
+   "11",
+   "70",
+   "107",
+   "124"
+  ]
+ }
+}
