@@ -1,0 +1,10 @@
+{
+ "src": "/home/claude/work/src/final04.mp4",
+ "words": "/home/claude/work/diar.json",
+ "out": "/home/claude/work/shorts",
+ "shorts": {
+  "A": {"file": "04-short-A-one-country", "title": ["ONE COUNTRY HOLDS", "YOUR PHONE'S MAGNET"], "parts": [["s1", "s5", null], ["s56", "s57", 265.47, 0.15]]},
+  "B": {"file": "04-short-B-not-rare", "title": ["RARE EARTHS", "AREN'T RARE?!"], "parts": [["s13", "s20", 70.22, 0, 101.45]]},
+  "C": {"file": "04-short-C-japan-2010", "title": ["THE DAY CHINA", "CUT OFF JAPAN"], "parts": [["s63", "s63", 295.67, 0.08], ["s67", "s78", 307.21, 0.08]]}
+ }
+}

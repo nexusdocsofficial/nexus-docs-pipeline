@@ -2,7 +2,9 @@
 
 config json: {"src": "final.mp4", "words": "diar.json or words.json", "out": "out dir",
               "shorts": {"A": {"file": "...", "title": ["LINE 1", "LINE 2"], "parts": [["s1","s7",null], ...]}}}
-parts: sentence ids from the transcript (s1, s2 ...) with an optional exact start time (start on an image cut).
+parts: sentence ids from the transcript (s1, s2 ...) with an optional exact start time (start on an image cut),
+       an optional 4th value = audio lead in seconds (voice starts just before the image cut: the first frame
+       is held while the audio runs in) and an optional 5th value = exact end time (end before the next image cut).
 usage: python3 -m pipeline.make_shorts config.json [A B C]
 
 
@@ -57,17 +59,22 @@ def build(sid):
     cfg = SHORTS[sid]
     # 1) segments in source time
     segs = []
-    for a, b, start in cfg['parts']:
+    for p in cfg['parts']:
+        a, b = p[0], p[1]
+        start = p[2] if len(p) > 2 else None
+        lead = (p[3] if len(p) > 3 and p[3] else 0.0)
+        end = p[4] if len(p) > 4 and p[4] is not None else None
         st = start if start is not None else max(0.0, SENT[a]['start'] - PAD_IN)
-        en = SENT[b]['end'] + PAD_OUT
-        segs.append((st, en))
-    # 2) words remapped to short time
+        en = end if end is not None else SENT[b]['end'] + PAD_OUT
+        segs.append((st, en, lead))
+    # 2) words remapped to short time (audio of a part starts at st - lead)
     words, off = [], 0.0
-    for st, en in segs:
+    for st, en, lead in segs:
+        ast = st - lead
         for w in W:
-            if w['start'] >= st - 0.05 and w['end'] <= en:
-                words.append({'text': w['text'], 'start': max(w['start'], st) - st + off, 'end': w['end'] - st + off})
-        off += en - st
+            if w['start'] >= ast - 0.05 and w['end'] <= en + 0.05:
+                words.append({'text': w['text'], 'start': max(w['start'], ast) - ast + off, 'end': min(w['end'], en) - ast + off})
+        off += en - ast
     total = off
 
     # 3) ASS file: title, captions (word highlight), end tag
@@ -117,14 +124,17 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
     # 4) ffmpeg: trim + concat source segments
     n = len(segs)
     fc, inputs = [], []
-    for i, (st, en) in enumerate(segs):
+    for i, (st, en, lead) in enumerate(segs):
         d = en - st
         last = i == n - 1
+        # audio lead: hold the first frame while the voice runs in; total part length d + lead
         # parts after the first get XF of audio pre-roll, crossfaded under the end of the previous part
-        ast, ad = (st - XF, d + XF) if i > 0 else (st, d)
-        inputs += ['-ss', f'{st:.3f}', '-t', f'{d:.3f}', '-i', SRC]
+        ast, ad = (st - lead - XF, d + lead + XF) if i > 0 else (st - lead, d + lead)
+        d = d + lead
+        inputs += ['-ss', f'{st:.3f}', '-t', f'{en - st:.3f}', '-i', SRC]
         inputs += ['-ss', f'{ast:.3f}', '-t', f'{ad:.3f}', '-i', SRC]
-        fc.append(f"[{2*i}:v]setpts=PTS-STARTPTS[v{i}]")
+        hold = f",tpad=start_duration={lead:.3f}:start_mode=clone" if lead else ''
+        fc.append(f"[{2*i}:v]setpts=PTS-STARTPTS{hold}[v{i}]")
         fi = 'afade=t=in:d=0.02,' if i == 0 else ''
         fo = f',afade=t=out:st={d-0.30:.3f}:d=0.30' if last else ''
         fc.append(f"[{2*i+1}:a]asetpts=PTS-STARTPTS,{fi}anull{fo}[a{i}]")
