@@ -31,9 +31,19 @@ def build(words):
     return cues
 
 
+def two_lines(t, maxlen=42):
+    """Split a long block into two balanced lines (YouTube shows both)."""
+    if len(t) <= maxlen or " " not in t:
+        return t
+    mid = len(t) // 2
+    cut = min((i for i, ch in enumerate(t) if ch == " "), key=lambda i: abs(i - mid))
+    return t[:cut] + "\n" + t[cut + 1:]
+
+
 def write(cues, path):
     with open(path, "w", encoding="utf-8") as f:
         for k, (a, b, t) in enumerate(cues, 1):
+            t = two_lines(t)
             f.write(f"{k}\n{ts(a, srt=True)} --> {ts(b, srt=True)}\n{t}\n\n")
 
 
