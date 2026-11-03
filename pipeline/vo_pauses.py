@@ -8,7 +8,7 @@ Writes the new audio and words.json on the new timeline (our format: w/start/end
 Word timestamps from the TTS can be 0.3-0.5 s late: re-transcribe the result (Creative Claw `transcribe`)
 for exact timing before building the edit. Every cut gets a 10 ms fade (no clicks).
 
-usage: python3 -m pipeline.vo_pauses script.txt raw.mp3 raw-words.json OUT.mp3 OUT-words.json
+usage: python3 -m pipeline.vo_pauses script.txt raw.mp3 raw-words.json OUT.mp3 OUT-words.json [--drop-chapters --chapter 1.2]
        script.txt = the exact text sent to the TTS, paragraphs separated by a blank line.
        raw-words.json = Creative Claw result ({"words": [{text,startSeconds,endSeconds}]}) or our format.
 """
@@ -102,13 +102,15 @@ def paragraph_ends(paras, words):
     return ends
 
 
-def main(script, raw_audio, raw_words, out_audio, out_words, para=0.7, chapter=1.8):
+def main(script, raw_audio, raw_words, out_audio, out_words, para=0.7, chapter=1.8, drop_chapters=False):
+    """drop_chapters: cut the spoken chapter announcements ("Chapter one. ...") out of the audio and leave
+    one pause of `chapter` seconds in their place (videos without chapter cards, e.g. video 6)."""
     paras = [p.strip() for p in open(script).read().split("\n\n") if p.strip()]
     words = load_tts_words(raw_words)
     ends = paragraph_ends(paras, words)
     a = decode(raw_audio)
     is_ch = [bool(re.match(r"chapter \w+\.", p.lower())) for p in paras]
-    cuts = []  # (time, pause)
+    cuts = []  # (time, pause, last word index, paragraph index)
     for k in range(len(paras) - 1):
         e = ends[k]
         if e is None or e + 1 >= len(words):
@@ -117,17 +119,26 @@ def main(script, raw_audio, raw_words, out_audio, out_words, para=0.7, chapter=1
         t, run = quietest(a, words[e]["end"], words[e + 1]["start"])
         if run < 0.06:
             print(f"! weinig stilte na '{words[e]['w']}' ({run*1000:.0f} ms) rond {words[e]['end']:.2f}s")
-        cuts.append((t, pause, e))
-    pieces, last, shift, out = [], 0, 0.0, []
-    wi = 0
+        cuts.append((t, pause, e, k))
     F = int(0.01 * SR)
-    for t, pause, e in cuts:
+    pieces, out, shift, wi, last, dropped = [], [], 0.0, 0, 0.0, 0
+    i = 0
+    while i < len(cuts):
+        t, pause, e, k = cuts[i]
         pieces.append(fade(fade(a[int(last * SR):int(t * SR)], F, True), F if last else 0, False))
-        pieces.append(np.zeros(int(pause * SR), np.float32))
         while wi <= e:
             w = words[wi]; out.append({"w": w["w"], "start": round(w["start"] + shift, 3), "end": round(w["end"] + shift, 3)}); wi += 1
+        if drop_chapters and k + 1 < len(paras) and is_ch[k + 1] and i + 1 < len(cuts) and cuts[i + 1][3] == k + 1:
+            t2, _, e2, _ = cuts[i + 1]   # skip the announcement: audio t..t2 and its words
+            pieces.append(np.zeros(int(chapter * SR), np.float32))
+            dropped += e2 - wi + 1
+            wi = e2 + 1
+            shift += chapter - (t2 - t)
+            last = t2; i += 2
+            continue
+        pieces.append(np.zeros(int(pause * SR), np.float32))
         shift += pause
-        last = t
+        last = t; i += 1
     pieces.append(fade(a[int(last * SR):], F, False))
     while wi < len(words):
         w = words[wi]; out.append({"w": w["w"], "start": round(w["start"] + shift, 3), "end": round(w["end"] + shift, 3)}); wi += 1
@@ -139,9 +150,17 @@ def main(script, raw_audio, raw_words, out_audio, out_words, para=0.7, chapter=1
     os.unlink(tmp)
     save_json(out, out_words)
     missing = [k for k, e in enumerate(ends) if e is None]
-    print(f"{len(cuts)} pauses inserted (+{shift:.1f} s), {len(full)/SR:.1f} s total; paragraphs not found: {missing}")
+    print(f"{len(cuts)} cuts, {dropped} chapter words dropped, {len(full)/SR:.1f} s total; paragraphs not found: {missing}")
     return out
 
 
 if __name__ == "__main__":
-    main(*sys.argv[1:6])
+    import argparse
+    ap = argparse.ArgumentParser()
+    for n in ("script", "raw_audio", "raw_words", "out_audio", "out_words"):
+        ap.add_argument(n)
+    ap.add_argument("--para", type=float, default=0.7)
+    ap.add_argument("--chapter", type=float, default=1.8)
+    ap.add_argument("--drop-chapters", action="store_true", help="cut the spoken chapter announcements (no chapter cards)")
+    x = ap.parse_args()
+    main(x.script, x.raw_audio, x.raw_words, x.out_audio, x.out_words, x.para, x.chapter, x.drop_chapters)

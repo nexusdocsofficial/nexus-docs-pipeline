@@ -24,13 +24,16 @@ def save_json(obj, p):
 
 
 def load_words(p):
-    """Accept our own format, or a Creative Claw / ElevenLabs Scribe transcript (diarization json)."""
+    """Accept our own format, a Creative Claw TTS result (wordTimings: startSeconds/endSeconds),
+    or an ElevenLabs Scribe transcript (diarization json)."""
     d = load_json(p)
-    if isinstance(d, dict) and "words" in d:
-        d = [x for x in d["words"] if x.get("type", "word") == "word"]
+    if isinstance(d, dict):
+        d = d.get("words") or d.get("wordTimings") or []
+        d = [x for x in d if x.get("type", "word") == "word"]
     out = []
     for x in d:
-        out.append({"w": x.get("w", x.get("text")), "start": float(x["start"]), "end": float(x["end"])})
+        out.append({"w": x.get("w", x.get("text")), "start": float(x.get("start", x.get("startSeconds"))),
+                    "end": float(x.get("end", x.get("endSeconds")))})
     return out
 
 
