@@ -1,0 +1,1190 @@
+{
+ "rows": [
+  {
+   "n": "1",
+   "anchor": "In 2011, the most",
+   "type": "concept",
+   "beeld": "one big sparkling diamond on a pedestal with a huge golden price tag '$13 BILLION' hanging from it",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "2",
+   "anchor": "was valued at almost",
+   "type": "concept",
+   "beeld": "a giant stack of gold coins and bank notes towering over a small sparkling diamond, bold text '$13,000,000,000'",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "3",
+   "anchor": "This year, its owner",
+   "type": "scene",
+   "beeld": "a big modern office tower with a large 'FOR SALE' sign hanging on its front and a giant diamond logo on the roof; no people",
+   "era": "none@now",
+   "ref": []
+  },
+  {
+   "n": "4",
+   "anchor": "For about one billion",
+   "type": "concept",
+   "beeld": "the same golden price tag, but the '$13 BILLION' is crossed out in red and replaced by '$1 BILLION', a small diamond looking embarrassed",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "5",
+   "anchor": "For over a hundred",
+   "type": "concept",
+   "beeld": "one stickman businessman in a suit sitting on a giant pile of diamonds like a throne, a long queue of tiny stickmen holding out coins below him",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "6",
+   "anchor": "decided how many diamonds",
+   "type": "concept",
+   "beeld": "a big hand-drawn tap (faucet) with only one or two tiny diamonds dripping out of it, a stickman hand firmly holding the tap almost closed",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "7",
+   "anchor": "It helped turn a",
+   "type": "scene",
+   "beeld": "a modern stickman man down on one knee in a park holding up an open ring box with a sparkling diamond ring, a surprised happy stickman woman",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "8",
+   "anchor": "It even gave you",
+   "type": "concept",
+   "beeld": "a big speech bubble with only '. . .' inside it and a small sparkling diamond next to it, a curious stickman scratching his head",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "9",
+   "anchor": "But diamonds are not",
+   "type": "concept",
+   "beeld": "a huge mountain of sparkling diamonds, with a stickman standing at the top looking surprised, a parchment banner 'NOT SO RARE'",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "10",
+   "anchor": "as their price makes",
+   "type": "concept",
+   "beeld": "a tiny diamond on a scale balanced against a gigantic price tag, the price tag side pushing the scale all the way down",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "11",
+   "anchor": "And now, the world",
+   "type": "concept",
+   "beeld": "a crowd of modern stickmen pulling away a big red curtain, revealing a warehouse stacked full of diamonds; the stickmen look shocked",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "12",
+   "anchor": "So how did one",
+   "type": "concept",
+   "beeld": "a giant stickman hand holding a whole planet Earth that is wrapped in a ribbon with a diamond on top, like a present",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "13",
+   "anchor": "And what happens when",
+   "type": "concept",
+   "beeld": "a large sparkling diamond with a crack running through it, small pieces falling off, a big question mark next to it",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "14",
+   "anchor": "In 1867, a fifteen",
+   "type": "scene",
+   "beeld": "a dusty dry riverbank in South Africa in 1867 with thorny acacia trees, a 15-year-old stickman farm boy in a simple shirt and short trousers bending down to pick up a shiny pebble",
+   "era": "1867",
+   "ref": []
+  },
+  {
+   "n": "15",
+   "anchor": "picked up a shiny",
+   "type": "scene",
+   "beeld": "close-up of the stickman farm boy's open hand holding a small shiny white pebble that glints in the sun, a wide brown river behind",
+   "era": "1867",
+   "ref": [
+    "14"
+   ]
+  },
+  {
+   "n": "16",
+   "anchor": "It turned out to",
+   "type": "concept",
+   "beeld": "one big glittering yellowish rough diamond on a parchment background with a small label '21 CARATS'",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "17",
+   "anchor": "Within a few years",
+   "type": "scene",
+   "beeld": "hundreds of stickman diggers in 1870s work clothes (rolled-up shirts, braces, wide hats) with picks and shovels rushing across a dry plain with wheelbarrows, ox wagons and tents behind them, dust clouds",
+   "era": "the early 1870s",
+   "ref": []
+  },
+  {
+   "n": "18",
+   "anchor": "They dug so deep",
+   "type": "scene",
+   "beeld": "a giant deep round crater in the earth with tiny stickman diggers in 1870s work clothes (rolled-up shirts, braces, wide hats) with picks and shovels working on narrow ledges, ropes and buckets going up and down",
+   "era": "the 1870s",
+   "ref": []
+  },
+  {
+   "n": "19",
+   "anchor": "and a town grew",
+   "type": "scene",
+   "beeld": "a small dusty 1870s mining town of tin-roof shacks and tents around the edge of the giant crater, a wooden sign 'KIMBERLEY'; no people",
+   "era": "none@the 1870s",
+   "ref": []
+  },
+  {
+   "n": "20",
+   "anchor": "And that was the",
+   "type": "concept",
+   "beeld": "a 1870s stickman diamond buyer in a frock coat looking worried at a table covered in far too many diamonds",
+   "era": "the 1870s",
+   "ref": []
+  },
+  {
+   "n": "21",
+   "anchor": "There were suddenly so",
+   "type": "concept",
+   "beeld": "a hand-drawn price graph on parchment with a line falling down steeply, small diamond icons sliding down the line",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "22",
+   "anchor": "prices started to fall",
+   "type": "scene",
+   "beeld": "a 1870s market stall where a stickman seller in a waistcoat is lowering the price on a chalk board again and again, diamonds piled up unsold",
+   "era": "the 1870s",
+   "ref": []
+  },
+  {
+   "n": "23",
+   "anchor": "Two men saw the",
+   "type": "scene",
+   "beeld": "two stickmen standing at the edge of the giant crater looking at each other suspiciously: Cecil Rhodes as a tall stickman with light-brown hair, a big light-brown mustache, a cream-colored 1880s linen jacket, waistcoat and a wide-brimmed hat on the left and Barney Barnato as a short round stickman with round spectacles, a black curled mustache, a checked 1880s suit with waistcoat and a black bowler hat on the right",
+   "era": "the 1880s",
+   "ref": []
+  },
+  {
+   "n": "24",
+   "anchor": "Cecil Rhodes, a young",
+   "type": "scene",
+   "beeld": "Cecil Rhodes as a tall stickman with light-brown hair, a big light-brown mustache, a cream-colored 1880s linen jacket, waistcoat and a wide-brimmed hat arriving at a dusty camp with only a small battered suitcase, a parchment scroll banner 'CECIL RHODES'",
+   "era": "the early 1870s",
+   "ref": [
+    "23"
+   ]
+  },
+  {
+   "n": "25",
+   "anchor": "and Barney Barnato, a",
+   "type": "scene",
+   "beeld": "Barney Barnato as a short round stickman with round spectacles, a black curled mustache, a checked 1880s suit with waistcoat and a black bowler hat juggling three balls on a small Victorian music-hall stage with red curtains, a parchment scroll banner 'BARNEY BARNATO'",
+   "era": "the 1870s",
+   "ref": [
+    "23"
+   ]
+  },
+  {
+   "n": "26",
+   "anchor": "Both bought up mine",
+   "type": "kaart",
+   "beeld": "a hand-drawn map of the Kimberley diamond mines as many small square claims, half colored blue and half colored red, the colors spreading over the claims",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "27",
+   "anchor": "and both kept digging",
+   "type": "concept",
+   "beeld": "two big piles of diamonds pouring out of two mine buckets onto a market table that is overflowing, diamonds falling onto the ground",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "28",
+   "anchor": "In the end, Rhodes",
+   "type": "scene",
+   "beeld": "Cecil Rhodes as a tall stickman with light-brown hair, a big light-brown mustache, a cream-colored 1880s linen jacket, waistcoat and a wide-brimmed hat smiling and shaking hands with a reluctant Barney Barnato as a short round stickman with round spectacles, a black curled mustache, a checked 1880s suit with waistcoat and a black bowler hat across a wooden table in a Victorian office",
+   "era": "the late 1880s",
+   "ref": [
+    "23"
+   ]
+  },
+  {
+   "n": "29",
+   "anchor": "In 1888, he formed",
+   "type": "label",
+   "beeld": "an old Victorian office building with a big painted sign 'DE BEERS CONSOLIDATED MINES' and the year '1888'; no people",
+   "era": "none@1888",
+   "ref": []
+  },
+  {
+   "n": "30",
+   "anchor": "he bought out Barnato's",
+   "type": "concept",
+   "beeld": "a huge old Victorian paper cheque on parchment with elegant handwriting and the amount '£5,338,650', a quill pen next to it",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "31",
+   "anchor": "one of the largest",
+   "type": "concept",
+   "beeld": "Barney Barnato as a short round stickman with round spectacles, a black curled mustache, a checked 1880s suit with waistcoat and a black bowler hat holding the giant paper cheque with both arms, eyes wide with amazement",
+   "era": "the late 1880s",
+   "ref": [
+    "23"
+   ]
+  },
+  {
+   "n": "32",
+   "anchor": "Now one company owned",
+   "type": "kaart",
+   "beeld": "a map of South Africa on parchment with all the diamond mine icons around Kimberley colored in one single color, a small banner 'DE BEERS'",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "33",
+   "anchor": "and it had learned",
+   "type": "concept",
+   "beeld": "Cecil Rhodes as a tall stickman with light-brown hair, a big light-brown mustache, a cream-colored 1880s linen jacket, waistcoat and a wide-brimmed hat standing at a blackboard in a Victorian office, pointing at a big diamond drawn in chalk",
+   "era": "the late 1880s",
+   "ref": [
+    "23"
+   ]
+  },
+  {
+   "n": "34",
+   "anchor": "The danger isn't too",
+   "type": "concept",
+   "beeld": "a balance scale: on one side a small handful of diamonds with a green tick, on the other side a huge overflowing pile of diamonds with a big red cross",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "35",
+   "anchor": "it's too many",
+   "type": "concept",
+   "beeld": "a giant flood of diamonds pouring through a street like water, a small stickman standing on a box to stay out of it, worried",
+   "era": "the 1880s",
+   "ref": []
+  },
+  {
+   "n": "36",
+   "anchor": "Imagine a company that",
+   "type": "concept",
+   "beeld": "a small cheerful printing machine printing shiny trading cards that fly out in a stream, a stickman worker in a cap catching them",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "37",
+   "anchor": "It prints millions, but",
+   "type": "concept",
+   "beeld": "a big grey warehouse labelled 'WAREHOUSE' with huge doors, piled high inside with stacks of shiny trading cards; a small stickman guard in a cap at a tiny window letting out just a few cards",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "38",
+   "anchor": "and lets out only",
+   "type": "concept",
+   "beeld": "close-up of the tiny window of the grey warehouse: a stickman hand passing out just three shiny trading cards, a long line of eager stickman kids waiting outside",
+   "era": "now",
+   "ref": [
+    "37"
+   ]
+  },
+  {
+   "n": "39",
+   "anchor": "Every kid on the",
+   "type": "scene",
+   "beeld": "a school playground where stickman kids crowd around one boy holding a single shiny trading card, all amazed",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "40",
+   "anchor": "That's what De Beers",
+   "type": "concept",
+   "beeld": "the same grey warehouse, but now piled high with sparkling diamonds instead of cards, the stickman guard letting out only one diamond through the tiny window",
+   "era": "now",
+   "ref": [
+    "37"
+   ]
+  },
+  {
+   "n": "41",
+   "anchor": "In the 1890s, a",
+   "type": "scene",
+   "beeld": "a group of stickman diamond dealers in 1890s frock coats and top hats sitting at a long table in a dark wood-paneled London office, signing a document",
+   "era": "the 1890s",
+   "ref": []
+  },
+  {
+   "n": "42",
+   "anchor": "and to sell them",
+   "type": "concept",
+   "beeld": "an old hourglass with tiny diamonds falling through it instead of sand, one by one",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "43",
+   "anchor": "Later, De Beers built",
+   "type": "scene",
+   "beeld": "an imposing grey stone office building on a London street with a brass plate on the door, black taxis of the 1930s in front; no people",
+   "era": "none@the 1930s",
+   "ref": []
+  },
+  {
+   "n": "44",
+   "anchor": "Whenever someone discovered a",
+   "type": "kaart",
+   "beeld": "an old world map on parchment with small new mine icons popping up in different places in Africa, each with a dotted gold arrow leading to London",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "45",
+   "anchor": "De Beers tried to",
+   "type": "scene",
+   "beeld": "a stickman buyer in a 1950s suit handing a big bag of money to a mine owner in a hat, in exchange for a box of diamonds, a remote African mine in the background",
+   "era": "the 1950s",
+   "ref": []
+  },
+  {
+   "n": "46",
+   "anchor": "Whatever it couldn't sell",
+   "type": "scene",
+   "beeld": "a big old bank-style vault room filled with shelves of small paper parcels and boxes of sparkling diamonds, a heavy steel vault door swinging shut; no people",
+   "era": "none@the 1930s",
+   "ref": []
+  },
+  {
+   "n": "47",
+   "anchor": "Too many diamonds coming",
+   "type": "concept",
+   "beeld": "a chute pouring many diamonds into the open door of a vault, a green arrow pointing inside",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "48",
+   "anchor": "Prices falling? Sell less",
+   "type": "concept",
+   "beeld": "a small tap with the handle being turned almost closed, only one diamond drop coming out, next to a small price graph with a falling line",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "49",
+   "anchor": "Dealers were invited to",
+   "type": "scene",
+   "beeld": "stickman diamond dealers in 1950s suits with hats, holding invitation cards, walking up the steps of the grey stone London office building",
+   "era": "the 1950s",
+   "ref": [
+    "43"
+   ]
+  },
+  {
+   "n": "50",
+   "anchor": "Each got a box",
+   "type": "scene",
+   "beeld": "a stickman dealer in a 1950s suit sitting at a table opening a small plain cardboard box full of rough diamonds, a sheet with a price on it next to it",
+   "era": "the 1950s",
+   "ref": []
+  },
+  {
+   "n": "51",
+   "anchor": "You didn't haggle. If",
+   "type": "scene",
+   "beeld": "a stern stickman official in a 1950s suit pointing at the door while a disappointed stickman dealer walks out with an empty box",
+   "era": "the 1950s",
+   "ref": [
+    "50"
+   ]
+  },
+  {
+   "n": "52",
+   "anchor": "you might not be",
+   "type": "concept",
+   "beeld": "a closed door with a sign 'NO INVITATION' and an envelope lying on the floor torn in half",
+   "era": "the 1950s",
+   "ref": []
+  },
+  {
+   "n": "53",
+   "anchor": "By the late 1980s",
+   "type": "kaart",
+   "beeld": "a simple world map without internal borders: about 80 percent filled in with one solid dark blue color, very large bold white hand-lettered text '80%' with a thick black outline",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "54",
+   "anchor": "controlled nearly eighty percent",
+   "type": "concept",
+   "beeld": "a 1980s stickman official in a suit holding many strings attached to diamonds hanging over a world globe, like a puppeteer",
+   "era": "the 1980s",
+   "ref": []
+  },
+  {
+   "n": "55",
+   "anchor": "But controlling supply was",
+   "type": "concept",
+   "beeld": "a big jigsaw puzzle of a diamond with one piece missing, the half that is complete labelled 'SUPPLY'",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "56",
+   "anchor": "Someone still had to",
+   "type": "concept",
+   "beeld": "the last puzzle piece labelled 'DEMAND' with a heart drawn on it, held up by a stickman hand",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "57",
+   "anchor": "In 1938, diamonds were",
+   "type": "scene",
+   "beeld": "a small 1930s American jewelry shop with an empty window display and a 'SALE' sign, a bored stickman shopkeeper in a waistcoat behind the counter",
+   "era": "1938",
+   "ref": []
+  },
+  {
+   "n": "58",
+   "anchor": "The country was just",
+   "type": "scene",
+   "beeld": "a 1930s American street with a long line of worried stickmen in shabby coats and caps, an old car parked nearby",
+   "era": "the 1930s",
+   "ref": []
+  },
+  {
+   "n": "59",
+   "anchor": "and to many couples",
+   "type": "scene",
+   "beeld": "a young 1930s stickman couple looking at a diamond ring in a shop window, then at their nearly empty purse, shaking their heads",
+   "era": "the 1930s",
+   "ref": []
+  },
+  {
+   "n": "60",
+   "anchor": "So Harry Oppenheimer, the",
+   "type": "scene",
+   "beeld": "Harry Oppenheimer as a slim stickman with round glasses, slicked dark hair and a grey 1930s double-breasted suit walking out of a big ocean liner onto a busy New York pier with a briefcase, 1930s skyscrapers behind, a parchment scroll banner 'HARRY OPPENHEIMER'",
+   "era": "1938",
+   "ref": []
+  },
+  {
+   "n": "61",
+   "anchor": "hired an advertising agency",
+   "type": "scene",
+   "beeld": "Harry Oppenheimer as a slim stickman with round glasses, slicked dark hair and a grey 1930s double-breasted suit shaking hands with stickman advertising men in 1930s suits with wide lapels and fedora hats in a 1930s office with drawings and posters on the walls, a sign on the door 'N. W. AYER'",
+   "era": "1938",
+   "ref": [
+    "60"
+   ]
+  },
+  {
+   "n": "62",
+   "anchor": "Their plan wasn't to",
+   "type": "concept",
+   "beeld": "a diamond in the middle, on the left a small price tag crossed out, on the right a big red heart with a glowing arrow pointing to the diamond",
+   "era": "the 1930s",
+   "ref": []
+  },
+  {
+   "n": "63",
+   "anchor": "It was to sell",
+   "type": "concept",
+   "beeld": "a big red heart and a sparkling diamond ring joined by a plus sign and an equals sign leading to a happy 1930s wedding couple",
+   "era": "the 1930s",
+   "ref": []
+  },
+  {
+   "n": "64",
+   "anchor": "They put diamonds on",
+   "type": "scene",
+   "beeld": "a 1940s movie star stickwoman in a glamorous evening gown wearing sparkling diamonds on a red carpet, flashing cameras of the period, a 1940s magazine cover with a diamond ring pinned on a board behind",
+   "era": "the early 1940s",
+   "ref": []
+  },
+  {
+   "n": "65",
+   "anchor": "They sent speakers to",
+   "type": "scene",
+   "beeld": "a 1940s school classroom with wooden desks, a stickman speaker in a 1940s suit pointing at a big drawing of a diamond ring on the blackboard, stickman students listening",
+   "era": "the 1940s",
+   "ref": []
+  },
+  {
+   "n": "66",
+   "anchor": "Then, in 1947, a",
+   "type": "scene",
+   "beeld": "Frances Gerety as a stickman woman with short curled 1940s hair, a white blouse and a dark pencil skirt at a desk in a 1940s office late at night, typing on a black typewriter by the light of a desk lamp, crumpled paper balls around her",
+   "era": "1947",
+   "ref": []
+  },
+  {
+   "n": "67",
+   "anchor": "wrote four words: A",
+   "type": "concept",
+   "beeld": "a sheet of paper in an old typewriter with the typed text 'A DIAMOND IS FOREVER', a sparkling diamond next to it",
+   "era": "none@1947",
+   "ref": []
+  },
+  {
+   "n": "68",
+   "anchor": "Half a century later",
+   "type": "concept",
+   "beeld": "a shiny gold trophy cup with a diamond on top and a parchment banner 'SLOGAN OF THE CENTURY'",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "69",
+   "anchor": "named it the best",
+   "type": "scene",
+   "beeld": "a 1999 award ceremony stage with a big golden trophy and a screen showing 'A DIAMOND IS FOREVER', stickmen in suits clapping",
+   "era": "1999",
+   "ref": []
+  },
+  {
+   "n": "70",
+   "anchor": "And forever did a",
+   "type": "concept",
+   "beeld": "a sparkling diamond ring inside a glass case with a lock, a small sign 'KEEP FOREVER'",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "71",
+   "anchor": "If a diamond is",
+   "type": "scene",
+   "beeld": "an older stickman grandmother in a 1960s dress proudly showing her old diamond ring to her granddaughter at a kitchen table",
+   "era": "the 1960s",
+   "ref": []
+  },
+  {
+   "n": "72",
+   "anchor": "and if nobody sells",
+   "type": "concept",
+   "beeld": "an empty second-hand market stall with a sign 'USED DIAMONDS' and cobwebs, no buyers or sellers; no people",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "73",
+   "anchor": "they never come back",
+   "type": "concept",
+   "beeld": "a diamond ring locked safely in a jewelry box in a drawer, and next to it a jewelry shop window where a new diamond shines alone without competition",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "74",
+   "anchor": "Later ads even told",
+   "type": "concept",
+   "beeld": "a 1970s stickman man looking at a calendar with one whole month circled in red, next to a pay envelope and a diamond ring",
+   "era": "the 1970s",
+   "ref": []
+  },
+  {
+   "n": "75",
+   "anchor": "about one month's salary",
+   "type": "concept",
+   "beeld": "a 1970s pay envelope with '1 MONTH' written on it, being swapped for a small ring box",
+   "era": "the 1970s",
+   "ref": []
+  },
+  {
+   "n": "76",
+   "anchor": "It worked far beyond",
+   "type": "kaart",
+   "beeld": "a world map on parchment with small sparkling diamond icons spreading out from America across the ocean towards Asia, golden arrows",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "77",
+   "anchor": "In Japan in 1967",
+   "type": "concept",
+   "beeld": "20 small stickman brides in white Japanese wedding kimonos standing in a row, only one of them holds a sparkling diamond ring, bold text '1 IN 20 (1967)'",
+   "era": "1967",
+   "ref": []
+  },
+  {
+   "n": "78",
+   "anchor": "fewer than one in",
+   "type": "scene",
+   "beeld": "a traditional Japanese wedding in 1967: stickman bride in a white kimono and groom in a black kimono, simple, no ring",
+   "era": "1967",
+   "ref": []
+  },
+  {
+   "n": "79",
+   "anchor": "By 1981, it was",
+   "type": "concept",
+   "beeld": "10 small stickman brides in white wedding dresses and kimonos standing in a row, six of them hold sparkling diamond rings, bold text '6 IN 10 (1981)'",
+   "era": "1981",
+   "ref": [
+    "77"
+   ]
+  },
+  {
+   "n": "80",
+   "anchor": "The warehouse kept the",
+   "type": "concept",
+   "beeld": "a big grey warehouse labelled 'WAREHOUSE' with huge doors, piled high inside with stacks of shiny trading cards; a small stickman guard in a cap at a tiny window letting out just a few cards",
+   "era": "now",
+   "ref": [
+    "37"
+   ]
+  },
+  {
+   "n": "81",
+   "anchor": "The ads made everyone",
+   "type": "concept",
+   "beeld": "a big crowd of stickmen of all ages reaching out their hands towards one shiny trading card hanging from a hook",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "82",
+   "anchor": "But a warehouse only",
+   "type": "concept",
+   "beeld": "a printing machine in a different building printing its own trading cards, and a stream of cards flowing past the grey warehouse that cannot catch them all",
+   "era": "now",
+   "ref": [
+    "37"
+   ]
+  },
+  {
+   "n": "83",
+   "anchor": "every new card that's",
+   "type": "concept",
+   "beeld": "many new printing machines popping up around the grey warehouse, each printing its own trading cards, the guard looking around nervously",
+   "era": "now",
+   "ref": [
+    "37"
+   ]
+  },
+  {
+   "n": "84",
+   "anchor": "In the 1980s and",
+   "type": "kaart",
+   "beeld": "a world map on parchment with new diamond mine icons appearing in red outside southern Africa, each with a small crack symbol",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "85",
+   "anchor": "big new mines opened",
+   "type": "concept",
+   "beeld": "the diamond tap from before now has several new taps added next to it, all pouring diamonds freely; a stickman hand only holds the old one",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "86",
+   "anchor": "In Australia, the Argyle",
+   "type": "scene",
+   "beeld": "a huge open-pit mine in red desert hills in the Australian outback, big yellow 1980s mining trucks on the terraces; no people",
+   "era": "none@the 1980s",
+   "ref": []
+  },
+  {
+   "n": "87",
+   "anchor": "Then in Canada, in",
+   "type": "scene",
+   "beeld": "a diamond mine in the frozen far north of Canada with snow, a frozen lake and mine buildings, a small plane on an ice runway; no people",
+   "era": "none@the late 1990s",
+   "ref": []
+  },
+  {
+   "n": "88",
+   "anchor": "Russia's diamond company kept",
+   "type": "scene",
+   "beeld": "two stickman businessmen in 2000s suits shaking hands, one with a Russian flag pin and one with a diamond pin, then a document torn in half between them, the year '2009'",
+   "era": "2009",
+   "ref": []
+  },
+  {
+   "n": "89",
+   "anchor": "but in 2009, it",
+   "type": "concept",
+   "beeld": "a parchment timeline with a glowing red arrow pointing to the year '2009' and a torn contract icon",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "90",
+   "anchor": "Keeping prices high meant",
+   "type": "concept",
+   "beeld": "a big old bank-style vault room filled with shelves of small paper parcels and boxes of sparkling diamonds with diamonds overflowing, the shelves bending under the weight",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "91",
+   "anchor": "By the end of",
+   "type": "concept",
+   "beeld": "a giant pile of small diamond parcels reaching to the ceiling of a vault, a tiny stickman guard looking up at it in worry",
+   "era": "the 1990s",
+   "ref": []
+  },
+  {
+   "n": "92",
+   "anchor": "held a stockpile worth",
+   "type": "concept",
+   "beeld": "a huge mountain of small diamond parcels with a large price tag 'BILLIONS' stuck on top",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "93",
+   "anchor": "So around 2000, it",
+   "type": "concept",
+   "beeld": "a road sign with a big arrow turning around (U-turn), a small diamond icon on the sign",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "94",
+   "anchor": "It sold off much",
+   "type": "scene",
+   "beeld": "stickman workers in 2000s clothes carrying boxes of diamonds out of the open vault onto trucks",
+   "era": "2000",
+   "ref": []
+  },
+  {
+   "n": "95",
+   "anchor": "Its share of world",
+   "type": "concept",
+   "beeld": "a pie chart drawn on parchment that is shrinking: the dark blue De Beers slice getting smaller, bold text 'UNDER 60%'",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "96",
+   "anchor": "and kept falling",
+   "type": "concept",
+   "beeld": "a hand-drawn line graph falling step by step from '90%' through '60%' down towards '35%'",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "97",
+   "anchor": "The warehouse doors were",
+   "type": "concept",
+   "beeld": "the grey warehouse with its huge doors wide open, trading cards blowing out in the wind",
+   "era": "now",
+   "ref": [
+    "37"
+   ]
+  },
+  {
+   "n": "98",
+   "anchor": "And then came the",
+   "type": "scene",
+   "beeld": "a modern clean factory building with a tall chimney and a big glowing diamond sign on the roof, at night; no people",
+   "era": "none@now",
+   "ref": []
+  },
+  {
+   "n": "99",
+   "anchor": "Scientists had learned to",
+   "type": "scene",
+   "beeld": "a modern laboratory with a stickman scientist in a white coat and safety glasses looking at a glowing machine where a diamond is growing inside a glass chamber",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "100",
+   "anchor": "real diamonds, made of",
+   "type": "concept",
+   "beeld": "two identical sparkling diamonds side by side on a white background, one labelled 'MINE' and one labelled 'LAB', with an equals sign between them",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "101",
+   "anchor": "Even experts need a",
+   "type": "scene",
+   "beeld": "a modern stickman jeweler with a magnifying loupe in his eye, puzzled, holding two identical diamonds, a special grey testing machine on the table",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "102",
+   "anchor": "At first, De Beers",
+   "type": "concept",
+   "beeld": "a stickman in a modern suit pointing at a lab diamond with a big warning sign and a red exclamation mark",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "103",
+   "anchor": "Then, in 2018, it",
+   "type": "scene",
+   "beeld": "a modern bright jewelry shop with pink and blue lab diamond jewelry in the window and a sign 'LIGHTBOX'; no people",
+   "era": "none@2018",
+   "ref": []
+  },
+  {
+   "n": "104",
+   "anchor": "at eight hundred dollars",
+   "type": "concept",
+   "beeld": "a sparkling lab diamond with a small price tag '$800 / CARAT' next to a natural diamond with a much bigger price tag with many zeros",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "105",
+   "anchor": "That was a fraction",
+   "type": "concept",
+   "beeld": "a big natural diamond price tag with many zeros next to a tiny lab diamond price tag, a stickman jaw dropping",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "106",
+   "anchor": "In other words, De",
+   "type": "concept",
+   "beeld": "a friendly modern stickman narrator in a blue hoodie and jeans lifting a corner of a big curtain, revealing a small price tag behind it, looking surprised",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "107",
+   "anchor": "what a diamond costs",
+   "type": "concept",
+   "beeld": "a diamond on a plain table with a simple small price tag, no warehouse behind it, bright light",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "108",
+   "anchor": "Lab diamond prices kept",
+   "type": "concept",
+   "beeld": "a hand-drawn price graph with a line diving steeply down, small lab diamond icons sliding along it, bold text '-74%'",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "109",
+   "anchor": "Between twenty twenty and",
+   "type": "concept",
+   "beeld": "a lab diamond price tag shrinking in four steps labelled '2020', '2022', '2023', '2024', each smaller than the last",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "110",
+   "anchor": "lost about three-quarters of",
+   "type": "concept",
+   "beeld": "a sparkling lab diamond with three quarters of it faded out, bold text '-74%'",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "111",
+   "anchor": "and couples noticed. In",
+   "type": "scene",
+   "beeld": "a young modern stickman couple (a man in a casual shirt and a woman with a ponytail) at a modern jewelry counter, comparing two rings in a shop, the woman pointing happily at the lab-diamond ring",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "112",
+   "anchor": "most American couples who",
+   "type": "concept",
+   "beeld": "a simple ring made of 10 small couple icons; 6 of them highlighted in light blue, bold text '61% LAB-GROWN'",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "113",
+   "anchor": "chose a lab-grown diamond",
+   "type": "scene",
+   "beeld": "a modern wedding ceremony with a happy stickman couple exchanging rings, a sparkling diamond on the bride's ring",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "114",
+   "anchor": "The trading cards weren't",
+   "type": "concept",
+   "beeld": "hundreds of trading cards spilling out of many small home printers, a stickman kid shrugging at a big pile of identical cards",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "115",
+   "anchor": "Now, the old diamonds",
+   "type": "concept",
+   "beeld": "a sparkling natural diamond sitting on a staircase made of price tags, going down step by step",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "116",
+   "anchor": "A typical one-carat natural",
+   "type": "concept",
+   "beeld": "a one-carat natural diamond with a price tag where '$6,000' is crossed out and '$4,200' is written below, bold red text '-30%'",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "117",
+   "anchor": "lost about thirty percent",
+   "type": "concept",
+   "beeld": "a hand-drawn price graph for natural diamonds falling from '2021' to '2025', a small diamond icon sliding down the line",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "118",
+   "anchor": "and De Beers' own",
+   "type": "concept",
+   "beeld": "a pile of rough uncut diamonds on a table with a red arrow pointing down and the text '-25% (2025)'",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "119",
+   "anchor": "De Beers closed Lightbox",
+   "type": "scene",
+   "beeld": "the modern lab-diamond shop 'LIGHTBOX' with its lights off, shutters down and a sign 'CLOSED'; no people",
+   "era": "none@now",
+   "ref": [
+    "103"
+   ]
+  },
+  {
+   "n": "120",
+   "anchor": "It says it now",
+   "type": "concept",
+   "beeld": "a natural rough diamond on a pedestal under a spotlight with a small green leaf next to it, the rest of the stage dark",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "121",
+   "anchor": "and it has paused",
+   "type": "scene",
+   "beeld": "a huge open-pit diamond mine in South Africa with big yellow mining trucks parked and still, a gate with a sign 'PAUSED'; no people",
+   "era": "none@now",
+   "ref": []
+  },
+  {
+   "n": "122",
+   "anchor": "for about two years",
+   "type": "concept",
+   "beeld": "a big pause symbol made of two tall rock pillars in front of a quiet mine, a calendar showing '2 YEARS'",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "123",
+   "anchor": "Its owner, the mining",
+   "type": "scene",
+   "beeld": "a big modern glass office tower with a sign 'ANGLO AMERICAN' in front, a giant diamond inside the glass lobby; no people",
+   "era": "none@now",
+   "ref": []
+  },
+  {
+   "n": "124",
+   "anchor": "took control in twenty",
+   "type": "concept",
+   "beeld": "a large golden price tag '$13 BILLION (2011)' hanging from a big diamond",
+   "era": "now",
+   "ref": [
+    "1"
+   ]
+  },
+  {
+   "n": "125",
+   "anchor": "valued De Beers at",
+   "type": "scene",
+   "beeld": "two modern stickman businessmen in suits shaking hands over a table with a big diamond on it, a calendar showing '2011'",
+   "era": "2011",
+   "ref": []
+  },
+  {
+   "n": "126",
+   "anchor": "In twenty twenty-four, Anglo",
+   "type": "scene",
+   "beeld": "the diamond company building with a big 'FOR SALE' sign being hung on its front by a modern stickman worker on a ladder",
+   "era": "now",
+   "ref": [
+    "3"
+   ]
+  },
+  {
+   "n": "127",
+   "anchor": "By the end of",
+   "type": "concept",
+   "beeld": "the golden price tag shrinking: '$13 BILLION' crossed out and '$2.3 BILLION' written smaller below",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "128",
+   "anchor": "And in July twenty",
+   "type": "scene",
+   "beeld": "a group of modern stickman businessmen in suits around a meeting table with a diamond in the middle and documents, one of them older and leading the talk",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "129",
+   "anchor": "for about one billion",
+   "type": "concept",
+   "beeld": "the price tag now very small with '$1 BILLION' on it, next to the old crossed-out '$13 BILLION' tag",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "130",
+   "anchor": "One country is watching",
+   "type": "kaart",
+   "beeld": "a map of southern Africa on parchment with Botswana highlighted in light blue and a red pin, label 'BOTSWANA'",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "131",
+   "anchor": "Most of De Beers'",
+   "type": "scene",
+   "beeld": "a big open-pit diamond mine in Botswana's dry savanna with mining trucks working, the flag of Botswana (light blue with a black stripe bordered in white) on a pole; no people",
+   "era": "none@now",
+   "ref": []
+  },
+  {
+   "n": "132",
+   "anchor": "and diamonds pay a",
+   "type": "concept",
+   "beeld": "a big diamond carrying a heavy pile of coins and bills on its back, a small Botswana flag (light blue with a black stripe bordered in white) on top",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "133",
+   "anchor": "Botswana already owns part",
+   "type": "concept",
+   "beeld": "a pie chart shaped like a diamond with a small 15% slice in light blue, a stickman hand from the side reaching for a bigger slice",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "134",
+   "anchor": "and it has the",
+   "type": "scene",
+   "beeld": "a stickman official in a modern suit with a small Botswana flag pin stepping forward through a door with a determined face",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "135",
+   "anchor": "So what does this",
+   "type": "scene",
+   "beeld": "a young modern stickman couple (a man in a casual shirt and a woman with a ponytail) at home on a sofa, the woman looking thoughtfully at the diamond ring on her finger",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "136",
+   "anchor": "A diamond can still",
+   "type": "scene",
+   "beeld": "a young modern stickman couple (a man in a casual shirt and a woman with a ponytail) laughing together at their wedding, the ring sparkling in warm light",
+   "era": "now",
+   "ref": [
+    "135"
+   ]
+  },
+  {
+   "n": "137",
+   "anchor": "but try selling one",
+   "type": "scene",
+   "beeld": "a modern stickman at a pawn shop counter holding out a diamond ring, the shopkeeper offering only a few small banknotes; the stickman looks shocked",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "138",
+   "anchor": "only a part of",
+   "type": "concept",
+   "beeld": "a diamond ring price tag torn in two: the larger piece labelled 'WHAT YOU PAID', the small piece labelled 'WHAT YOU GET'",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "139",
+   "anchor": "For more than a",
+   "type": "scene",
+   "beeld": "a long timeline of history in one image: 1870s diggers at the crater on the left, a 1940s couple in the middle, a modern couple on the right, all looking at diamonds",
+   "era": "three periods side by side (1870s, 1940s and today), each group dressed for its own time",
+   "ref": []
+  },
+  {
+   "n": "140",
+   "anchor": "and that a diamond",
+   "type": "concept",
+   "beeld": "the old typewriter sheet with the text 'A DIAMOND IS FOREVER' glowing softly",
+   "era": "none@1947",
+   "ref": [
+    "67"
+   ]
+  },
+  {
+   "n": "141",
+   "anchor": "The company may not",
+   "type": "concept",
+   "beeld": "the big diamond company office tower fading away into dust, while a sparkling diamond ring in front stays bright",
+   "era": "now",
+   "ref": []
+  },
+  {
+   "n": "142",
+   "anchor": "But the idea might",
+   "type": "concept",
+   "beeld": "a sparkling diamond ring glowing softly on its own, the word 'FOREVER' faintly written behind it",
+   "era": "none",
+   "ref": []
+  },
+  {
+   "n": "O",
+   "anchor": "If you enjoyed this",
+   "type": "outro",
+   "beeld": "vaste outro (detective-mascotte, NEXUS DOCS, subscribe) + outro-jingle",
+   "era": "none",
+   "ref": []
+  }
+ ]
+}
