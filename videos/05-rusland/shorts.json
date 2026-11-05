@@ -1,0 +1,10 @@
+{
+ "src": "/home/claude/work/src/final05.mp4",
+ "words": "/home/claude/work/diar05.json",
+ "out": "/home/claude/work/shorts05",
+ "shorts": {
+  "A": {"file": "05-short-A-every-door", "title": ["EVERY DOOR IS", "FROZEN OR BLOCKED"], "parts": [["s1", "s2", null, 0, 16.9], ["s13", "s16", 75.87, 0.05, 94.2]]},
+  "B": {"file": "05-short-B-murmansk", "title": ["THE ARCTIC PORT", "THAT NEVER FREEZES"], "parts": [["s54", "s60", 293.3, 0, 335.85]]},
+  "C": {"file": "05-short-C-tsushima", "title": ["18,000 MILES TO LOSE", "IN ONE BATTLE"], "parts": [["s43", "s50", 228.27, 0.08, 275.25]]}
+ }
+}
