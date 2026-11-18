@@ -1,0 +1,86 @@
+{
+ "name": "06",
+ "ids": {
+  "timeline": "A5E96595-A3AC-47BC-A151-F343EF34B587",
+  "project": "04186BB7-5613-4F36-A093-243BA61264ED",
+  "meta": "31161428-F1CB-40DE-BD3B-75B79490F43B"
+ },
+ "img_root": "/mnt/user-data/uploads/flow-mcp-out",
+ "files": "beeld-bestanden.json",
+ "prompts": "prompts.json",
+ "words": "words.json",
+ "vo": "/home/claude/work/up06/06-vo.mp3",
+ "lib": "/mnt/user-data/uploads/flow-mcp-out/NexusDocs-bibliotheek",
+ "outro": "/mnt/user-data/uploads/flow-mcp-out/04-Zeldzaam/capcut/outro.mp4",
+ "outro_len": 8.0,
+ "out": "/home/claude/work/build06",
+ "mac_dir": "/Users/thijsduiker/flow-mcp-out/06-DeBeers/capcut",
+ "chapters": [],
+ "music": [
+  [
+   "1",
+   "06-intrigue",
+   6,
+   -22
+  ],
+  [
+   "14",
+   "01-curious-beginnings",
+   0,
+   -24
+  ],
+  [
+   "23",
+   "04-rising-tension",
+   0,
+   -24
+  ],
+  [
+   "36",
+   "03-hidden-story",
+   0,
+   -25
+  ],
+  [
+   "57",
+   "01-curious-beginnings",
+   40,
+   -25
+  ],
+  [
+   "84",
+   "04-rising-tension",
+   30,
+   -24
+  ],
+  [
+   "98",
+   "06-intrigue",
+   40,
+   -25
+  ],
+  [
+   "115",
+   "10-turning-tide",
+   0,
+   -25
+  ],
+  [
+   "135",
+   "05-looking-back",
+   0,
+   -26
+  ]
+ ],
+ "ambience": [],
+ "whoosh": {
+  "src": "/mnt/user-data/uploads/flow-mcp-out/NexusDocs-bibliotheek/sfx/whoosh-low.wav",
+  "rows": [
+   "32",
+   "98",
+   "115"
+  ]
+ },
+ "zoom": {},
+ "music_crossfade": 6.0
+}
