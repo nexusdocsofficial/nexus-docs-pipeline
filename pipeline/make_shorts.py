@@ -168,11 +168,29 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
     print(sid, cfg['file'], f'{total:.1f}s', len(chunks), 'caption chunks')
 
 
+def words_to_scribe(ws):
+    """Convert [{w,start,end}] into {words, sentences:[{id:'sN',start,end,text}]} (split on . ? !)."""
+    words, sents, cur = [], [], []
+    for x in ws:
+        t = x.get("w", x.get("text", ""))
+        words.append({"text": t, "start": x["start"], "end": x["end"], "type": "word"})
+        cur.append(words[-1])
+        if t.rstrip("\"'\u201d\u2019)").endswith((".", "?", "!")):
+            sents.append(cur); cur = []
+    if cur:
+        sents.append(cur)
+    return {"words": words, "sentences": [
+        {"id": f"s{i}", "start": c[0]["start"], "end": c[-1]["end"], "text": " ".join(w["text"] for w in c)}
+        for i, c in enumerate(sents, 1)]}
+
+
 def load_config(path):
     global SRC, W, SENT, OUT, SHORTS
     cfg = json.load(open(path))
     SRC, OUT, SHORTS = cfg["src"], cfg["out"], cfg["shorts"]
     d = json.load(open(cfg["words"]))
+    if isinstance(d, list):  # pipeline words.json [{w,start,end}] -> Scribe-style dict
+        d = words_to_scribe(d)
     W = [w for w in d["words"] if w.get("type", "word") == "word"]
     for w in W:
         w.setdefault("text", w.get("w"))

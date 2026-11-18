@@ -1,0 +1,10 @@
+{
+ "src": "/home/claude/work/06-final.mp4",
+ "words": "videos/06-de-beers/words.json",
+ "out": "/home/claude/work/shorts06",
+ "shorts": {
+  "A": {"file": "06-short-A-warehouse", "title": ["THE WAREHOUSE THAT", "MADE DIAMONDS RARE"], "parts": [["s21", "s36"]]},
+  "B": {"file": "06-short-B-forever", "title": ["FOUR WORDS THAT", "SOLD EVERY DIAMOND"], "parts": [["s40", "s41"], ["s45", "s52"]]},
+  "C": {"file": "06-short-C-lab", "title": ["DE BEERS REVEALED", "WHAT A DIAMOND COSTS"], "parts": [["s70", "s72"], ["s74", "s76"], ["s78", "s81"]]}
+ }
+}
